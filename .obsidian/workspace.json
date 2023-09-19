@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "d6cdae5735b76d0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b3240bdf9af0dc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6bfef633c4124b0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e38841062d84cb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b32d8ac8bf3dde08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cb629718e2a6343",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d3891ff05578156",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#이렇게",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f802c0b9a7a6738",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "20b406486d633f32",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b28c7287d3af96f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5f66d1b60082188",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b8678772e99d3f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5bb1e4986c50a634",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c3fa2a1140b1ac5e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "자바/함수.md"
+              }
+            }
+          },
+          {
+            "id": "19dddf8b41843239",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 374.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "dbfolder:Create a new database table": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "9cb629718e2a6343",
+  "lastOpenFiles": [
+    "회사/2023-09-18.md",
+    "회사",
+    "자바/함수.md",
+    "자바/자바.md",
+    "자바",
+    "옵시디언 사용법/옵시디언 사용법.md",
+    "옵시디언 사용법/마크다운 사용.md",
+    "옵시디언 사용법",
+    "Attached file/Pasted image 20230919095420.png",
+    "Attached file/Pasted image 20230918160241.png",
+    "Attached file/Pasted image 20230918145821.png",
+    "Attached file/Pasted image 20230918153644.png",
+    "Attached file/Pasted image 20230918140941.png",
+    "Attached file/Pasted image 20230918110651.png",
+    "Attached file/Pasted image 20230918110020.png",
+    "Attached file/Pasted image 20230918110305.png",
+    "Attached file",
+    "4. Yealry/2023.md",
+    "4. Yealry",
+    "3. Monthly",
+    "2. Weekly/2023-W38.md",
+    "2. Weekly",
+    "1. Daily/2023-09-18.md",
+    "1. Daily"
+  ]
+}

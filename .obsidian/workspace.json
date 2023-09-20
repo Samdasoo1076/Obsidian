@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7e4f9467d091c4df",
+        "id": "7644726608be44af",
         "type": "tabs",
         "children": [
           {
-            "id": "04230c573e327470",
+            "id": "b84d381469acb2e5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Attached file/Pasted image 20230920111035.png"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Attached file/Pasted image 20230920111035.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Attached file/Pasted image 20230920111035.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Attached file/Pasted image 20230920111035.png"
+              }
             }
           },
           {
@@ -151,11 +157,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "04230c573e327470",
+  "active": "9cb629718e2a6343",
   "lastOpenFiles": [
-    "회사",
+    "Attached file/Pasted image 20230920163630.png",
+    "Attached file/Pasted image 20230920163608.png",
+    "Attached file/Pasted image 20230920114020.png",
+    "Attached file/Pasted image 20230920111035.png",
+    "Attached file/Pasted image 20230918110020.png",
+    "1. Daily/2023-09-20.md",
+    "Attached file/Pasted image 20230920113121.png",
     "자바/함수.md",
     "자바/자바.md",
+    "회사",
     "자바",
     "옵시디언 사용법/옵시디언 사용법.md",
     "옵시디언 사용법/마크다운 사용.md",
@@ -166,17 +179,12 @@
     "Attached file/Pasted image 20230918160241.png",
     "Attached file/Pasted image 20230918153644.png",
     "Attached file/Pasted image 20230918145821.png",
-    "Attached file/Pasted image 20230918140941.png",
-    "Attached file/Pasted image 20230918110651.png",
-    "Attached file/Pasted image 20230918110305.png",
-    "Attached file/Pasted image 20230918110020.png",
     "Attached file",
     "4. Yealry/2023.md",
     "4. Yealry",
     "3. Monthly",
     "2. Weekly/2023-W38.md",
     "2. Weekly",
-    "1. Daily/2023-09-20.md",
     "1. Daily/2023-09-19.md",
     "1. Daily/2023-09-18.md",
     "1. Daily",

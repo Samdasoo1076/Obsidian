@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-09-22.md",
+                "file": "1. Daily/2023-09-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,14 +32,19 @@
             }
           },
           {
-            "id": "bd84724e35ae042f",
+            "id": "c3f3ecdb443a86f5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily/2023-09-25.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-09-22.md",
+                "file": "1. Daily/2023-09-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-09-22.md",
+                "file": "1. Daily/2023-09-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-09-22.md"
+                "file": "1. Daily/2023-09-25.md"
               }
             }
           },
@@ -178,12 +183,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b4f4882fab9a13d7",
+  "active": "c3f3ecdb443a86f5",
   "lastOpenFiles": [
+    "Attached file/Pasted image 20230925164743.png",
+    "1. Daily/2023-09-25.md",
+    "1. Daily/2023-09-22.md",
+    "Attached file/Pasted image 20230925112335.png",
+    "자바/Array/함수/copyOfrange.md",
     "Attached file/Pasted image 20230922140305.png",
     "자바/String/함수/Contains.md",
     "자바/String/함수/REPLACE.md",
-    "1. Daily/2023-09-22.md",
     "Attached file/Pasted image 20230922100228.png",
     "Attached file/Pasted image 20230922095854.png",
     "Attached file/Pasted image 20230922095840.png",
@@ -198,7 +207,6 @@
     "Attached file/Pasted image 20230921105757.png",
     "자바/Int/함수/Integer/parseInt.md",
     "Attached file/Pasted image 20230921103904.png",
-    "Attached file/Pasted image 20230921103853.png",
     "자바/Int/함수/Integer/toBinaryString.md",
     "자바/Int/함수/BigInteger.md",
     "자바/Int/함수/Integer",
@@ -212,8 +220,6 @@
     "자바/Float/함수",
     "자바/Char/함수",
     "자바/Array/함수",
-    "Attached file/Pasted image 20230921102456.png",
-    "자바/Array/함수/copyOfrange.md",
     "자바/Int",
     "자바/Char/함수/CharAt.md",
     "자바/Array",
@@ -225,7 +231,6 @@
     "4. Yealry/2023.md",
     "Excalidraw/Drawing 2023-09-19 15.48.03.excalidraw.md",
     "2023-09-19.md",
-    "무제 파일.canvas",
-    "회사/2023-09-18.md"
+    "무제 파일.canvas"
   ]
 }

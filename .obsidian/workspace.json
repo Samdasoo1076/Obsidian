@@ -1,64 +1,39 @@
 {
   "main": {
-    "id": "d6cdae5735b76d0e",
+    "id": "45276405afb48e59",
     "type": "split",
     "children": [
       {
-        "id": "7644726608be44af",
+        "id": "919e6d23015cf281",
         "type": "tabs",
         "children": [
           {
-            "id": "b4f4882fab9a13d7",
+            "id": "92f53787cba2c748",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-09-25.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "398149f6661cc68a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "자바/함수.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3f3ecdb443a86f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Daily/2023-09-25.md",
+                "file": "1. Daily/2023-09-26.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1e38841062d84cb4",
+    "id": "2f9bb75422080601",
     "type": "split",
     "children": [
       {
-        "id": "b32d8ac8bf3dde08",
+        "id": "ff595bb72ce214f7",
         "type": "tabs",
         "children": [
           {
-            "id": "9cb629718e2a6343",
+            "id": "7d2b3d80d59c46ae",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,12 +43,12 @@
             }
           },
           {
-            "id": "8d3891ff05578156",
+            "id": "185a43a271d85fa0",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#이렇게",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +58,7 @@
             }
           },
           {
-            "id": "1f802c0b9a7a6738",
+            "id": "006ac10b83c73b82",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "20b406486d633f32",
+    "id": "0d382cb1c34bf15f",
     "type": "split",
     "children": [
       {
-        "id": "6b28c7287d3af96f",
+        "id": "0a81cd483d5c5e46",
         "type": "tabs",
         "children": [
           {
-            "id": "c5f66d1b60082188",
+            "id": "c6fb9af9107b7399",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-09-25.md",
+                "file": "1. Daily/2023-09-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +97,7 @@
             }
           },
           {
-            "id": "8b8678772e99d3f8",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "1. Daily/2023-09-25.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "5bb1e4986c50a634",
+            "id": "f51e2fce0938cf83",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,17 +108,29 @@
             }
           },
           {
-            "id": "c3fa2a1140b1ac5e",
+            "id": "2c5bae60abc62b53",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-09-25.md"
+                "file": "1. Daily/2023-09-26.md"
               }
             }
           },
           {
-            "id": "19dddf8b41843239",
+            "id": "223692d4e4534ce6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Daily/2023-09-26.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bfd535e1f4df0b5e",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -167,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,59 +154,58 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "dbfolder:Create a new database table": false,
-      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "c3f3ecdb443a86f5",
+  "active": "92f53787cba2c748",
   "lastOpenFiles": [
-    "Attached file/Pasted image 20230925164743.png",
-    "1. Daily/2023-09-25.md",
-    "1. Daily/2023-09-22.md",
-    "Attached file/Pasted image 20230925112335.png",
-    "자바/Array/함수/copyOfrange.md",
-    "Attached file/Pasted image 20230922140305.png",
-    "자바/String/함수/Contains.md",
-    "자바/String/함수/REPLACE.md",
-    "Attached file/Pasted image 20230922100228.png",
-    "Attached file/Pasted image 20230922095854.png",
-    "Attached file/Pasted image 20230922095840.png",
-    "1. Daily/2023-09-21.md",
-    "Attached file/Pasted image 20230921162009.png",
-    "자바/Array/함수/sort().md",
+    "Attached file/Pasted image 20230926164808.png",
+    "자바/2. 참고지식/-1, - 1.md",
+    "자바/2. 참고지식",
     "자바/1. 필수지식/Wrapper Classes.md",
     "자바/함수.md",
-    "Attached file/Pasted image 20230921142204.png",
-    "Attached file/Pasted image 20230921110402.png",
-    "자바/1. 필수지식",
-    "Attached file/Pasted image 20230921105757.png",
-    "자바/Int/함수/Integer/parseInt.md",
-    "Attached file/Pasted image 20230921103904.png",
-    "자바/Int/함수/Integer/toBinaryString.md",
-    "자바/Int/함수/BigInteger.md",
-    "자바/Int/함수/Integer",
-    "2. Weekly/2023-W38.md",
+    "자바/String/함수/StringBuilder.md",
+    "Attached file/Pasted image 20230926111021.png",
+    "Attached file/Pasted image 20230926110958.png",
+    "Attached file/Pasted image 20230926110936.png",
+    "1. Daily/2023-09-26.md",
+    "Excalidraw/Drawing 2023-09-26 10.14.29.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-26 10.14.28.excalidraw.md",
     "1. Daily/2023-09-20.md",
     "1. Daily/2023-09-19.md",
     "1. Daily/2023-09-18.md",
-    "자바/자바.md",
-    "자바/String/함수",
-    "자바/Int/함수",
-    "자바/Float/함수",
-    "자바/Char/함수",
-    "자바/Array/함수",
-    "자바/Int",
-    "자바/Char/함수/CharAt.md",
-    "자바/Array",
-    "자바/Char",
+    "1. Daily/2023-09-21.md",
+    "1. Daily/2023-09-22.md",
+    "1. Daily/2023-09-25.md",
+    "Attached file/Pasted image 20230926095827.png",
+    " (2).obsidian/plugins/tag-wrangler/manifest.json",
+    " (2).obsidian/plugins/templater-obsidian/styles.css",
+    " (2).obsidian/plugins/templater-obsidian/manifest.json",
+    " (2).obsidian/plugins/templater-obsidian/main.js",
+    " (2).obsidian/plugins/tag-wrangler/styles.css",
+    " (2).obsidian/plugins/tag-wrangler/main.js",
+    " (2).obsidian/plugins/periodic-notes/styles.css",
+    " (2).obsidian/plugins/periodic-notes/manifest.json",
+    " (2).obsidian/plugins/periodic-notes/main.js",
+    "Attached file/Pasted image 20230926090557.png",
+    "자바/String/함수/REPLACE.md",
+    "자바/String/함수/Contains.md",
+    "자바/Int/함수/Integer/toBinaryString.md",
+    "자바/Int/함수/Integer/parseInt.md",
+    "자바/Int/함수/BigInteger.md",
     "자바/Float/함수/Math Class.md",
-    "자바/String/무제 파일.md",
+    "자바/Char/함수/CharAt.md",
+    "자바/Array/함수/copyOfrange.md",
+    "자바/Array/함수/sort().md",
     "옵시디언 사용법/옵시디언 사용법.md",
     "옵시디언 사용법/마크다운 사용.md",
-    "4. Yealry/2023.md",
-    "Excalidraw/Drawing 2023-09-19 15.48.03.excalidraw.md",
-    "2023-09-19.md",
-    "무제 파일.canvas"
+    "Attached file/Pasted image 20230925164743.png",
+    "Attached file/Pasted image 20230925112335.png",
+    "Attached file/Pasted image 20230922140305.png",
+    "Attached file/Pasted image 20230922100228.png",
+    "Attached file/Pasted image 20230922095854.png",
+    "4. Yealry/2023.md"
   ]
 }

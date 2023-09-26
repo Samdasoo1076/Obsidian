@@ -1,11 +1,11 @@
 [
   "obsidian-banners",
   "buttons",
+  "calendar",
   "dbfolder",
-  "tag-wrangler",
-  "templater-obsidian",
   "obsidian-excalidraw-plugin",
   "multi-column-markdown",
-  "calendar",
+  "templater-obsidian",
+  "tag-wrangler",
   "periodic-notes"
 ]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-09-27.md",
+                "file": "1. Daily/2023-10-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-09-27.md",
+                "file": "1. Daily/2023-10-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-09-27.md"
+                "file": "1. Daily/2023-10-05.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-09-27.md",
+                "file": "1. Daily/2023-10-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,9 +160,14 @@
   },
   "active": "92f53787cba2c748",
   "lastOpenFiles": [
+    "Attached file/Pasted image 20231005164643.png",
+    "Attached file/Pasted image 20231005135347.png",
+    "Attached file/Pasted image 20231005100355.png",
+    "Attached file/Pasted image 20231005091950.png",
+    "1. Daily/2023-09-27.md",
+    "1. Daily/2023-10-05.md",
     "Attached file/Pasted image 20230927140456.png",
     "1. Daily/2023-09-26.md",
-    "1. Daily/2023-09-27.md",
     "Attached file/Pasted image 20230927093313.png",
     "2. Weekly/2023-W38.md",
     "2. Weekly/무제 파일.md",
@@ -194,7 +198,6 @@
     " (2).obsidian/plugins/periodic-notes/styles.css",
     " (2).obsidian/plugins/periodic-notes/manifest.json",
     " (2).obsidian/plugins/periodic-notes/main.js",
-    "Attached file/Pasted image 20230926090557.png",
     "자바/String/함수/REPLACE.md",
     "자바/String/함수/Contains.md",
     "자바/Int/함수/Integer/toBinaryString.md",
@@ -202,10 +205,6 @@
     "자바/Int/함수/BigInteger.md",
     "자바/Float/함수/Math Class.md",
     "자바/Char/함수/CharAt.md",
-    "자바/Array/함수/copyOfrange.md",
-    "자바/Array/함수/sort().md",
-    "Attached file/Pasted image 20230925164743.png",
-    "Attached file/Pasted image 20230925112335.png",
-    "Attached file/Pasted image 20230922140305.png"
+    "자바/Array/함수/copyOfrange.md"
   ]
 }

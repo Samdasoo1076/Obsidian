@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-10-05.md",
+                "file": "1. Daily/2023-10-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-10-05.md",
+                "file": "1. Daily/2023-10-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-10-05.md"
+                "file": "1. Daily/2023-10-06.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-10-05.md",
+                "file": "1. Daily/2023-10-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,12 +160,15 @@
   },
   "active": "92f53787cba2c748",
   "lastOpenFiles": [
+    "Attached file/Pasted image 20231006144426.png",
+    "1. Daily/2023-10-05.md",
+    "1. Daily/2023-10-06.md",
+    "Attached file/Pasted image 20231006133002.png",
     "Attached file/Pasted image 20231005164643.png",
     "Attached file/Pasted image 20231005135347.png",
     "Attached file/Pasted image 20231005100355.png",
     "Attached file/Pasted image 20231005091950.png",
     "1. Daily/2023-09-27.md",
-    "1. Daily/2023-10-05.md",
     "Attached file/Pasted image 20230927140456.png",
     "1. Daily/2023-09-26.md",
     "Attached file/Pasted image 20230927093313.png",
@@ -179,7 +182,6 @@
     "자바/String/함수/StringBuilder.md",
     "Attached file/Pasted image 20230926111021.png",
     "Attached file/Pasted image 20230926110958.png",
-    "Attached file/Pasted image 20230926110936.png",
     "Excalidraw/Drawing 2023-09-26 10.14.29.excalidraw.md",
     "Excalidraw/Drawing 2023-09-26 10.14.28.excalidraw.md",
     "1. Daily/2023-09-20.md",
@@ -188,7 +190,6 @@
     "1. Daily/2023-09-21.md",
     "1. Daily/2023-09-22.md",
     "1. Daily/2023-09-25.md",
-    "Attached file/Pasted image 20230926095827.png",
     " (2).obsidian/plugins/tag-wrangler/manifest.json",
     " (2).obsidian/plugins/templater-obsidian/styles.css",
     " (2).obsidian/plugins/templater-obsidian/manifest.json",
@@ -204,7 +205,6 @@
     "자바/Int/함수/Integer/parseInt.md",
     "자바/Int/함수/BigInteger.md",
     "자바/Float/함수/Math Class.md",
-    "자바/Char/함수/CharAt.md",
-    "자바/Array/함수/copyOfrange.md"
+    "자바/Char/함수/CharAt.md"
   ]
 }

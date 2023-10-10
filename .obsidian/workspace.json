@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "92f53787cba2c748",
+            "id": "c8ef03204cc49889",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-10-06.md",
+                "file": "Front End/JavaSciprt/클로저.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7999ea37f2147e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily/2023-10-10.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-10-06.md",
+                "file": "1. Daily/2023-10-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-10-06.md"
+                "file": "1. Daily/2023-10-10.md"
               }
             }
           },
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-10-06.md",
+                "file": "1. Daily/2023-10-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,30 +171,38 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "92f53787cba2c748",
+  "active": "b7999ea37f2147e0",
   "lastOpenFiles": [
-    "Attached file/Pasted image 20231006144426.png",
-    "1. Daily/2023-10-05.md",
+    "Attached file/Pasted image 20231010142006.png",
+    "Attached file/Pasted image 20231010141952.png",
+    "Attached file/Pasted image 20231010131724.png",
+    "Attached file/Pasted image 20231010131543.png",
+    "Attached file/Pasted image 20231010110519.png",
+    "Front End/JavaSciprt/클로저.md",
+    "Attached file/Pasted image 20231010110511.png",
+    "1. Daily/2023-10-10.md",
+    "Attached file/Pasted image 20231010110433.png",
+    "Attached file/Pasted image 20231010110243.png",
+    "Attached file/Pasted image 20231010110240.png",
+    "Front End/HTML/브라우저의 오류처리.md",
+    "Front End/JavaSciprt",
+    "Attached file/Pasted image 20231010105826.png",
+    "Attached file/Pasted image 20231010104637.png",
+    "Front End/HTML/트리 구축 알고리즘.md",
+    "Front End/HTML/토큰화 알고리즘.md",
+    "Front End/HTML",
+    "Front End",
     "1. Daily/2023-10-06.md",
-    "Attached file/Pasted image 20231006133002.png",
-    "Attached file/Pasted image 20231005164643.png",
-    "Attached file/Pasted image 20231005135347.png",
-    "Attached file/Pasted image 20231005100355.png",
-    "Attached file/Pasted image 20231005091950.png",
+    "1. Daily/2023-10-05.md",
     "1. Daily/2023-09-27.md",
-    "Attached file/Pasted image 20230927140456.png",
     "1. Daily/2023-09-26.md",
-    "Attached file/Pasted image 20230927093313.png",
     "2. Weekly/2023-W38.md",
     "2. Weekly/무제 파일.md",
-    "Attached file/Pasted image 20230926164808.png",
     "자바/2. 참고지식/-1, - 1.md",
     "자바/2. 참고지식",
     "자바/1. 필수지식/Wrapper Classes.md",
     "자바/함수.md",
     "자바/String/함수/StringBuilder.md",
-    "Attached file/Pasted image 20230926111021.png",
-    "Attached file/Pasted image 20230926110958.png",
     "Excalidraw/Drawing 2023-09-26 10.14.29.excalidraw.md",
     "Excalidraw/Drawing 2023-09-26 10.14.28.excalidraw.md",
     "1. Daily/2023-09-20.md",
@@ -196,15 +217,7 @@
     " (2).obsidian/plugins/templater-obsidian/main.js",
     " (2).obsidian/plugins/tag-wrangler/styles.css",
     " (2).obsidian/plugins/tag-wrangler/main.js",
-    " (2).obsidian/plugins/periodic-notes/styles.css",
-    " (2).obsidian/plugins/periodic-notes/manifest.json",
-    " (2).obsidian/plugins/periodic-notes/main.js",
     "자바/String/함수/REPLACE.md",
-    "자바/String/함수/Contains.md",
-    "자바/Int/함수/Integer/toBinaryString.md",
-    "자바/Int/함수/Integer/parseInt.md",
-    "자바/Int/함수/BigInteger.md",
-    "자바/Float/함수/Math Class.md",
-    "자바/Char/함수/CharAt.md"
+    "자바/String/함수/Contains.md"
   ]
 }

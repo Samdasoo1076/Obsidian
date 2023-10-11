@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "919e6d23015cf281",
+        "id": "e43e0537158db36a",
         "type": "tabs",
         "children": [
           {
-            "id": "c8ef03204cc49889",
+            "id": "edb3a1202929a994",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front End/JavaSciprt/클로저.md",
+                "file": "자바/1. 필수지식/유클리드 호제법.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b7999ea37f2147e0",
+            "id": "df49ac45dd232ff6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-10-10.md",
+                "file": "1. Daily/2023-10-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-10-10.md",
+                "file": "1. Daily/2023-10-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-10-10.md"
+                "file": "1. Daily/2023-10-11.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-10-10.md",
+                "file": "1. Daily/2023-10-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,23 +171,32 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b7999ea37f2147e0",
+  "active": "df49ac45dd232ff6",
   "lastOpenFiles": [
-    "Attached file/Pasted image 20231010142006.png",
-    "Attached file/Pasted image 20231010141952.png",
-    "Attached file/Pasted image 20231010131724.png",
-    "Attached file/Pasted image 20231010131543.png",
-    "Attached file/Pasted image 20231010110519.png",
-    "Front End/JavaSciprt/클로저.md",
+    "Attached file/Pasted image 20231011163021.png",
+    "자바/1. 필수지식/유클리드 호제법.md",
+    "Attached file/Pasted image 20231011154220.png",
+    "Attached file/Pasted image 20231011154212.png",
+    "Attached file/Pasted image 20231011154200.png",
+    "Attached file/Pasted image 20231011154126.png",
+    "1. Daily/2023-10-11.md",
+    "Attached file/Pasted image 20231011154118.png",
+    "자바/2. 참고지식/-1, - 1.md",
+    "자바/1. 필수지식/Wrapper Classes.md",
+    "2. Weekly/2023-W38.md",
+    "Attached file/Pasted image 20230918110305.png",
     "Attached file/Pasted image 20231010110511.png",
+    "Excalidraw/Drawing 2023-09-26 10.14.28.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-26 10.14.29.excalidraw.md",
     "1. Daily/2023-10-10.md",
-    "Attached file/Pasted image 20231010110433.png",
-    "Attached file/Pasted image 20231010110243.png",
-    "Attached file/Pasted image 20231010110240.png",
+    "자료구조/트리.md",
+    "Attached file/Pasted image 20231011104910.png",
+    "자료구조",
+    "Attached file/Pasted image 20231011104737.png",
+    "Attached file/Pasted image 20231011104638.png",
+    "Front End/JavaSciprt/클로저.md",
     "Front End/HTML/브라우저의 오류처리.md",
     "Front End/JavaSciprt",
-    "Attached file/Pasted image 20231010105826.png",
-    "Attached file/Pasted image 20231010104637.png",
     "Front End/HTML/트리 구축 알고리즘.md",
     "Front End/HTML/토큰화 알고리즘.md",
     "Front End/HTML",
@@ -196,28 +205,19 @@
     "1. Daily/2023-10-05.md",
     "1. Daily/2023-09-27.md",
     "1. Daily/2023-09-26.md",
-    "2. Weekly/2023-W38.md",
     "2. Weekly/무제 파일.md",
-    "자바/2. 참고지식/-1, - 1.md",
     "자바/2. 참고지식",
-    "자바/1. 필수지식/Wrapper Classes.md",
     "자바/함수.md",
     "자바/String/함수/StringBuilder.md",
-    "Excalidraw/Drawing 2023-09-26 10.14.29.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-26 10.14.28.excalidraw.md",
     "1. Daily/2023-09-20.md",
     "1. Daily/2023-09-19.md",
     "1. Daily/2023-09-18.md",
     "1. Daily/2023-09-21.md",
     "1. Daily/2023-09-22.md",
-    "1. Daily/2023-09-25.md",
     " (2).obsidian/plugins/tag-wrangler/manifest.json",
     " (2).obsidian/plugins/templater-obsidian/styles.css",
     " (2).obsidian/plugins/templater-obsidian/manifest.json",
     " (2).obsidian/plugins/templater-obsidian/main.js",
-    " (2).obsidian/plugins/tag-wrangler/styles.css",
-    " (2).obsidian/plugins/tag-wrangler/main.js",
-    "자바/String/함수/REPLACE.md",
-    "자바/String/함수/Contains.md"
+    " (2).obsidian/plugins/tag-wrangler/styles.css"
   ]
 }

@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front End/지식/'0'과 비교하기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "071e0abb11636371",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Daily/2023-10-17.md",
+                "file": "1. Daily/2023-10-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front End/지식/'0'과 비교하기.md",
+                "file": "1. Daily/2023-10-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front End/지식/'0'과 비교하기.md"
+                "file": "1. Daily/2023-10-18.md"
               }
             }
           },
@@ -135,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front End/지식/'0'과 비교하기.md",
+                "file": "1. Daily/2023-10-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,9 +160,10 @@
   },
   "active": "2186e62028afd7f5",
   "lastOpenFiles": [
+    "1. Daily/2023-10-18.md",
+    "Front End/지식/'0'과 비교하기.md",
     "Attached file/Pasted image 20231017164146.png",
     "Front End/개그/자바스크립트.md",
-    "Front End/지식/'0'과 비교하기.md",
     "1. Daily/2023-10-17.md",
     "Attached file/Pasted image 20231017164036.png",
     "Front End/지식/Equality(동등 연산자).md",
@@ -197,7 +186,6 @@
     "DATABASE/무제 파일.md",
     "DATABASE",
     "11.md",
-    "Attached file/Pasted image 20231016143147.png",
     "자바/Int/무제 파일.md",
     "Dates.md",
     "1. Daily/2023-09-27.md",

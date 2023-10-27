@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-10-26.md",
+                "file": "1. Daily/2023-10-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/2023-10-26 회사.md",
+                "file": "회사/2023-10-27 회사.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-10-26.md",
+                "file": "회사/2023-10-27 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-10-26.md"
+                "file": "회사/2023-10-27 회사.md"
               }
             }
           },
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-10-26.md",
+                "file": "회사/2023-10-27 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,10 +171,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "02b2d3d559883d78",
+  "active": "9b7116f176600401",
   "lastOpenFiles": [
-    "회사/2023-10-26 회사.md",
+    "1. Daily/2023-10-27.md",
+    "회사/2023-10-27 회사.md",
     "1. Daily/2023-10-26.md",
+    "회사/2023-10-26 회사.md",
     "1. Daily/2023-10-25.md",
     "Front End/개그/자바 스크립트2.md",
     "Attached file/Pasted image 20231025141553.png",
@@ -208,8 +211,6 @@
     "Attached file/Pasted image 20231017163644.png",
     "Front End/지식/JS this와 화살표 함수 헷갈리는 차이.md",
     "Front End/JavaSciprt/Destructuring.md",
-    "Front End/JavaSciprt/스프레드 연산자.md",
-    "1. Daily/2023-10-16.md",
     "DATABASE/함수",
     "DATABASE",
     "무제 파일.canvas",

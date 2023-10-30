@@ -8,31 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "02b2d3d559883d78",
+            "id": "b75bf90eada2e4a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-10-27.md",
+                "file": "회사/2023-10-30 회사.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9b7116f176600401",
+            "id": "f6417627a7cab90c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/2023-10-27 회사.md",
+                "file": "1. Daily/2023-10-30.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/2023-10-27 회사.md",
+                "file": "회사/2023-10-30 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/2023-10-27 회사.md"
+                "file": "회사/2023-10-30 회사.md"
               }
             }
           },
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/2023-10-27 회사.md",
+                "file": "회사/2023-10-30 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,13 +170,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9b7116f176600401",
+  "active": "b75bf90eada2e4a6",
   "lastOpenFiles": [
-    "1. Daily/2023-10-27.md",
+    "1. Daily/2023-10-30.md",
+    "회사/2023-10-30 회사.md",
     "회사/2023-10-27 회사.md",
-    "1. Daily/2023-10-26.md",
     "회사/2023-10-26 회사.md",
+    "1. Daily/2023-10-27.md",
+    "1. Daily/2023-10-26.md",
     "1. Daily/2023-10-25.md",
+    "1. Daily/2023-10-19.md",
+    "1. Daily/2023-10-18.md",
+    "1. Daily/2023-10-17.md",
+    "1. Daily/2023-10-16.md",
+    "자바/Int/함수/BitCount.md",
+    "Front End/CSS/hover +  (피태그).md",
+    "1. Daily/2023-10-13.md",
+    "1. Daily/2023-10-11.md",
+    "1. Daily/2023-10-10.md",
+    "1. Daily/2023-10-06.md",
+    "1. Daily/2023-10-05.md",
     "Front End/개그/자바 스크립트2.md",
     "Attached file/Pasted image 20231025141553.png",
     "Front End/개그/자바스크립트.md",
@@ -189,28 +201,15 @@
     "Attached file/Pasted image 20231025140228.png",
     "Attached file/Pasted image 20231025140214.png",
     "알아두면 쓸데 없는 코딩지식",
-    "1. Daily/2023-10-19.md",
     "1. Daily/2023-09-20.md",
     "1. Daily/2023-09-21.md",
     "1. Daily/2023-09-19.md",
     "1. Daily/2023-09-18.md",
     "1. Daily/2023-09-26.md",
-    "1. Daily/2023-09-27.md",
-    "1. Daily/2023-10-05.md",
-    "1. Daily/2023-10-06.md",
-    "1. Daily/2023-10-13.md",
-    "1. Daily/2023-10-11.md",
-    "1. Daily/2023-10-10.md",
-    "1. Daily/2023-10-18.md",
-    "Front End/지식/'0'과 비교하기.md",
     "Attached file/Pasted image 20231017164146.png",
-    "1. Daily/2023-10-17.md",
     "Attached file/Pasted image 20231017164036.png",
-    "Front End/지식/Equality(동등 연산자).md",
     "Front End/개그",
     "Attached file/Pasted image 20231017163644.png",
-    "Front End/지식/JS this와 화살표 함수 헷갈리는 차이.md",
-    "Front End/JavaSciprt/Destructuring.md",
     "DATABASE/함수",
     "DATABASE",
     "무제 파일.canvas",

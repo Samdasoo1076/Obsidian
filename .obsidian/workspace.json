@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-10-31.md",
+                "file": "회사/2023-11-01 회사.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/2023-10-31 회사.md",
+                "file": "1. Daily/2023-11-01.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/2023-10-31 회사.md",
+                "file": "회사/2023-11-01 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/2023-10-31 회사.md"
+                "file": "회사/2023-11-01 회사.md"
               }
             }
           },
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/2023-10-31 회사.md",
+                "file": "회사/2023-11-01 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,8 +170,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f499295d8f816d45",
+  "active": "f2a1a288e7c0291b",
   "lastOpenFiles": [
+    "Dates.md",
+    "1. Daily/2023-11-01.md",
+    "테스트용 캔버스.canvas",
+    "회사/2023-11-01 회사.md",
     "1. Daily/2023-10-31.md",
     "회사/2023-10-31 회사.md",
     "회사/2023-10-30 회사.md",
@@ -199,21 +202,16 @@
     "Attached file/Pasted image 20231025141533.png",
     "Attached file/Pasted image 20231025141307.png",
     "Attached file/Pasted image 20231025141002.png",
-    "알아두면 쓸데 없는 코딩지식/반복문에서 변수명이  i, j, k인 이유.md",
     "Attached file/Pasted image 20231025140240.png",
     "Attached file/Pasted image 20231025140228.png",
     "Attached file/Pasted image 20231025140214.png",
     "알아두면 쓸데 없는 코딩지식",
-    "1. Daily/2023-09-20.md",
-    "1. Daily/2023-09-21.md",
-    "1. Daily/2023-09-19.md",
     "Attached file/Pasted image 20231017164146.png",
     "Attached file/Pasted image 20231017164036.png",
     "Front End/개그",
     "Attached file/Pasted image 20231017163644.png",
     "DATABASE/함수",
     "DATABASE",
-    "무제 파일.canvas",
     "Front End/지식",
     "Front End/CSS",
     "자료구조",

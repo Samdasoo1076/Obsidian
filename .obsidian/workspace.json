@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "82a5aa88b4956189",
+        "id": "eccb14e4350df82a",
         "type": "tabs",
         "children": [
           {
-            "id": "f6ed4bea366318ca",
+            "id": "40d833f3553bdcdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-11/2023-11-03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e88572536989f0db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "회사/2023-11/2023-11-03 회사.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f5f42ba1573ef5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "회사/2023-11/2023-11-02 회사.md",
+                "file": "회사/2023-11/2023-11-06 회사.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/2023-11/2023-11-02 회사.md",
+                "file": "회사/2023-11/2023-11-06 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/2023-11/2023-11-02 회사.md"
+                "file": "회사/2023-11/2023-11-06 회사.md"
               }
             }
           },
@@ -148,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/2023-11/2023-11-02 회사.md",
+                "file": "회사/2023-11/2023-11-06 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,14 +155,17 @@
       "dbfolder:Create a new database table": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "7d2b3d80d59c46ae",
+  "active": "40d833f3553bdcdf",
   "lastOpenFiles": [
+    "1. Daily/2023-11/2023-11-06.md",
+    "회사/2023-11/2023-11-06 회사.md",
+    "1. Daily/2023-11/2023-11-03.md",
     "회사/2023-11/2023-11-03 회사.md",
     "회사/2023-11/2023-11-02 회사.md",
-    "1. Daily/2023-11/2023-11-03.md",
     "4. Yealry/2023.md",
     "1. Daily/2023-09/2023-09-18.md",
     "1. Daily/2023-11",
@@ -216,8 +194,6 @@
     "1. Daily/2023-10/2023-10-18.md",
     "1. Daily/2023-10/2023-10-17.md",
     "1. Daily/2023-10/2023-10-16.md",
-    "자바/Int/함수/BitCount.md",
-    "Front End/CSS/hover +  (피태그).md",
     "Attached file/Pasted image 20231025141553.png",
     "Attached file/Pasted image 20231025141533.png",
     "Attached file/Pasted image 20231025141307.png",

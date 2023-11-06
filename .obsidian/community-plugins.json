@@ -8,5 +8,8 @@
   "templater-obsidian",
   "tag-wrangler",
   "periodic-notes",
-  "dataview"
+  "dataview",
+  "remotely-save",
+  "editing-toolbar",
+  "obsidian-emoji-toolbar"
 ]

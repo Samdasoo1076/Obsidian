@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-11/2023-11-07.md",
+                "file": "회사/2023-11/2023-11-08 회사.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ab4ca165232bd25f",
+            "id": "8def5a0d8130f893",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "옵시디언 사용법/옵시디언 사용법.md",
+                "file": "1. Daily/2023-11/2023-11-08.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-11/2023-11-07.md",
+                "file": "1. Daily/2023-11/2023-11-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-11/2023-11-07.md"
+                "file": "1. Daily/2023-11/2023-11-08.md"
               }
             }
           },
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-11/2023-11-07.md",
+                "file": "1. Daily/2023-11/2023-11-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,10 +172,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ad6099cd904c7c6f",
+  "active": "8def5a0d8130f893",
   "lastOpenFiles": [
-    "옵시디언 사용법/옵시디언 사용법.md",
+    "회사/2023-11/2023-11-08 회사.md",
+    "1. Daily/2023-11/2023-11-08.md",
     "1. Daily/2023-11/2023-11-07.md",
+    "옵시디언 사용법/옵시디언 사용법.md",
     "2023-11-07 회사[따잇.md",
     "회사/2023-11/2023-11-07 회사.md",
     "Attached file/Pasted image 20231107091138.png",
@@ -209,8 +212,6 @@
     "1. Daily/2023-11/2023-11-01.md",
     "1. Daily/2023-10/2023-10-31.md",
     "회사/2023-10/2023-10-31 회사.md",
-    "회사/2023-10/2023-10-30 회사.md",
-    "1. Daily/2023-10/2023-10-30.md",
     "Attached file/Pasted image 20231025141553.png",
     "Attached file/Pasted image 20231025141533.png",
     "Attached file/Pasted image 20231025141307.png",

@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d77b70faa92836c0",
+        "id": "e32398991cf579f3",
         "type": "tabs",
         "children": [
           {
-            "id": "14f36a93a3e63d9e",
+            "id": "4663e384ff906b2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/2023-11/2023-11-10 회사.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7e124949096b0ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Daily/2023-11/2023-11-10.md",
+                "file": "1. Daily/2023-11/2023-11-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/2023-11/2023-11-10 회사.md",
+                "file": "1. Daily/2023-11/2023-11-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/2023-11/2023-11-10 회사.md"
+                "file": "1. Daily/2023-11/2023-11-13.md"
               }
             }
           },
@@ -135,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/2023-11/2023-11-10 회사.md",
+                "file": "1. Daily/2023-11/2023-11-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,9 +159,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "14f36a93a3e63d9e",
+  "active": "4663e384ff906b2f",
   "lastOpenFiles": [
+    "Attached file/Pasted image 20231113163643.png",
+    "Attached file/Pasted image 20231113163641.png",
+    "회사/2023-11/2023-11-13 회사.md",
+    "1. Daily/2023-11/2023-11-13.md",
     "1. Daily/2023-11/2023-11-10.md",
+    "회사/2023-11/2023-11-03 회사.md",
+    "회사/2023-11/2023-11-02 회사.md",
+    "회사/2023-11/2023-11-01 회사.md",
     "회사/2023-11/2023-11-10 회사.md",
     "1. Daily/2023-11/2023-11-09.md",
     "회사/2023-11/2023-11-09 회사.md",
@@ -194,8 +189,6 @@
     "1. Daily/2023-09/2023-09-26.md",
     "1. Daily/2023-11/2023-11-06.md",
     "1. Daily/2023-11/2023-11-03.md",
-    "회사/2023-11/2023-11-03 회사.md",
-    "회사/2023-11/2023-11-02 회사.md",
     "4. Yealry/2023.md",
     "1. Daily/2023-09/2023-09-18.md",
     "1. Daily/2023-11",
@@ -204,18 +197,13 @@
     "1. Daily/2023-09",
     "회사/2023-10/2023-10-26 회사.md",
     "회사/2023-11",
-    "회사/2023-10/2023-10-27 회사.md",
     "회사/2023-10",
-    "1. Daily/2023-11/2023-11-02.md",
     "테스트용 캔버스.canvas",
     "무제 파일.canvas",
-    "Excalidraw/Drawing 2023-11-02 15.16.00.excalidraw.md",
-    "회사/2023-11/2023-11-01 회사.md",
     "Attached file/Pasted image 20231025141553.png",
     "Attached file/Pasted image 20231025141533.png",
     "Attached file/Pasted image 20231025141307.png",
     "Attached file/Pasted image 20231025141002.png",
-    "Attached file/Pasted image 20231025140240.png",
     "알아두면 쓸데 없는 코딩지식",
     "Front End/개그",
     "DATABASE/함수",

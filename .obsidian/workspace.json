@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-11/2023-11-13.md",
+                "file": "회사/2023-11/2023-11-14 회사.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b7a8c60512e0316",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily/2023-11/2023-11-14.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-11/2023-11-13.md",
+                "file": "1. Daily/2023-11/2023-11-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-11/2023-11-13.md"
+                "file": "1. Daily/2023-11/2023-11-14.md"
               }
             }
           },
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-11/2023-11-13.md",
+                "file": "1. Daily/2023-11/2023-11-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,12 +172,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4663e384ff906b2f",
+  "active": "7b7a8c60512e0316",
   "lastOpenFiles": [
+    "회사/2023-11/2023-11-14 회사.md",
+    "1. Daily/2023-11/2023-11-14.md",
+    "Attached file/Pasted image 20231114114612.png",
+    "Attached file/Pasted image 20231114095153.png",
+    "1. Daily/2023-11/2023-11-13.md",
     "Attached file/Pasted image 20231113163643.png",
     "Attached file/Pasted image 20231113163641.png",
     "회사/2023-11/2023-11-13 회사.md",
-    "1. Daily/2023-11/2023-11-13.md",
     "1. Daily/2023-11/2023-11-10.md",
     "회사/2023-11/2023-11-03 회사.md",
     "회사/2023-11/2023-11-02 회사.md",
@@ -195,15 +212,11 @@
     "1. Daily/2023-10",
     "2. Weekly/2023-W38.md",
     "1. Daily/2023-09",
-    "회사/2023-10/2023-10-26 회사.md",
     "회사/2023-11",
     "회사/2023-10",
     "테스트용 캔버스.canvas",
     "무제 파일.canvas",
     "Attached file/Pasted image 20231025141553.png",
-    "Attached file/Pasted image 20231025141533.png",
-    "Attached file/Pasted image 20231025141307.png",
-    "Attached file/Pasted image 20231025141002.png",
     "알아두면 쓸데 없는 코딩지식",
     "Front End/개그",
     "DATABASE/함수",

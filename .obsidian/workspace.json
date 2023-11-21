@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d9dd7727e2a12733",
+        "id": "2b412adf62e5ce46",
         "type": "tabs",
         "children": [
           {
-            "id": "cd70d36af4e22b6c",
+            "id": "7e505a79977f4a4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/2023-11/2023-11-20 회사.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "613df66d89db20c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Daily/2023-11/2023-11-20.md",
+                "file": "회사/2023-11/2023-11-21 회사.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-11/2023-11-20.md",
+                "file": "회사/2023-11/2023-11-21 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-11/2023-11-20.md"
+                "file": "회사/2023-11/2023-11-21 회사.md"
               }
             }
           },
@@ -136,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-11/2023-11-20.md",
+                "file": "회사/2023-11/2023-11-21 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,8 +159,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "613df66d89db20c4",
+  "active": "7e505a79977f4a4f",
   "lastOpenFiles": [
+    "1. Daily/2023-11/2023-11-21.md",
+    "회사/2023-11/2023-11-21 회사.md",
     "회사/2023-11/2023-11-20 회사.md",
     "1. Daily/2023-11/2023-11-20.md",
     "회사/2023-11/2023-11-17 회사.md",
@@ -204,12 +193,10 @@
     "옵시디언 사용법/옵시디언 사용법.md",
     "2023-11-07 회사[따잇.md",
     "Attached file/Pasted image 20231107091138.png",
-    "자바/함수.md",
     "Attached file/Pasted image 20231107090922.png",
     "Attached file/Pasted image 20231107090902.png",
     "Attached file/Pasted image 20231107090852.png",
     "Attached file/Pasted image 20231107090840.png",
-    "옵시디언 사용법/마크다운 사용.md",
     "1. Daily/2023-11",
     "1. Daily/2023-10",
     "1. Daily/2023-09",

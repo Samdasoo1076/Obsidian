@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-11/2023-11-24.md",
+                "file": "회사/2023-11/2023-11-27 회사.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/2023-11/2023-11-24 회사.md",
+                "file": "1. Daily/2023-11/2023-11-27.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-11/2023-11-24.md",
+                "file": "1. Daily/2023-11/2023-11-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-11/2023-11-24.md"
+                "file": "1. Daily/2023-11/2023-11-27.md"
               }
             }
           },
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-11/2023-11-24.md",
+                "file": "1. Daily/2023-11/2023-11-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,45 +172,45 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "78e60ca5e0e48fec",
+  "active": "e9879d9c88867c3d",
   "lastOpenFiles": [
-    "회사/2023-11/2023-11-24 회사.md",
+    "Attached file/Pasted image 20231127162504.png",
+    "회사/2023-11/2023-11-27 회사.md",
+    "1. Daily/2023-11/2023-11-27.md",
     "1. Daily/2023-11/2023-11-24.md",
+    "회사/2023-11/2023-11-24 회사.md",
+    "회사/2023-11/2023-11-23 회사.md",
+    "회사/2023-11/2023-11-22 회사.md",
+    "회사/2023-11/2023-11-21 회사.md",
+    "회사/2023-11/2023-11-13 회사.md",
+    "회사/2023-11/2023-11-14 회사.md",
+    "회사/2023-11/2023-11-17 회사.md",
+    "회사/2023-11/2023-11-20 회사.md",
+    "1. Daily/2023-11/2023-11-17.md",
+    "회사/2023-11/2023-11-01 회사.md",
+    "회사/2023-11/2023-11-09 회사.md",
+    "회사/2023-11/2023-11-10 회사.md",
+    "회사/2023-11/2023-11-08 회사.md",
+    "회사/2023-11/2023-11-07 회사.md",
+    "회사/2023-11/2023-11-06 회사.md",
+    "회사/2023-11/2023-11-02 회사.md",
+    "1. Daily/2023-11/2023-11-01.md",
+    "1. Daily/2023-11/2023-11-02.md",
+    "1. Daily/2023-11/2023-11-03.md",
+    "Attached file/Pasted image 20231127105222.png",
     "Front End/지식/URL인코딩 특수문자 코드.md",
     "Attached file/Pasted image 20231124131418.png",
     "1. Daily/2023-11/2023-11-23.md",
     "Attached file/Pasted image 20230918110305.png",
     "Attached file/Pasted image 20230918110020.png",
     "Attached file/Pasted image 20231123112540.png",
-    "회사/2023-11/2023-11-23 회사.md",
     "1. Daily/2023-11/2023-11-22.md",
-    "회사/2023-11/2023-11-22 회사.md",
-    "회사/용어/WMS.md",
-    "회사/용어/TMS.md",
-    "회사/용어/OMS.md",
-    "회사/2023-11/2023-11-21 회사.md",
-    "1. Daily/2023-11/2023-11-21.md",
-    "회사/2023-11/2023-11-20 회사.md",
-    "1. Daily/2023-11/2023-11-20.md",
-    "회사/2023-11/2023-11-17 회사.md",
-    "1. Daily/2023-11/2023-11-17.md",
-    "1. Daily/2023-11/2023-11-14.md",
-    "회사/용어/출고.md",
-    "회사/용어/입고.md",
-    "회사/2023-11/2023-11-02 회사.md",
-    "회사/2023-11/2023-11-03 회사.md",
-    "회사/2023-11/2023-11-01 회사.md",
-    "회사/2023-11/2023-11-06 회사.md",
-    "회사/2023-11/2023-11-07 회사.md",
-    "회사/2023-11/2023-11-08 회사.md",
-    "회사/2023-11/2023-11-09 회사.md",
     "회사/용어",
     "Attached file/Pasted image 20231114114612.png",
     "Attached file/Pasted image 20231114095153.png",
     "Attached file/Pasted image 20231113163643.png",
     "Attached file/Pasted image 20231113163641.png",
     "Attached file/Pasted image 20231107091138.png",
-    "Attached file/Pasted image 20231107090922.png",
     "1. Daily/2023-11",
     "1. Daily/2023-10",
     "1. Daily/2023-09",

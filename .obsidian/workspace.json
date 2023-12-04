@@ -11,8 +11,12 @@
             "id": "05ceffb9ff70c0fe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily/2023-12/2023-12-04.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Daily/2023-12/2023-12-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. Daily/2023-12/2023-12-04.md"
+              }
             }
           },
           {
@@ -116,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Daily/2023-12/2023-12-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,8 +160,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7d2b3d80d59c46ae",
+  "active": "05ceffb9ff70c0fe",
   "lastOpenFiles": [
+    "회사/2023-12/2023-12-04 회사.md",
+    "1. Daily/2023-12/2023-12-04.md",
     "2. Weekly/2023-W38.md",
     "4. Yealry/2023.md",
     "회사/2023-11/2023-11-08 회사.md",
@@ -177,8 +188,6 @@
     "1. Daily/2023-11/2023-11-03.md",
     "1. Daily/2023-11/2023-11-02.md",
     "1. Daily/2023-11/2023-11-01.md",
-    "1. Daily/2023-09/2023-09-27.md",
-    "1. Daily/2023-09/2023-09-26.md",
     "Attached file/Pasted image 20231201131548.png",
     "Attached file/Pasted image 20231201115819.png",
     "Attached file/Pasted image 20231201114153.png",

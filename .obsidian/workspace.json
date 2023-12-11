@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "70ca093a3bf4dcee",
+        "id": "1e32baa36bcdfef7",
         "type": "tabs",
         "children": [
           {
-            "id": "f6d1e5640ea6a294",
+            "id": "f05f0ed8ca5ca6db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/2023-12/2023-12-07 회사.md",
+                "file": "자기 소개 사이트/1일차/2023-12-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/2023-12/2023-12-07 회사.md",
+                "file": "자기 소개 사이트/1일차/2023-12-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/2023-12/2023-12-07 회사.md"
+                "file": "자기 소개 사이트/1일차/2023-12-11.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/2023-12/2023-12-07 회사.md",
+                "file": "자기 소개 사이트/1일차/2023-12-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,55 +160,55 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f6d1e5640ea6a294",
+  "active": "f05f0ed8ca5ca6db",
   "lastOpenFiles": [
-    "1. Daily/2023-12/2023-12-07.md",
-    "회사/2023-12/2023-12-07 회사.md",
+    "자기 소개 사이트/1일차/드래그 기능(JS).md",
+    "자기 소개 사이트/1일차/2023-12-11.md",
+    "자기 소개 사이트/Base/pm 4_02 2023-12-11 15.56.23.excalidraw 1.md",
+    "자기 소개 사이트/Base/pm 4_00 2023-12-11 15.56.23.excalidraw.md",
+    "자기 소개 사이트/Base/무제 파일.md",
+    "자기 소개 사이트/Base/사이트 기초 2023-12-11 15.12.43.excalidraw.md",
+    "자기 소개 사이트/Base/d.md",
+    "자기 소개 사이트/Base",
+    "Excalidraw/Drawing 2023-11-02 15.16.00.excalidraw.md",
+    "자기 소개 사이트/자기소개용 Front-end.md",
+    "자기 소개 사이트/사용 기술/요소 드래그 기술(JS).md",
+    "Attached file/Pasted image 20231211155231.png",
+    "Attached file/Pasted image 20231211155154.png",
+    "자기 소개 사이트/1일차",
+    "1. Daily/2023-12/2023-12-11.md",
+    "자기 소개 사이트/사용 기술/사용 언어.md",
+    "회사/2023-12/2023-12-11 회사.md",
     "L3 Study/효신이유기사.md",
-    "Attached file/Pasted image 20231207152453.png",
+    "자기 소개 사이트/사용 기술",
+    "자기 소개 사이트/사용.md",
+    "Excalidraw/Drawing 2023-09-26 10.14.28.excalidraw.md",
+    "자기 소개 사이트",
     "L3 Study/OSI 7계층.md",
-    "L3 Study/리눅스 디렉토리명.md",
     "L3 Study/디자인 패턴.md",
+    "L3 Study/리눅스 디렉토리명.md",
     "L3 Study/데이터베이스 관리 시스템.md",
+    "옵시디언 사용법/옵시디언 사용법.md",
+    "Attached file/Pasted image 20231211113414.png",
+    "Attached file/Pasted image 20231211113400.png",
     "L3 Study/개속관 사동선.md",
+    "회사/2023-12/2023-12-07 회사.md",
+    "1. Daily/2023-12/2023-12-07.md",
+    "Attached file/Pasted image 20231207152453.png",
     "옵시디언 사용법/마크다운 사용.md",
     "1. Daily/2023-12/2023-12-06.md",
-    "옵시디언 사용법/단축키.md",
     "Attached file/Pasted image 20231207092940.png",
     "Attached file/Pasted image 20231207092922.png",
     "Attached file/Pasted image 20231207092914.png",
     "Attached file/Pasted image 20231207092903.png",
-    "1. Daily/2023-12/2023-12-05.md",
-    "1. Daily/2023-09/2023-09-18.md",
     "Attached file/Pasted image 20230918110020.png",
-    "Excalidraw/Drawing 2023-11-02 15.16.00.excalidraw.md",
-    "자바/Hash/HashMap.md",
-    "Excalidraw/Drawing 2023-09-26 10.14.29.excalidraw.md",
     "무제 파일.canvas",
-    "Excalidraw/Drawing 2023-09-26 10.14.28.excalidraw.md",
-    "Dates.md",
-    "무제 파일.md",
-    "회사/2023-11/2023-11-03 회사.md",
-    "1. Daily/2023-11/2023-11-03.md",
-    "1. Daily/2023-11/2023-11-06.md",
-    "1. Daily/2023-11/2023-11-02.md",
-    "1. Daily/2023-11/2023-11-01.md",
-    "1. Daily/2023-09/2023-09-26.md",
-    "1. Daily/2023-09/2023-09-25.md",
-    "Attached file/Pasted image 20231206143044.png",
-    "Attached file/Pasted image 20231206142617.png",
-    "Attached file/Pasted image 20231206142424.png",
-    "Attached file/Pasted image 20231206142042.png",
     "내가 풀은 알고리즘",
     "C++/필수 지식",
     "C++",
     "L3 Study",
     "자바/For",
     "자바/Hash",
-    "1. Daily/2023-12",
-    "회사/2023-12",
-    "회사/용어",
-    "1. Daily/2023-11",
     "테스트용 캔버스.canvas"
   ]
 }

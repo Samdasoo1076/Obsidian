@@ -7,5 +7,14 @@
       ],
       "key": "1"
     }
+  ],
+  "editor:cycle-list-checklist": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "["
+    }
   ]
 }

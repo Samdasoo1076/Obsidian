@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2e0b1388e39eb0ed",
+        "id": "10ea61c0c7124f24",
         "type": "tabs",
         "children": [
           {
-            "id": "532e677112454ffd",
+            "id": "62b6992f4dc02540",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "자기 소개 사이트/2일차/스크롤 바 없애기(CSS).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4d1f28f8a5ee2a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "자기 소개 사이트/2일차/2023-12-13 PJ.md",
+                "file": "1. Daily/2023-12/2023-12-14.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "자기 소개 사이트/2일차/2023-12-13 PJ.md",
+                "file": "1. Daily/2023-12/2023-12-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "자기 소개 사이트/2일차/2023-12-13 PJ.md"
+                "file": "1. Daily/2023-12/2023-12-14.md"
               }
             }
           },
@@ -136,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "자기 소개 사이트/2일차/2023-12-13 PJ.md",
+                "file": "1. Daily/2023-12/2023-12-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,54 +160,54 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c4d1f28f8a5ee2a5",
+  "active": "62b6992f4dc02540",
   "lastOpenFiles": [
+    "자기 소개 사이트/3일차/2023-12-14 PJ.md",
+    "Attached file/Pasted image 20231214163437.png",
+    "Attached file/Pasted image 20231214163425.png",
+    "Front End/유용한 사이트/도형 만들기.md",
+    "옵시디언 사용법/단축키.md",
+    "1. Daily/2023-12/2023-12-14.md",
+    "회사/2023-12/2023-12-14 회사.md",
+    "Attached file/Pasted image 20231214112658.png",
+    "Front End/유용한 사이트/구글 폰트.md",
+    "Attached file/Pasted image 20231214112532.png",
+    "Attached file/Pasted image 20231214112517.png",
+    "Attached file/Pasted image 20231214112449.png",
+    "Front End/유용한 사이트",
+    "Front End/무제 파일.md",
+    "Attached file/Pasted image 20231214112205.png",
+    "자기 소개 사이트/와이어프레임/2023-12-13/am 11_11 2023-12-13 11.08.30.excalidraw.md",
+    "1. Daily/2023-12/2023-12-13.md",
+    "1. Daily/2023-12/2023-12-11.md",
+    "자기 소개 사이트/2일차/스크롤 바 없애기(CSS).md",
+    "자기 소개 사이트/3일차",
+    "Github/파일VSC UI로 보는법.md",
+    "Github",
+    "자기 소개 사이트/2일차/2023-12-13 PJ.md",
+    "옵시디언 사용법/마크다운 사용.md",
+    "옵시디언 사용법/옵시디언 사용법.md",
     "자기 소개 사이트/1일차/2023-12-11 PJ.md",
     "자기 소개 사이트/1일차/드래그 기능(JS).md",
     "회사/2023-12/2023-12-13 회사.md",
-    "1. Daily/2023-12/2023-12-13.md",
-    "자기 소개 사이트/2일차/2023-12-13 PJ.md",
     "Attached file/Pasted image 20231213150949.png",
     "자기 소개 사이트/단어장.md",
     "자기 소개 사이트/사용 기술/사용 언어.md",
-    "옵시디언 사용법/마크다운 사용.md",
-    "1. Daily/2023-12/2023-12-11.md",
-    "자기 소개 사이트/2일차/스크롤 바 없애기(CSS).md",
     "1. Daily/2023-12/2023-12-07.md",
     "자기 소개 사이트/와이어프레임/2023-12-13/am 9_22 2023-12-13 09.21.32.excalidraw.md",
     "Front End/지식/속성 정의 순서(CSS).md",
     "Attached file/Pasted image 20231213112304.png",
     "Attached file/Pasted image 20231213112254.png",
-    "자기 소개 사이트/와이어프레임/2023-12-13/am 11_11 2023-12-13 11.08.30.excalidraw.md",
     "자기 소개 사이트/와이어프레임/2023-12-13",
     "자기 소개 사이트/와이어프레임/2023-12-11",
     "Front End/지식/로렘입숨.md",
     "Front End/CSS/Scrollbar.md",
     "자기 소개 사이트/2일차",
-    "자기 소개 사이트/무제 파일.md",
-    "자바/함수.md",
-    "Dates.md",
-    "DATABASE/함수/COALESCE.md",
-    "Excalidraw/Drawing 2023-11-02 15.16.00.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-26 10.14.29.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-26 10.14.28.excalidraw.md",
-    "자기 소개 사이트/와이어프레임/2023-12-11/pm 4_00 2023-12-11 15.56.23.excalidraw.md",
-    "자기 소개 사이트/Base/무제 파일.md",
     "자기 소개 사이트/와이어프레임",
-    "Attached file/Pasted image 20231211155231.png",
-    "Attached file/Pasted image 20231211155154.png",
     "자기 소개 사이트/1일차",
     "자기 소개 사이트/사용 기술",
     "자기 소개 사이트",
-    "Attached file/Pasted image 20231211113414.png",
-    "Attached file/Pasted image 20231211113400.png",
-    "Attached file/Pasted image 20231207152453.png",
-    "Attached file/Pasted image 20231207092940.png",
-    "Attached file/Pasted image 20231207092922.png",
     "무제 파일.canvas",
-    "내가 풀은 알고리즘",
-    "C++/필수 지식",
-    "C++",
     "테스트용 캔버스.canvas"
   ]
 }

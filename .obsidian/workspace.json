@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "10ea61c0c7124f24",
+        "id": "d5066221d9cc157b",
         "type": "tabs",
         "children": [
           {
-            "id": "c5ae2b5d03caf04d",
+            "id": "2818e73a97206400",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "자기 소개 사이트/4일차/2023-12-15 PJ.md",
+                "file": "1. Daily/2023-12/2023-12-18.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4b8b78607cc46fa8",
+            "id": "3285acc065747d86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/2023-12/2023-12-15.md",
+                "file": "Travel/일본(오사카).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/2023-12/2023-12-15.md",
+                "file": "1. Daily/2023-12/2023-12-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/2023-12/2023-12-15.md"
+                "file": "1. Daily/2023-12/2023-12-18.md"
               }
             }
           },
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/2023-12/2023-12-15.md",
+                "file": "1. Daily/2023-12/2023-12-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,14 +172,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4b8b78607cc46fa8",
+  "active": "2818e73a97206400",
   "lastOpenFiles": [
+    "Travel/일본(오사카).md",
+    "1. Daily/2023-12/2023-12-18.md",
+    "Travel",
+    "자기 소개 사이트/일차/5일차/2023-12-18 PJ.md",
+    "자기 소개 사이트/일차/5일차",
+    "자기 소개 사이트/일차",
+    "회사/2023-12/2023-12-18 회사.md",
+    "회사/2023-12/2023-12-15 회사.md",
+    "자기 소개 사이트/일차/4일차/2023-12-15 PJ.md",
     "1. Daily/2023-12/2023-12-15.md",
-    "회사/2023-12/2023-12-15.md",
-    "자기 소개 사이트/4일차/2023-12-15 PJ.md",
     "Attached file/Pasted image 20231215154741.png",
-    "자기 소개 사이트/3일차/2023-12-14 PJ.md",
-    "자기 소개 사이트/4일차",
+    "자기 소개 사이트/일차/3일차/2023-12-14 PJ.md",
+    "자기 소개 사이트/일차/4일차",
     "1. Daily/2023-12/2023-12-14.md",
     "Attached file/Pasted image 20231214163437.png",
     "Attached file/Pasted image 20231214163425.png",
@@ -198,29 +204,22 @@
     "자기 소개 사이트/와이어프레임/2023-12-13/am 11_11 2023-12-13 11.08.30.excalidraw.md",
     "1. Daily/2023-12/2023-12-13.md",
     "1. Daily/2023-12/2023-12-11.md",
-    "자기 소개 사이트/2일차/스크롤 바 없애기(CSS).md",
-    "자기 소개 사이트/3일차",
+    "자기 소개 사이트/일차/2일차/스크롤 바 없애기(CSS).md",
+    "자기 소개 사이트/일차/3일차",
     "Github/파일VSC UI로 보는법.md",
     "Github",
-    "자기 소개 사이트/2일차/2023-12-13 PJ.md",
+    "자기 소개 사이트/일차/2일차/2023-12-13 PJ.md",
     "옵시디언 사용법/마크다운 사용.md",
     "옵시디언 사용법/옵시디언 사용법.md",
-    "자기 소개 사이트/1일차/2023-12-11 PJ.md",
-    "자기 소개 사이트/1일차/드래그 기능(JS).md",
+    "자기 소개 사이트/일차/1일차/2023-12-11 PJ.md",
+    "자기 소개 사이트/일차/1일차/드래그 기능(JS).md",
     "회사/2023-12/2023-12-13 회사.md",
     "Attached file/Pasted image 20231213150949.png",
     "자기 소개 사이트/단어장.md",
-    "자기 소개 사이트/사용 기술/사용 언어.md",
-    "1. Daily/2023-12/2023-12-07.md",
-    "자기 소개 사이트/와이어프레임/2023-12-13/am 9_22 2023-12-13 09.21.32.excalidraw.md",
-    "Front End/지식/속성 정의 순서(CSS).md",
     "Attached file/Pasted image 20231213112304.png",
     "자기 소개 사이트/와이어프레임/2023-12-13",
     "자기 소개 사이트/와이어프레임/2023-12-11",
-    "자기 소개 사이트/2일차",
-    "자기 소개 사이트/와이어프레임",
-    "자기 소개 사이트/1일차",
-    "자기 소개 사이트/사용 기술",
+    "자기 소개 사이트/일차/2일차",
     "무제 파일.canvas",
     "테스트용 캔버스.canvas"
   ]

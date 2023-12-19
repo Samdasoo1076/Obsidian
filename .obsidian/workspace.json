@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d5066221d9cc157b",
+        "id": "e335c890179a754b",
         "type": "tabs",
         "children": [
           {
-            "id": "2818e73a97206400",
+            "id": "0f09ced8f8a4ba82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-12/2023-12-18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3285acc065747d86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Travel/일본(오사카).md",
+                "file": "1. Daily/2023-12/2023-12-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-12/2023-12-18.md",
+                "file": "1. Daily/2023-12/2023-12-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-12/2023-12-18.md"
+                "file": "1. Daily/2023-12/2023-12-19.md"
               }
             }
           },
@@ -135,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-12/2023-12-18.md",
+                "file": "1. Daily/2023-12/2023-12-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,10 +160,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2818e73a97206400",
+  "active": "0f09ced8f8a4ba82",
   "lastOpenFiles": [
-    "Travel/일본(오사카).md",
+    "회사/2023-12/2023-12-19 회사.md",
+    "1. Daily/2023-12/2023-12-19.md",
+    "Attached file/az2pOgx_460sv.webp",
     "1. Daily/2023-12/2023-12-18.md",
+    "Travel/일본(오사카).md",
     "Travel",
     "자기 소개 사이트/일차/5일차/2023-12-18 PJ.md",
     "자기 소개 사이트/일차/5일차",
@@ -213,10 +204,7 @@
     "옵시디언 사용법/옵시디언 사용법.md",
     "자기 소개 사이트/일차/1일차/2023-12-11 PJ.md",
     "자기 소개 사이트/일차/1일차/드래그 기능(JS).md",
-    "회사/2023-12/2023-12-13 회사.md",
     "Attached file/Pasted image 20231213150949.png",
-    "자기 소개 사이트/단어장.md",
-    "Attached file/Pasted image 20231213112304.png",
     "자기 소개 사이트/와이어프레임/2023-12-13",
     "자기 소개 사이트/와이어프레임/2023-12-11",
     "자기 소개 사이트/일차/2일차",

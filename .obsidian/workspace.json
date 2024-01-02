@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0ef5aa65fd32b355",
+        "id": "e1b0e66a4464ceb2",
         "type": "tabs",
         "children": [
           {
-            "id": "b7642f93a14be085",
+            "id": "e14a562cb4ca8f23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-12/2023-12-22.md",
+                "file": "1. Daily/2024/2024-01/2024-01-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-12/2023-12-22.md",
+                "file": "1. Daily/2024/2024-01/2024-01-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-12/2023-12-22.md"
+                "file": "1. Daily/2024/2024-01/2024-01-01.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-12/2023-12-22.md",
+                "file": "1. Daily/2024/2024-01/2024-01-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,55 +160,55 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b7642f93a14be085",
+  "active": "e14a562cb4ca8f23",
   "lastOpenFiles": [
-    "1. Daily/2023-12/2023-12-22.md",
+    "자기 소개 사이트/2일차/2023-12-13 PJ.md",
+    "자기 소개 사이트/1일차/2023-12-11.md",
+    "자기 소개 사이트/1일차/2023-12-11 PJ.md",
+    "1. Daily/2024/2024-01/2024-01-01.md",
+    "Dates.md",
+    "테스트용 캔버스.canvas",
+    "1. Daily/2024/2024-01/2024-01-02.md",
+    "2023-09-18.md",
+    "2023-10-27.md",
+    "개인 지식",
+    "1. Daily/2024/2024-01",
+    "1. Daily/2024",
+    "1. Daily/2023",
+    "1. Daily/2023-11-01.md",
+    "1. Daily/2023-11-02.md",
+    "4. Yealry/2024.md",
+    "1. Daily/2023/2023-12/2023-12-22.md",
     "디센트/2023-12/2023-12-22 회사.md",
     "Attached file/Pasted image 20231222111148.png",
     "디센트/2023-12/2023-12-21 회사.md",
-    "1. Daily/2023-12/2023-12-21.md",
+    "1. Daily/2023/2023-12/2023-12-21.md",
     "자기 소개 사이트/일차/6일차/2023-12-21 PJ.md",
     "자기 소개 사이트/일차/6일차",
-    "1. Daily/2023-12/2023-12-20.md",
+    "1. Daily/2023/2023-12/2023-12-20.md",
     "Attached file/한컴오피스2022.zip",
     "자기 소개 사이트/일차/5일차/2023-12-20 PJ.md",
     "자기 소개 사이트/와이어프레임/2023-12-20/Drawing 2023-12-20 09.11.40.excalidraw.md",
     "자기 소개 사이트/와이어프레임/2023-12-13/am 11_11 2023-12-13 11.08.30.excalidraw.md",
     "자기 소개 사이트/와이어프레임/2023-12-13/am 9_22 2023-12-13 09.21.32.excalidraw.md",
-    "1. Daily/2023-12/2023-12-11.md",
-    "1. Daily/2023-12/2023-12-07.md",
-    "1. Daily/2023-12/2023-12-13.md",
-    "1. Daily/2023-12/2023-12-15.md",
-    "1. Daily/2023-12/2023-12-14.md",
-    "1. Daily/2023-11/2023-11-01.md",
-    "디센트/2023-12/2023-12-20 회사.md",
+    "1. Daily/2023/2023-12/2023-12-11.md",
+    "1. Daily/2023/2023-12/2023-12-07.md",
+    "1. Daily/2023/2023-12/2023-12-13.md",
+    "1. Daily/2023/2023-12/2023-12-15.md",
+    "1. Daily/2023/2023-12/2023-12-14.md",
     "자기 소개 사이트/와이어프레임/2023-12-20",
-    "1. Daily/2023-12/2023-12-19.md",
-    "디센트/2023-12/2023-12-19 회사.md",
     "Attached file/az2pOgx_460sv.webp",
-    "1. Daily/2023-12/2023-12-18.md",
-    "Travel/일본(오사카).md",
     "Travel",
-    "자기 소개 사이트/일차/5일차/2023-12-18 PJ.md",
     "자기 소개 사이트/일차/5일차",
     "자기 소개 사이트/일차",
-    "디센트/2023-12/2023-12-18 회사.md",
-    "디센트/2023-12/2023-12-15 회사.md",
-    "자기 소개 사이트/일차/4일차/2023-12-15 PJ.md",
     "Attached file/Pasted image 20231215154741.png",
-    "자기 소개 사이트/일차/3일차/2023-12-14 PJ.md",
-    "자기 소개 사이트/일차/4일차",
     "Attached file/Pasted image 20231214163437.png",
     "Attached file/Pasted image 20231214163425.png",
     "Attached file/Pasted image 20231214112658.png",
     "Attached file/Pasted image 20231214112532.png",
     "Attached file/Pasted image 20231214112517.png",
     "Attached file/Pasted image 20231214112449.png",
-    "Front End/유용한 사이트",
     "Attached file/Pasted image 20231214112205.png",
-    "자기 소개 사이트/일차/3일차",
-    "Github",
-    "무제 파일.canvas",
-    "테스트용 캔버스.canvas"
+    "무제 파일.canvas"
   ]
 }

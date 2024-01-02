@@ -1,5 +1,6 @@
 {
   "attachmentFolderPath": "Attached file",
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheck": false
 }

@@ -16,14 +16,5 @@
       ],
       "key": "["
     }
-  ],
-  "editor:toggle-spellcheck": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": ";"
-    }
   ]
 }

@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "572926b4295255ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Travel/일본(오사카).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a6e0606ae343f98d",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,8 +162,9 @@
   },
   "active": "a6e0606ae343f98d",
   "lastOpenFiles": [
-    "Travel/일본(오사카).md",
+    "1. Daily/2024/2024-01/2024-01-08.md",
     "1. Daily/2024/2024-01/2024-01-07.md",
+    "Travel/일본(오사카).md",
     "1. Daily/2024/2024-01/2024-01-06(키보드 엑스포).md",
     "Attached file/Pasted image 20240106234750.png",
     "Attached file/Pasted image 20240106234634.png",
@@ -214,7 +202,6 @@
     "자기 소개 사이트/일차/6일차",
     "1. Daily/2023/2023-12/2023-12-20.md",
     "Attached file/한컴오피스2022.zip",
-    "자기 소개 사이트/일차/5일차/2023-12-20 PJ.md",
     "자기 소개 사이트/와이어프레임/2023-12-20",
     "Attached file/az2pOgx_460sv.webp",
     "Travel",

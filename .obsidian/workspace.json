@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-01/2024-01-07.md",
+                "file": "1. Daily/2024/2024-01/2024-01-09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afd682654fb67ef6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily/2024/2024-01/2024-01-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024/2024-01/2024-01-07.md",
+                "file": "1. Daily/2024/2024-01/2024-01-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024/2024-01/2024-01-07.md"
+                "file": "1. Daily/2024/2024-01/2024-01-09.md"
               }
             }
           },
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024/2024-01/2024-01-07.md",
+                "file": "1. Daily/2024/2024-01/2024-01-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,6 +175,7 @@
   "active": "a6e0606ae343f98d",
   "lastOpenFiles": [
     "1. Daily/2024/2024-01/2024-01-08.md",
+    "1. Daily/2024/2024-01/2024-01-09.md",
     "1. Daily/2024/2024-01/2024-01-07.md",
     "Travel/일본(오사카).md",
     "1. Daily/2024/2024-01/2024-01-06(키보드 엑스포).md",
@@ -200,7 +213,6 @@
     "1. Daily/2023/2023-12/2023-12-21.md",
     "자기 소개 사이트/일차/6일차/2023-12-21 PJ.md",
     "자기 소개 사이트/일차/6일차",
-    "1. Daily/2023/2023-12/2023-12-20.md",
     "Attached file/한컴오피스2022.zip",
     "자기 소개 사이트/와이어프레임/2023-12-20",
     "Attached file/az2pOgx_460sv.webp",

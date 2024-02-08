@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-02/2024-02-07.md",
+                "file": "회사/유컴패니온/2024-02/2024-02-08 회사.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ea411ac3eb3a39d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily/2024/2024-02/2024-02-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024/2024-02/2024-02-07.md",
+                "file": "회사/유컴패니온/2024-02/2024-02-08 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024/2024-02/2024-02-07.md"
+                "file": "회사/유컴패니온/2024-02/2024-02-08 회사.md"
               }
             }
           },
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024/2024-02/2024-02-07.md",
+                "file": "회사/유컴패니온/2024-02/2024-02-08 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,21 +168,26 @@
       "dbfolder:Create a new database table": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "9efbf1e10ff35e6b",
   "lastOpenFiles": [
+    "Attached file/Pasted image 20240208144938.png",
+    "1. Daily/2024/2024-02/2024-02-08.md",
+    "회사/유컴패니온/2024-02/2024-02-08 회사.md",
+    "회사/유컴패니온/2024-02/2024-02-07 회사.md",
+    "회사/유컴패니온/2024-02",
+    "회사/디센트 회사/2023-09-18.md",
+    "1. Daily/2024/2024-02/2024-02-07.md",
     "1. Daily/2023/2023-09/2023-09-19.md",
-    "회사/유컴패니온/2024-02-07 회사.md",
     "Attached file/Pasted image 20240207174550.png",
     "Attached file/Pasted image 20240207174539.png",
     "Dates.md",
     "회사/유컴패니온",
     "언어 공부",
     "Untitled.md",
-    "1. Daily/2024/2024-02/2024-02-07.md",
     "2023-10-06.md",
     "2023-11-02.md",
     "회사",
@@ -192,11 +209,7 @@
     "Attached file/az2pOgx_460sv.webp",
     "1. Daily/2024/2024-01/2024-01-12.md",
     "1. Daily/2024/2024-01/2024-01-11.md",
-    "1. Daily/2024/2024-01/2024-01-10.md",
-    "1. Daily/2024/2024-01/2024-01-04.md",
     "테스트용 캔버스.canvas",
-    "Travel/일본(오사카).md",
-    "Git/깃허브 커밋 시간 변경.md",
     "Git",
     "Attached file/Pasted image 20240106234750.png",
     "Attached file/Pasted image 20240106234634.png",
@@ -207,7 +220,6 @@
     "개인 지식",
     "1. Daily/2024/2024-01",
     "1. Daily/2024",
-    "1. Daily/2023",
     "Attached file/Pasted image 20231222111148.png",
     "무제 파일.canvas"
   ]

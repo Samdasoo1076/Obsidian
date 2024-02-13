@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "c0ee557cd8b02562",
+        "id": "d3169e74951149f0",
         "type": "tabs",
         "children": [
           {
-            "id": "9efbf1e10ff35e6b",
+            "id": "38b223ac626f117e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-02/2024-02-08 회사.md",
+                "file": "회사/유컴패니온/2024-02/2024-02-13 회사.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6ea411ac3eb3a39d",
+            "id": "10a4f3d80e6c8a68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-02/2024-02-08.md",
+                "file": "1. Daily/2024/2024-02/2024-02-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/유컴패니온/2024-02/2024-02-08 회사.md",
+                "file": "회사/유컴패니온/2024-02/2024-02-13 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/유컴패니온/2024-02/2024-02-08 회사.md"
+                "file": "회사/유컴패니온/2024-02/2024-02-13 회사.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/유컴패니온/2024-02/2024-02-08 회사.md",
+                "file": "회사/유컴패니온/2024-02/2024-02-13 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,11 +172,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9efbf1e10ff35e6b",
+  "active": "38b223ac626f117e",
   "lastOpenFiles": [
-    "Attached file/Pasted image 20240208144938.png",
+    "Attached file/Pasted image 20240213115639.png",
+    "1. Daily/2024/2024-02/2024-02-13.md",
+    "회사/유컴패니온/2024-02/2024-02-13 회사.md",
     "1. Daily/2024/2024-02/2024-02-08.md",
     "회사/유컴패니온/2024-02/2024-02-08 회사.md",
+    "Attached file/Pasted image 20240208144938.png",
     "회사/유컴패니온/2024-02/2024-02-07 회사.md",
     "회사/유컴패니온/2024-02",
     "회사/디센트 회사/2023-09-18.md",
@@ -207,8 +210,6 @@
     "디센트/2023-12/2023-12-13 회사.md",
     "1. Daily/2024/2024-01/2024-01-13.md",
     "Attached file/az2pOgx_460sv.webp",
-    "1. Daily/2024/2024-01/2024-01-12.md",
-    "1. Daily/2024/2024-01/2024-01-11.md",
     "테스트용 캔버스.canvas",
     "Git",
     "Attached file/Pasted image 20240106234750.png",
@@ -220,7 +221,6 @@
     "개인 지식",
     "1. Daily/2024/2024-01",
     "1. Daily/2024",
-    "Attached file/Pasted image 20231222111148.png",
     "무제 파일.canvas"
   ]
 }

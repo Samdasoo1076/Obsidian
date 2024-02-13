@@ -1,5 +1,6 @@
 {
   "accentColor": "#6ff95d",
   "baseFontSize": 17,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "cssTheme": "Dracula for Obsidian"
 }

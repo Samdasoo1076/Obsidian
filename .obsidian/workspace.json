@@ -4,46 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d3169e74951149f0",
+        "id": "258f7c5c50089c2f",
         "type": "tabs",
         "children": [
           {
-            "id": "38b223ac626f117e",
+            "id": "30d88c979b8eec5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-02/2024-02-13 회사.md",
+                "file": "1. Daily/2024/2024-02/2024-02-14.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "10a4f3d80e6c8a68",
+            "id": "473615aa6cdf2189",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-02/2024-02-13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cc4548f7cfd2fb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Front End/JavaSciprt/DB 연결 (node.js).md",
+                "file": "회사/유컴패니온/2024-02/2024-02-14 회사.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/유컴패니온/2024-02/2024-02-13 회사.md",
+                "file": "회사/유컴패니온/2024-02/2024-02-14 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/유컴패니온/2024-02/2024-02-13 회사.md"
+                "file": "회사/유컴패니온/2024-02/2024-02-14 회사.md"
               }
             }
           },
@@ -147,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/유컴패니온/2024-02/2024-02-13 회사.md",
+                "file": "회사/유컴패니온/2024-02/2024-02-14 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,14 +173,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "38b223ac626f117e",
+  "active": "473615aa6cdf2189",
   "lastOpenFiles": [
+    "Attached file/Pasted image 20240214181355.png",
+    "1. Daily/2024/2024-02/2024-02-14.md",
+    "회사/유컴패니온/2024-02/2024-02-14 회사.md",
+    "Attached file/Pasted image 20240214143824.png",
+    "Attached file/Pasted image 20240214143702.png",
     "1. Daily/2024/2024-02/2024-02-13.md",
+    "회사/유컴패니온/2024-02/2024-02-13 회사.md",
+    "Dates.md",
     "Front End/JavaSciprt/DB 연결 (node.js).md",
     "옵시디언 사용법/코드 구현 하는법.md",
     "Attached file/Pasted image 20240213160011.png",
     "Attached file/Pasted image 20240213155935.png",
-    "회사/유컴패니온/2024-02/2024-02-13 회사.md",
     "API/공공데이터포털/공공 데이터 포털 API 연결.md",
     "Attached file/Pasted image 20240213155040.png",
     "Attached file/Pasted image 20240213154953.png",
@@ -201,8 +196,6 @@
     "Attached file/Pasted image 20240213154741.png",
     "API/공공데이터포털",
     "API",
-    "Attached file/Pasted image 20240213153532.png",
-    "Attached file/Pasted image 20240213153519.png",
     "1. Daily/2024/2024-02/2024-02-08.md",
     "회사/유컴패니온/2024-02/2024-02-08 회사.md",
     "회사/유컴패니온/2024-02/2024-02-07 회사.md",
@@ -210,7 +203,6 @@
     "회사/디센트 회사/2023-09-18.md",
     "1. Daily/2024/2024-02/2024-02-07.md",
     "1. Daily/2023/2023-09/2023-09-19.md",
-    "Dates.md",
     "회사/유컴패니온",
     "언어 공부",
     "Untitled.md",
@@ -227,8 +219,6 @@
     "자기 소개 사이트/와이어프레임/2023-12-20/Drawing 2023-12-20 09.11.40.excalidraw.md",
     "자기 소개 사이트/와이어프레임/2023-12-13/am 11_11 2023-12-13 11.08.30.excalidraw.md",
     "자기 소개 사이트/와이어프레임/2023-12-13/am 9_22 2023-12-13 09.21.32.excalidraw.md",
-    "자기 소개 사이트/와이어프레임/2023-12-11/pm 4_00 2023-12-11 15.56.23.excalidraw.md",
-    "자기 소개 사이트/와이어프레임/2023-12-11/pm 4_02 2023-12-11 15.56.23.excalidraw 1.md",
     "테스트용 캔버스.canvas",
     "Git",
     "개인 지식",

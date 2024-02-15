@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "30d88c979b8eec5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "회사/유컴패니온/2024-02/2024-02-15 회사.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7c48708757b6fbc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-02/2024-12-15.md",
+                "file": "회사/유컴패니온/2024-02/2024-02-15 회사.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,16 +160,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "30d88c979b8eec5f",
+  "active": "7c48708757b6fbc6",
   "lastOpenFiles": [
+    "1. Daily/2024/2024-02/2024-12-15.md",
+    "회사/유컴패니온/2024-02/2024-02-15 회사.md",
+    "키보드/ak87 split/맵핑 기능.md",
+    "키보드/ak87 split/키 맵핑 하기.md",
+    "Attached file/aihk_ak75split.layout 레이어 수정본 1.json",
+    "Attached file/aihk_ak75split.진짜진짜 수정본.json",
+    "Attached file/aihk_ak75split.layout 레이어 수정본.json",
+    "Attached file/Pasted image 20240215161311.png",
+    "Attached file/Pasted image 20240215161300.png",
+    "키보드/ak87 split",
+    "키보드/무제 파일.md",
+    "키보드",
+    "회사/유컴패니온/2024-02/2024-02-14 회사.md",
+    "1. Daily/2024/2024-02/2024-02-14.md",
     "Attached file/Pasted image 20240215113859.png",
     "회사/유컴패니온/2024-02/2024-02-07 회사.md",
     "회사/유컴패니온/2024-02/2024-02-08 회사.md",
     "회사/유컴패니온/2024-02/2024-02-13 회사.md",
-    "회사/유컴패니온/2024-02/2024-02-14 회사.md",
-    "회사/유컴패니온/2024-02/2024-02-15 회사.md",
-    "1. Daily/2024/2024-02/2024-12-15.md",
-    "1. Daily/2024/2024-02/2024-02-14.md",
     "Attached file/Pasted image 20240214181355.png",
     "Attached file/Pasted image 20240214143824.png",
     "Attached file/Pasted image 20240214143702.png",
@@ -194,9 +192,6 @@
     "API/공공데이터포털/공공 데이터 포털 API 연결.md",
     "Attached file/Pasted image 20240213155040.png",
     "Attached file/Pasted image 20240213154953.png",
-    "Attached file/Pasted image 20240213154948.png",
-    "Attached file/Pasted image 20240213154918.png",
-    "Attached file/Pasted image 20240213154841.png",
     "API/공공데이터포털",
     "API",
     "1. Daily/2024/2024-02/2024-02-08.md",
@@ -209,18 +204,11 @@
     "Untitled.md",
     "2023-10-06.md",
     "2023-11-02.md",
-    "회사",
     "2023-10-31.md",
-    "1. Daily/2024/2024-02",
-    "1. Daily/Untitled",
     "1. Daily/2024/2024-01/2024-01-15.md",
     "1. Daily/2023-11-01.md",
     "1. Daily/2024/2024-01/2024-01-14.md",
-    "옵시디언 사용법/단축키.md",
-    "자기 소개 사이트/와이어프레임/2023-12-20/Drawing 2023-12-20 09.11.40.excalidraw.md",
     "테스트용 캔버스.canvas",
-    "Git",
-    "개인 지식",
     "무제 파일.canvas"
   ]
 }

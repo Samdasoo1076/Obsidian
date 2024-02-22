@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0e43ff9bab4be027",
+            "id": "7d8dfe92814b564e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-02/2024-02-21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f34cf70bb37850b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "회사/유컴패니온/2024-02/2024-02-21 회사.md",
+                "file": "회사/유컴패니온/2024-02/2024-02-22 회사.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#2024-02-15",
+                "query": "tag:#2024-02-19",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/유컴패니온/2024-02/2024-02-21 회사.md",
+                "file": "회사/유컴패니온/2024-02/2024-02-22 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/유컴패니온/2024-02/2024-02-21 회사.md"
+                "file": "회사/유컴패니온/2024-02/2024-02-22 회사.md"
               }
             }
           },
@@ -160,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/유컴패니온/2024-02/2024-02-21 회사.md",
+                "file": "회사/유컴패니온/2024-02/2024-02-22 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,19 +184,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f34cf70bb37850b4",
+  "active": "7d8dfe92814b564e",
   "lastOpenFiles": [
-    "[.md",
+    "1. Daily/2024/2024-02/2024-02-22.md",
+    "회사/유컴패니온/2024-02/2024-02-22 회사.md",
+    "1. Daily/2024/2024-02/2024-02-21.md",
+    "1. Daily/2024/2024-02/2024-02-20.md",
     "회사/유컴패니온/2024-02/2024-02-21 회사.md",
+    "회사/유컴패니온/2024-02/2024-02-20 회사.md",
+    "회사/유컴패니온/2024-02/2024-02-19 회사.md",
+    "[.md",
     "Attached file/Pasted image 20240221142104.png",
     "Attached file/Pasted image 20240221142059.png",
-    "1. Daily/2024/2024-02/2024-02-21.md",
     "Front End/지식/CSRF 토큰.md",
     "Attached file/Pasted image 20240221141607.png",
     "Attached file/Pasted image 20240221141514.png",
-    "1. Daily/2024/2024-02/2024-02-20.md",
     "Front End/개그/코싸트 특별과정.md",
-    "회사/유컴패니온/2024-02/2024-02-20 회사.md",
     "Back End/Python/파이썬식 mvc 패턴.md",
     "Back End/Python/나누기.md",
     "Attached file/Pasted image 20240220143536.png",
@@ -217,7 +207,6 @@
     "1. Daily/2024/2024-02/2024-02-19.md",
     "API/공공데이터포털/공공 데이터 포털 API 연결.md",
     "API/REST API/API 값 디버깅 하는법.md",
-    "회사/유컴패니온/2024-02/2024-02-19 회사.md",
     "Attached file/Pasted image 20240219151757.png",
     "API/REST API",
     "1. Daily/2024/2024-02/2024-02-16.md",
@@ -233,8 +222,6 @@
     "회사/유컴패니온/2024-02/2024-02-08 회사.md",
     "회사/유컴패니온/2024-02/2024-02-13 회사.md",
     "회사/유컴패니온/2024-02/2024-02-14 회사.md",
-    "회사/유컴패니온/2024-02/2024-02-15 회사.md",
-    "Front End/JavaSciprt/페이지 뒤로가기시 스크립트 작동.md",
     "Attached file/aihk_ak75split.layout 레이어 수정본 1.json",
     "Attached file/aihk_ak75split.진짜진짜 수정본.json",
     "Attached file/aihk_ak75split.layout 레이어 수정본.json",

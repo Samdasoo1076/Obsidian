@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a74f7c650bbb4337",
+        "id": "8db8870d1274e133",
         "type": "tabs",
         "children": [
           {
-            "id": "7731cfffd7708491",
+            "id": "c7c62c9216abb2a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "4. Yealry/나/2024.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4. Yealry/나/2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "4. Yealry/나/2024.md"
+              }
             }
           },
           {
@@ -140,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "4. Yealry/나/2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,14 +184,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7731cfffd7708491",
+  "active": "c7c62c9216abb2a3",
   "lastOpenFiles": [
+    "1. Daily/2024/2024-02/2024-02-23.md",
+    "4. Yealry/회사/2024 회사.md",
+    "옵시디언 사용법/마크다운 사용.md",
+    "옵시디언 사용법/옵시디언 사용법.md",
+    "옵시디언 사용법/코드 구현 하는법.md",
+    "옵시디언 사용법/단축키.md",
+    "4. Yealry/나/2024.md",
+    "4. Yealry/나",
+    "4. Yealry/회사",
+    "4. Yealry/나/2023.md",
+    "2023-09.md",
+    "Dates.md",
+    "OIP.jpg",
     "회사/유컴패니온/2024-02/2024-02-13 회사.md",
     "회사/유컴패니온/2024-02/2024-02-14 회사.md",
     "회사/유컴패니온/2024-02/2024-02-15 회사.md",
     "회사/유컴패니온/2024-02/2024-02-08 회사.md",
     "회사/유컴패니온/2024-02/2024-02-07 회사.md",
-    "1. Daily/2024/2024-02/2024-02-23.md",
     "Attached file/Pasted image 20240223165647.png",
     "회사/유컴패니온/2024-02/2024-02-23 회사.md",
     "회사/유컴패니온/2024-02/2024-02-16 회사.md",
@@ -200,30 +220,18 @@
     "Front End/지식/CSRF 토큰.md",
     "Attached file/Pasted image 20240221141607.png",
     "Attached file/Pasted image 20240221141514.png",
-    "Front End/개그/코싸트 특별과정.md",
-    "Back End/Python/파이썬식 mvc 패턴.md",
-    "Back End/Python/나누기.md",
     "Attached file/Pasted image 20240220143536.png",
     "Attached file/Pasted image 20240220143525.png",
-    "1. Daily/2024/2024-02/2024-02-19.md",
-    "API/공공데이터포털/공공 데이터 포털 API 연결.md",
-    "API/REST API/API 값 디버깅 하는법.md",
     "Attached file/Pasted image 20240219151757.png",
     "API/REST API",
-    "1. Daily/2024/2024-02/2024-02-16.md",
-    "1. Daily/2024/2024-02/2024-02-15.md",
     "Attached file/Pasted image 20240216181642.png",
     "Back End/Python",
-    "1. Daily/2024/2024-02/2024-02-07.md",
     "Attached file/aihk_ak75split.layout 레이어 수정본 1.json",
     "Attached file/aihk_ak75split.진짜진짜 수정본.json",
     "Attached file/aihk_ak75split.layout 레이어 수정본.json",
-    "Attached file/Pasted image 20240215161311.png",
     "키보드/ak87 split",
     "키보드",
     "API/공공데이터포털",
-    "API",
-    "회사/유컴패니온/2024-02",
     "테스트용 캔버스.canvas",
     "무제 파일.canvas"
   ]

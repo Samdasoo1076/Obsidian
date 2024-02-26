@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c7c62c9216abb2a3",
+            "id": "7b19acebee5b35d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Yealry/나/2024.md",
+                "file": "회사/유컴패니온/2024-02/2024-02-26 회사.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3797f91f8456cf8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily/2024/2024-02/2024-02-26.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Yealry/나/2024.md",
+                "file": "1. Daily/2024/2024-02/2024-02-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Yealry/나/2024.md"
+                "file": "1. Daily/2024/2024-02/2024-02-26.md"
               }
             }
           },
@@ -147,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Yealry/나/2024.md",
+                "file": "1. Daily/2024/2024-02/2024-02-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,15 +197,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c7c62c9216abb2a3",
+  "active": "3797f91f8456cf8a",
   "lastOpenFiles": [
+    "Attached file/Pasted image 20240226111316.png",
+    "회사/유컴패니온/2024-02/2024-02-26 회사.md",
+    "회사/유컴패니온/2024-02/2024-02-23 회사.md",
+    "1. Daily/2024/2024-02/2024-02-26.md",
+    "영어/줄임말/TBH.md",
+    "영어/줄임말/NVM.md",
+    "영어/줄임말/BRB.md",
+    "영어/줄임말/ASAP.md",
+    "영어/줄임말",
+    "영어",
     "1. Daily/2024/2024-02/2024-02-23.md",
+    "4. Yealry/나/2024.md",
     "4. Yealry/회사/2024 회사.md",
     "옵시디언 사용법/마크다운 사용.md",
     "옵시디언 사용법/옵시디언 사용법.md",
     "옵시디언 사용법/코드 구현 하는법.md",
     "옵시디언 사용법/단축키.md",
-    "4. Yealry/나/2024.md",
     "4. Yealry/나",
     "4. Yealry/회사",
     "4. Yealry/나/2023.md",
@@ -205,19 +228,11 @@
     "회사/유컴패니온/2024-02/2024-02-08 회사.md",
     "회사/유컴패니온/2024-02/2024-02-07 회사.md",
     "Attached file/Pasted image 20240223165647.png",
-    "회사/유컴패니온/2024-02/2024-02-23 회사.md",
     "회사/유컴패니온/2024-02/2024-02-16 회사.md",
     "회사/유컴패니온/2024-02/2024-02-19 회사.md",
     "회사/유컴패니온/2024-02/2024-02-20 회사.md",
-    "회사/유컴패니온/2024-02/2024-02-21 회사.md",
-    "회사/유컴패니온/2024-02/2024-02-22 회사.md",
-    "1. Daily/2024/2024-02/2024-02-22.md",
-    "1. Daily/2024/2024-02/2024-02-21.md",
-    "1. Daily/2024/2024-02/2024-02-20.md",
-    "[.md",
     "Attached file/Pasted image 20240221142104.png",
     "Attached file/Pasted image 20240221142059.png",
-    "Front End/지식/CSRF 토큰.md",
     "Attached file/Pasted image 20240221141607.png",
     "Attached file/Pasted image 20240221141514.png",
     "Attached file/Pasted image 20240220143536.png",
@@ -230,8 +245,6 @@
     "Attached file/aihk_ak75split.진짜진짜 수정본.json",
     "Attached file/aihk_ak75split.layout 레이어 수정본.json",
     "키보드/ak87 split",
-    "키보드",
-    "API/공공데이터포털",
     "테스트용 캔버스.canvas",
     "무제 파일.canvas"
   ]

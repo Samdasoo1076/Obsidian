@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7b19acebee5b35d4",
+            "id": "04ccb0273f0e44bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-02/2024-02-26 회사.md",
+                "file": "1. Daily/2024/2024-02/2024-02-27.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3797f91f8456cf8a",
+            "id": "42fd95abe005c6d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-02/2024-02-26.md",
+                "file": "회사/유컴패니온/2024-02/2024-02-27 회사.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024/2024-02/2024-02-26.md",
+                "file": "회사/유컴패니온/2024-02/2024-02-27 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024/2024-02/2024-02-26.md"
+                "file": "회사/유컴패니온/2024-02/2024-02-27 회사.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024/2024-02/2024-02-26.md",
+                "file": "회사/유컴패니온/2024-02/2024-02-27 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,12 +197,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3797f91f8456cf8a",
+  "active": "42fd95abe005c6d6",
   "lastOpenFiles": [
-    "Attached file/Pasted image 20240226111316.png",
+    "1. Daily/2024/2024-02/2024-02-27.md",
+    "회사/유컴패니온/2024-02/2024-02-27 회사.md",
     "회사/유컴패니온/2024-02/2024-02-26 회사.md",
-    "회사/유컴패니온/2024-02/2024-02-23 회사.md",
     "1. Daily/2024/2024-02/2024-02-26.md",
+    "키보드/ak87 split/맵핑 기능.md",
+    "키보드/ak87 split/키 맵핑 하기.md",
+    "Attached file/Pasted image 20240226111316.png",
+    "회사/유컴패니온/2024-02/2024-02-23 회사.md",
     "영어/줄임말/TBH.md",
     "영어/줄임말/NVM.md",
     "영어/줄임말/BRB.md",
@@ -228,9 +232,6 @@
     "회사/유컴패니온/2024-02/2024-02-08 회사.md",
     "회사/유컴패니온/2024-02/2024-02-07 회사.md",
     "Attached file/Pasted image 20240223165647.png",
-    "회사/유컴패니온/2024-02/2024-02-16 회사.md",
-    "회사/유컴패니온/2024-02/2024-02-19 회사.md",
-    "회사/유컴패니온/2024-02/2024-02-20 회사.md",
     "Attached file/Pasted image 20240221142104.png",
     "Attached file/Pasted image 20240221142059.png",
     "Attached file/Pasted image 20240221141607.png",
@@ -239,7 +240,6 @@
     "Attached file/Pasted image 20240220143525.png",
     "Attached file/Pasted image 20240219151757.png",
     "API/REST API",
-    "Attached file/Pasted image 20240216181642.png",
     "Back End/Python",
     "Attached file/aihk_ak75split.layout 레이어 수정본 1.json",
     "Attached file/aihk_ak75split.진짜진짜 수정본.json",

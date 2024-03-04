@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "45276405afb48e59",
+    "id": "60d48822c1dd41cc",
     "type": "split",
     "children": [
       {
-        "id": "491296c317c43b85",
+        "id": "4f1237e7dde0bbd1",
         "type": "tabs",
         "children": [
           {
-            "id": "8802de495f814e32",
+            "id": "a182040d07353897",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-03/2024-03-01.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2f9bb75422080601",
+    "id": "6664c64377fc473c",
     "type": "split",
     "children": [
       {
-        "id": "ff595bb72ce214f7",
+        "id": "fa0387a11a56b64a",
         "type": "tabs",
         "children": [
           {
-            "id": "7d2b3d80d59c46ae",
+            "id": "300dab5325352b10",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "185a43a271d85fa0",
+            "id": "4a382f4072453f98",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#이렇게",
+                "query": "tag:#컵라면",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "006ac10b83c73b82",
+            "id": "fabcdb891b2d41b3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,28 @@
     "width": 300
   },
   "right": {
-    "id": "0d382cb1c34bf15f",
+    "id": "73d476c0015709cc",
     "type": "split",
     "children": [
       {
-        "id": "0a81cd483d5c5e46",
+        "id": "34bde289bb3ce0af",
         "type": "tabs",
         "children": [
           {
-            "id": "c6fb9af9107b7399",
+            "id": "67a1ba1f7421d3f5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "92383175150ab901",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024/2024-03/2024-03-01.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +105,19 @@
             }
           },
           {
-            "id": "f51e2fce0938cf83",
+            "id": "e66cde26bf465817",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db761ccf4c439f8c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -108,107 +128,51 @@
             }
           },
           {
-            "id": "2c5bae60abc62b53",
+            "id": "e87e05b5fc68d637",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024/2024-03/2024-03-01.md"
+                "file": "README.md"
               }
-            }
-          },
-          {
-            "id": "223692d4e4534ce6",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "1. Daily/2024/2024-03/2024-03-01.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "bfd535e1f4df0b5e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "dbfolder:Create a new database table": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "remotely-save:Remotely Save": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "dbfolder:Create a new database table": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false,
-      "remotely-save:Remotely Save": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "8802de495f814e32",
+  "active": "a182040d07353897",
   "lastOpenFiles": [
+    "1. Daily/2024/2024-03/2024-03-04.md",
+    "무제 파일.canvas",
+    "회사/유컴패니온/2024-03/2024-03-04 회사.md",
     "1. Daily/2024/2024-03/2024-03-01.md",
-    "1. Daily/2024/2024-03",
-    "1. Daily/2024/2024-02/2024-02-11.md",
-    "키보드/ak87 split/키 맵핑 하기.md",
-    "키보드/ak87 split/맵핑 기능.md",
-    "키보드/ak87 split",
-    "키보드",
-    "영어/줄임말/TBH.md",
-    "영어/줄임말/NVM.md",
-    "영어/줄임말/BRB.md",
-    "영어/줄임말/ASAP.md",
-    "영어/줄임말",
-    "영어",
-    "API/공공데이터포털/공공 데이터 포털 API 연결.md",
-    "API/REST API/API 값 디버깅 하는법.md",
-    "API/공공데이터포털",
-    "API/REST API",
-    "API",
-    "4. Yealry/회사/2024 회사.md",
-    "4. Yealry/회사",
-    "4. Yealry/나/2024.md",
-    "4. Yealry/나/2023.md",
-    "4. Yealry/나",
-    "Back End/자바/Int/함수/Integer/toBinaryString.md",
-    "Back End/자바/Int/함수/Integer/parseInt.md",
-    "Back End/자바/Int/함수/BitCount.md",
-    "Back End/자바/Int/함수/BigInteger.md",
-    "Back End/자바/String/함수/StringBuilder.md",
-    "Back End/자바/String/함수/REPLACE.md",
-    "Back End/자바/String/함수/Contains.md",
-    "Back End/자바/Array/함수/sort().md",
-    "Back End/자바/Array/함수/copyOfrange.md",
-    "Back End/자바/Float/함수/Math Class.md",
-    "Back End/자바/Char/함수/CharAt.md",
-    "Back End/자바/For/확장 for문.md",
-    "Back End/자바/Hash/HashMap.md",
-    "Attached file/Pasted image 20240226111316.png",
-    "Attached file/Pasted image 20240223165647.png",
-    "Attached file/Pasted image 20240221142104.png",
-    "Attached file/Pasted image 20240221142059.png",
-    "Attached file/Pasted image 20240221141607.png",
-    "Attached file/Pasted image 20240221141514.png",
-    "Attached file/Pasted image 20240220143536.png",
-    "Attached file/Pasted image 20240220143525.png",
-    "Attached file/Pasted image 20240219151757.png",
-    "Attached file/Pasted image 20240216181642.png",
-    "테스트용 캔버스.canvas",
-    "무제 파일.canvas"
+    "회사/디센트 회사/2023-10-27 회사.md",
+    "Dates.md",
+    "OIP.jpg",
+    "README.md",
+    "Excalidraw/Drawing 2024-03-04 13.47.54.excalidraw.md",
+    "회사/유컴패니온/2024-02/2024-02-29 회사.md",
+    "회사/유컴패니온/2024-02/2024-02-16 회사.md",
+    "회사/유컴패니온/2024-02/2024-02-28 회사.md",
+    "회사/유컴패니온/2024-03"
   ]
 }

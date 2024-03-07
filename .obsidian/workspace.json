@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "30745cbee280f638",
+            "id": "19f492a0c9a40fe1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-03/2024-03-05 회사.md",
+                "file": "회사/유컴패니온/파견지(롯데렌탈)/중문/MO/작업화면(중.M).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88451c9fff771f07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "회사/유컴패니온/2024-03/2024-03-07 회사.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f576e384c425d33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "회사/유컴패니온/파견지(롯데렌탈)/중문/MO/작업화면(중.M).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#컵라면",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/유컴패니온/2024-03/2024-03-05 회사.md",
+                "file": "회사/유컴패니온/파견지(롯데렌탈)/중문/MO/작업화면(중.M).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/유컴패니온/2024-03/2024-03-05 회사.md",
+                "file": "회사/유컴패니온/파견지(롯데렌탈)/중문/MO/작업화면(중.M).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/유컴패니온/2024-03/2024-03-05 회사.md"
+                "file": "회사/유컴패니온/파견지(롯데렌탈)/중문/MO/작업화면(중.M).md"
               }
             }
           }
@@ -159,29 +184,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "300dab5325352b10",
+  "active": "6f576e384c425d33",
   "lastOpenFiles": [
+    "회사/유컴패니온/파견지(롯데렌탈)/작업 내용.md",
+    "회사/유컴패니온/파견지(롯데렌탈)/중문/PC/작업화면(중.P).md",
+    "회사/유컴패니온/파견지(롯데렌탈)/중문/MO/작업화면(중.M).md",
+    "1. Daily/2024/2024-03/2024-03-07.md",
+    "1. Daily/2024/2024-03/2024-03-06.md",
+    "회사/유컴패니온/2024-03/2024-03-07 회사.md",
+    "회사/유컴패니온/2024-03/2024-03-06 회사.md",
+    "회사/유컴패니온/파견지(롯데렌탈)/커밋시 중요사항.md",
+    "회사/유컴패니온/파견지(롯데렌탈)/일문/MO",
+    "회사/유컴패니온/파견지(롯데렌탈)/일문/PC",
+    "회사/유컴패니온/파견지(롯데렌탈)/일문",
+    "회사/유컴패니온/파견지(롯데렌탈)/중문/MO",
+    "회사/유컴패니온/파견지(롯데렌탈)/중문/PC",
+    "회사/유컴패니온/파견지(롯데렌탈)/PC",
+    "회사/유컴패니온/파견지(롯데렌탈)/중문",
+    "회사/유컴패니온/2024-03/2024-03-05 회사.md",
+    "회사/유컴패니온/2024-02/2024-02-07 회사.md",
+    "회사/유컴패니온/파견지(롯데렌탈)",
+    "회사/유컴패니온/2024-03/무제 폴더",
     "Front End/개발자 모드(F12)/단축키/Hover.md",
     "Front End/개발자 모드(F12)/단축키/단축키.md",
     "Attached file/Pasted image 20240305155746.png",
-    "회사/유컴패니온/2024-03/2024-03-05 회사.md",
     "Front End/개발자 모드(F12)/단축키",
-    "Front End/개발자 모드(F12)",
     "1. Daily/2024/2024-03/2024-03-05.md",
     "1. Daily/2024/2024-03/2024-03-04.md",
     "회사/유컴패니온/2024-03/2024-03-04 회사.md",
     "무제 파일.canvas",
     "영어/단어/However.md",
     "README.md",
-    "영어/단어",
     "1. Daily/2024/2024-03/2024-03-01.md",
-    "회사/디센트 회사/2023-10-27 회사.md",
+    "회사/디센트/2023-10-27 회사.md",
     "Dates.md",
     "OIP.jpg",
     "Excalidraw/Drawing 2024-03-04 13.47.54.excalidraw.md",
     "회사/유컴패니온/2024-02/2024-02-29 회사.md",
     "회사/유컴패니온/2024-02/2024-02-16 회사.md",
-    "회사/유컴패니온/2024-02/2024-02-28 회사.md",
-    "회사/유컴패니온/2024-03"
+    "회사/유컴패니온/2024-02/2024-02-28 회사.md"
   ]
 }

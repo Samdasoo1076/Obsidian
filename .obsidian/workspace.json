@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aec0021a34f6e58e",
+            "id": "797b8a66382e6f04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-03/2024-03-08 회사.md",
+                "file": "회사/유컴패니온/파견지(롯데렌탈)/일문/MO/작업화면(일,M).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "78f298ef54a5fe94",
+            "id": "d6e9dc21c8b7c21b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/파견지(롯데렌탈)/중문/MO/작업화면(중.M).md",
+                "file": "회사/유컴패니온/2024-03/2024-03-11 회사.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/유컴패니온/파견지(롯데렌탈)/중문/MO/작업화면(중.M).md",
+                "file": "회사/유컴패니온/2024-03/2024-03-11 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/유컴패니온/파견지(롯데렌탈)/중문/MO/작업화면(중.M).md",
+                "file": "회사/유컴패니온/2024-03/2024-03-11 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/유컴패니온/파견지(롯데렌탈)/중문/MO/작업화면(중.M).md"
+                "file": "회사/유컴패니온/2024-03/2024-03-11 회사.md"
               }
             }
           }
@@ -172,13 +172,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "78f298ef54a5fe94",
+  "active": "d6e9dc21c8b7c21b",
   "lastOpenFiles": [
-    "회사/유컴패니온/2024-03/2024-03-08 회사.md",
-    "회사/유컴패니온/파견지(롯데렌탈)/중문/MO/작업화면(중.M).md",
-    "회사/유컴패니온/파견지(롯데렌탈)/중문/PC/작업화면(중.P).md",
-    "회사/유컴패니온/파견지(롯데렌탈)/커밋시 중요사항.md",
+    "회사/유컴패니온/파견지(롯데렌탈)/일문/MO/작업화면(일,M).md",
+    "회사/유컴패니온/2024-03/2024-03-11 회사.md",
     "회사/유컴패니온/파견지(롯데렌탈)/작업 내용.md",
+    "1. Daily/2024/2024-03/2024-03-11.md",
+    "회사/유컴패니온/파견지(롯데렌탈)/일문/무제 파일.md",
+    "회사/유컴패니온/파견지(롯데렌탈)/중문/PC/작업화면(중.P).md",
+    "회사/유컴패니온/파견지(롯데렌탈)/중문/MO/작업화면(중.M).md",
+    "회사/유컴패니온/숙지/휴가 작성 방법.md",
+    "Attached file/Pasted image 20240311145512.png",
+    "Attached file/Pasted image 20240311144856.png",
+    "회사/유컴패니온/숙지",
+    "Attached file/Pasted image 20240311133809.png",
+    "회사/유컴패니온/2024-03/2024-03-08 회사.md",
+    "회사/유컴패니온/파견지(롯데렌탈)/커밋시 중요사항.md",
     "1. Daily/2024/2024-03/2024-03-08.md",
     "회사/유컴패니온/2024-03/2024-03-07 회사.md",
     "Attached file/Pasted image 20240307155940.png",
@@ -200,7 +209,6 @@
     "Front End/개발자 모드(F12)/단축키/Hover.md",
     "Front End/개발자 모드(F12)/단축키/단축키.md",
     "Attached file/Pasted image 20240305155746.png",
-    "Front End/개발자 모드(F12)/단축키",
     "1. Daily/2024/2024-03/2024-03-05.md",
     "1. Daily/2024/2024-03/2024-03-04.md",
     "회사/유컴패니온/2024-03/2024-03-04 회사.md",
@@ -209,11 +217,6 @@
     "README.md",
     "1. Daily/2024/2024-03/2024-03-01.md",
     "회사/디센트/2023-10-27 회사.md",
-    "Dates.md",
-    "OIP.jpg",
-    "Excalidraw/Drawing 2024-03-04 13.47.54.excalidraw.md",
-    "회사/유컴패니온/2024-02/2024-02-29 회사.md",
-    "회사/유컴패니온/2024-02/2024-02-16 회사.md",
-    "회사/유컴패니온/2024-02/2024-02-28 회사.md"
+    "OIP.jpg"
   ]
 }

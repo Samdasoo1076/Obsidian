@@ -47,3 +47,7 @@ JPN > MP > User Agreement
 JPN > MO > User Agreement (상단 로고 링크 수정)
 JPN > MO > Contact Us (상단 로고 링크 수정)
 JPN > FAQ > FAQ
+JPN > MO > Benefit > Customer Discount(번역 안되어 있음)
+JPN > MO > Location > Chauffeur Branch
+[[2024-03-13 회사]]
+#2024-03-13 

@@ -13,12 +13,28 @@ Please enter your ID. = 請輸入ID。
 Please enter your password. = 請輸入密碼。
 Failure = 失敗
 success = 成功
+Invalid acces = 無法登入！
 
-login / findUserChnNew
-login / findPwdChnNew
-login / loginChn
-login / findUserResultChn
-join / step01ChnNew
-join / step02ChnNew
+
+
+#2024-03-13
+PC login / findUserChnNew
+PC login / findPwdChnNew
+PC login / loginChn
+PC login / findUserResultChn
+PC join / step01ChnNew
+PC join / step02ChnNew
 
 #2024-03-14
+PC myPage / memberLeaveChnNew
+PC myPage / memberModifyChnNew
+PC myPage / reservationDetatil.jsp (chn)
+PC myPage / reservationPay.do (chn)
+PC myPage / license.jsp(chn)
+
+MO login / findUserChnNew
+MO login / findPwdChnNew
+MO login / loginChn
+MO login / findUserResultChn
+MO join / step01ChnNew
+MO join / step02ChnNew

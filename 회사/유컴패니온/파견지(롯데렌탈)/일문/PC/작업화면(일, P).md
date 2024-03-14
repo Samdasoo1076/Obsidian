@@ -36,3 +36,8 @@ JPN > PC > My page > Withdrawal of membership
 
 [[2024-03-13 회사]]
 #2024-03-13 
+
+JPN > PC > My page > My reservation > My reservation (detail) 
+JPN > PC > My page > My reservation > My reservation (detail) > My
+[[2024-03-14 회사]]
+#2024-03-14 

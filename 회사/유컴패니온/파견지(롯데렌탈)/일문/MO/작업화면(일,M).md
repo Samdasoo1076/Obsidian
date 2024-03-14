@@ -51,3 +51,10 @@ JPN > MO > Benefit > Customer Discount(번역 안되어 있음)
 JPN > MO > Location > Chauffeur Branch
 [[2024-03-13 회사]]
 #2024-03-13 
+
+
+JPN > MO > My page > My reservation > My reservation (detail) 
+JPN > MO > My page > My reservation > My reservation (detail) > My
+[[2024-03-14 회사]]
+#2024-03-14 
+

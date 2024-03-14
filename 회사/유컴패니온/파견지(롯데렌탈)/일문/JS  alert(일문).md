@@ -13,12 +13,28 @@ Please enter your ID. = IDを入力してください。
 Please enter your password. = パスワードを入力してください。
 Failure = 失敗
 success = 成功
+Invalid access = アクセスが無効です。
 
-login / findUserJpnNew
-login / findPwdJpnNew
-login / loginJpn
-login / findUserResultJpnNew
-join / step01JpnNew
-join / step02JpnNew
+
+
+#2024-03-13
+PC login / findUserJpnNew
+PC login / findPwdJpnNew
+PC login / loginJpn
+PC login / findUserResultJpnNew
+PC join / step01JpnNew
+PC join / step02JpnNew
 
 #2024-03-14
+PC myPage / memberLeaveJpnNew
+PC myPage / memberModifyJpnNew
+PC myPage / reservationDetatil.jsp (jpn)
+PC myPage / reservationPay.do (jpn)
+PC myPage / license.jsp(jpn)
+
+MO login / findUserJpnNew
+MO login / findPwdJpnNew
+MO login / loginJpn
+MO login / findUserResultJpnNew
+MO join / step01JpnNew
+Mo join / step02JpnNew

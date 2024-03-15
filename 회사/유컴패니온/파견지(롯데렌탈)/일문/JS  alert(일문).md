@@ -17,7 +17,7 @@ Invalid access = アクセスが無効です。
 
 
 
-#2024-03-13
+#2024-03-13[[2024-03-13 회사]]
 PC login / findUserJpnNew
 PC login / findPwdJpnNew
 PC login / loginJpn
@@ -25,7 +25,7 @@ PC login / findUserResultJpnNew
 PC join / step01JpnNew
 PC join / step02JpnNew
 
-#2024-03-14
+#2024-03-14 [[2024-03-14 회사]]
 PC myPage / memberLeaveJpnNew
 PC myPage / memberModifyJpnNew
 PC myPage / reservationDetatil.jsp (jpn)
@@ -37,4 +37,10 @@ MO login / findPwdJpnNew
 MO login / loginJpn
 MO login / findUserResultJpnNew
 MO join / step01JpnNew
-Mo join / step02JpnNew
+MO join / step02JpnNew
+
+
+#2024-03-15  [[2024-03-15 회사]]
+MO myPage / memberLeaveJpnNew
+MO myPage / memberModifyJpnNew
+MO myPage / license.jsp(jpn)

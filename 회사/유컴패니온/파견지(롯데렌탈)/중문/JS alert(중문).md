@@ -30,7 +30,7 @@ PC myPage / memberLeaveChnNew
 PC myPage / memberModifyChnNew
 PC myPage / reservationDetatil.jsp (chn)
 PC myPage / reservationPay.do (chn)
-PC myPage / license.jsp(chn)
+PC myPage / license.jsp(chn, PC)
 
 MO login / findUserChnNew
 MO login / findPwdChnNew
@@ -38,3 +38,8 @@ MO login / loginChn
 MO login / findUserResultChn
 MO join / step01ChnNew
 MO join / step02ChnNew
+
+#2024-03-15 
+MO myPage / memberLeaveChnNew
+MO myPage / memberModifyChnNew
+MO myPage / license.jsp(chn, MO)

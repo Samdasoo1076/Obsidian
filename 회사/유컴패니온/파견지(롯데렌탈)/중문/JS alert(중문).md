@@ -17,7 +17,7 @@ Invalid acces = 無法登入！
 
 
 
-#2024-03-13
+#2024-03-13 [[2024-03-13 회사]]
 PC login / findUserChnNew
 PC login / findPwdChnNew
 PC login / loginChn
@@ -25,7 +25,7 @@ PC login / findUserResultChn
 PC join / step01ChnNew
 PC join / step02ChnNew
 
-#2024-03-14
+#2024-03-14 [[2024-03-14 회사]]
 PC myPage / memberLeaveChnNew
 PC myPage / memberModifyChnNew
 PC myPage / reservationDetatil.jsp (chn)
@@ -39,7 +39,11 @@ MO login / findUserResultChn
 MO join / step01ChnNew
 MO join / step02ChnNew
 
-#2024-03-15 
+#2024-03-15 [[2024-03-15 회사]]
 MO myPage / memberLeaveChnNew
 MO myPage / memberModifyChnNew
 MO myPage / license.jsp(chn, MO)
+
+
+#2024-03-19 [[2024-03-19 회사]]
+MO myPage / memberLeaveChnNew (수정)

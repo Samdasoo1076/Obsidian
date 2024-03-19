@@ -44,3 +44,7 @@ MO join / step02JpnNew
 MO myPage / memberLeaveJpnNew
 MO myPage / memberModifyJpnNew
 MO myPage / license.jsp(jpn)
+
+
+#2024-03-19 [[2024-03-19 회사]]
+MO myPage / memberModifyJpnNew (수정)

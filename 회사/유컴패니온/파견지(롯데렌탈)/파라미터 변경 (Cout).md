@@ -10,4 +10,27 @@ PC / chn / reservation
 
 #2024-03-20 [[2024-03-20 회사]]
 PC / chn / reservationDetail
-PC / chn / reservationPay (1009)
+PC / chn / reservationPay 
+PC / jpn / license
+PC / jpn / memberModifyRentcar
+PC / jpn / reservationDetail
+PC / jpn / reservationPay
+
+<c:out value=""/>
+
+MO / chn / license
+MO / chn / main
+MO / chn / memberModifyRentcar
+MO / chn / reservationDetail 
+MO / chn / reservationPay
+
+MO / jpn / license
+MO / jpn / main
+MO / jpn / memberModifyRentcar
+MO / jpn / reservationmDetaill
+Mo / jpn / reservationPay
+
+
+
+
+

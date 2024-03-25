@@ -8,31 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ea305e9e1260960",
+            "id": "f9ac4e0a21b4dc11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-03/2024-03-22.md",
+                "file": "1. Daily/2024/2024-03/2024-03-25.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f9ac4e0a21b4dc11",
+            "id": "3ea305e9e1260960",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-03/2024-03-22 회사.md",
+                "file": "회사/유컴패니온/2024-03/2024-03-25 회사.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ae4150a56323483",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "회사/유컴패니온/파견지(롯데렌탈)/내가 확인한 오류.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/유컴패니온/2024-03/2024-03-22 회사.md",
+                "file": "회사/유컴패니온/파견지(롯데렌탈)/내가 확인한 오류.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/유컴패니온/2024-03/2024-03-22 회사.md"
+                "file": "회사/유컴패니온/파견지(롯데렌탈)/내가 확인한 오류.md"
               }
             }
           },
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/유컴패니온/2024-03/2024-03-22 회사.md",
+                "file": "회사/유컴패니온/파견지(롯데렌탈)/내가 확인한 오류.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,11 +184,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f9ac4e0a21b4dc11",
+  "active": "3ae4150a56323483",
   "lastOpenFiles": [
-    "1. Daily/2024/2024-03/2024-03-22.md",
+    "Attached file/Pasted image 20240325162655.png",
+    "Attached file/Pasted image 20240325161943.png",
+    "회사/유컴패니온/2024-03/2024-03-25 회사.md",
     "회사/유컴패니온/2024-03/2024-03-22 회사.md",
+    "회사/유컴패니온/파견지(롯데렌탈)/내가 확인한 오류.md",
+    "Attached file/Pasted image 20240325133318.png",
+    "Attached file/Pasted image 20240325131702.png",
+    "Attached file/Pasted image 20240325101925.png",
+    "Attached file/Pasted image 20240325101817.png",
+    "Attached file/Pasted image 20240325095132.png",
+    "Attached file/Pasted image 20240325091132.png",
+    "1. Daily/2024/2024-03/2024-03-22.md",
+    "회사/유컴패니온/파견지(롯데렌탈)/사이트 테스트 현황.md",
     "회사/유컴패니온/파견지(롯데렌탈)/번역 안된것.md",
+    "1. Daily/2024/2024-03/2024-03-25.md",
     "회사/유컴패니온/파견지(롯데렌탈)/파라미터 변경 (Cout).md",
     "옵시디언 사용법/불릿 생성 Ctrl + d.md",
     "옵시디언 사용법/줄 생성 Ctrl + `.md",
@@ -198,13 +222,7 @@
     "회사/유컴패니온/파견지(롯데렌탈)/일문/JS  alert(일문).md",
     "회사/유컴패니온/2024-03/2024-03-15 회사.md",
     "회사/유컴패니온/파견지(롯데렌탈)/숙지.md",
-    "회사/유컴패니온/숙지/용어.md",
-    "Attached file/Pasted image 20240319144948.png",
-    "회사/유컴패니온/2024-03/2024-03-14 회사.md",
-    "1. Daily/2024/2024-03/2024-03-17.md",
     "index.html",
-    "1. Daily/2024/2024-03/2024-03-01.md",
-    "회사/유컴패니온/파견지(롯데렌탈)/중문/PC/작업화면(중.P).md",
     "회사/유컴패니온/파견지(롯데렌탈)/일문/MO",
     "회사/유컴패니온/파견지(롯데렌탈)/중문/PC",
     "회사/유컴패니온/파견지(롯데렌탈)/중문/MO",
@@ -215,12 +233,6 @@
     "회사/유컴패니온/숙지",
     "회사/유컴패니온/2024-03",
     "무제 파일.canvas",
-    "Attached file/Pasted image 20240314092114.png",
-    "Attached file/Pasted image 20240314090007.png",
-    "Attached file/Pasted image 20240313165955.png",
-    "Attached file/Pasted image 20240313165953.png",
-    "Attached file/Pasted image 20240313165938.png",
-    "Attached file/Pasted image 20240312131330.png",
     "테스트용 캔버스.canvas"
   ]
 }

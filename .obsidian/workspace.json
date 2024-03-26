@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "ee1a9079f17b372e",
+        "id": "4aa0f42ba1cf7f34",
         "type": "tabs",
         "children": [
           {
-            "id": "f9ac4e0a21b4dc11",
+            "id": "d12708711fcba0b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-03/2024-03-25.md",
+                "file": "1. Daily/2024/2024-03/2024-03-26.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3ea305e9e1260960",
+            "id": "ebc9ce357715dcfd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-03/2024-03-25 회사.md",
+                "file": "1. Daily/2024/2024-03/2024-03-26.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3ae4150a56323483",
+            "id": "1563b1ccf813bdba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/파견지(롯데렌탈)/내가 확인한 오류.md",
+                "file": "회사/유컴패니온/파견지(롯데렌탈)/일문/JS  alert(일문).md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#이렇게",
+                "query": "#2024",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 296.5
   },
   "right": {
     "id": "0d382cb1c34bf15f",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/유컴패니온/파견지(롯데렌탈)/내가 확인한 오류.md",
+                "file": "회사/유컴패니온/파견지(롯데렌탈)/일문/JS  alert(일문).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/유컴패니온/파견지(롯데렌탈)/내가 확인한 오류.md"
+                "file": "회사/유컴패니온/파견지(롯데렌탈)/일문/JS  alert(일문).md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/유컴패니온/파견지(롯데렌탈)/내가 확인한 오류.md",
+                "file": "회사/유컴패니온/파견지(롯데렌탈)/일문/JS  alert(일문).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,13 +184,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3ae4150a56323483",
+  "active": "1563b1ccf813bdba",
   "lastOpenFiles": [
+    "회사/유컴패니온/파견지(롯데렌탈)/일문/공통 단어(일문.md",
+    "회사/유컴패니온/파견지(롯데렌탈)/일문/JS  alert(일문).md",
+    "회사/유컴패니온/파견지(롯데렌탈)/중문/JS alert(중문).md",
+    "회사/유컴패니온/파견지(롯데렌탈)/번역 안된것.md",
+    "회사/유컴패니온/파견지(롯데렌탈)/내가 확인한 오류.md",
+    "회사/유컴패니온/파견지(롯데렌탈)/공통 코드(sso.rentacar.v2.js).md",
+    "1. Daily/2024/2024-03/2024-03-26.md",
+    "Front End/개그/자바 스크립트2.md",
+    "회사/유컴패니온/2024-03/2024-03-26 회사.md",
+    "4. Yealry/나/2024.md",
+    "영어/줄임말/NVM.md",
+    "영어/줄임말/TBH.md",
+    "회사/유컴패니온/2024-03/2024-03-25 회사.md",
+    "1. Daily/2024/2024-03/2024-03-25.md",
     "Attached file/Pasted image 20240325162655.png",
     "Attached file/Pasted image 20240325161943.png",
-    "회사/유컴패니온/2024-03/2024-03-25 회사.md",
     "회사/유컴패니온/2024-03/2024-03-22 회사.md",
-    "회사/유컴패니온/파견지(롯데렌탈)/내가 확인한 오류.md",
     "Attached file/Pasted image 20240325133318.png",
     "Attached file/Pasted image 20240325131702.png",
     "Attached file/Pasted image 20240325101925.png",
@@ -199,8 +211,6 @@
     "Attached file/Pasted image 20240325091132.png",
     "1. Daily/2024/2024-03/2024-03-22.md",
     "회사/유컴패니온/파견지(롯데렌탈)/사이트 테스트 현황.md",
-    "회사/유컴패니온/파견지(롯데렌탈)/번역 안된것.md",
-    "1. Daily/2024/2024-03/2024-03-25.md",
     "회사/유컴패니온/파견지(롯데렌탈)/파라미터 변경 (Cout).md",
     "옵시디언 사용법/불릿 생성 Ctrl + d.md",
     "옵시디언 사용법/줄 생성 Ctrl + `.md",
@@ -210,18 +220,8 @@
     "옵시디언 사용법/옵시디언 사용법.md",
     "회사/유컴패니온/파견지(롯데렌탈)/중, 일문 번역 오류.md",
     "1. Daily/2024/2024-03/2024-03-21.md",
-    "1. Daily/2024/2024-03/2024-03-20.md",
     "Attached file/Pasted image 20240321130804.png",
     "Attached file/Pasted image 20240321130757.png",
-    "회사/유컴패니온/2024-03/2024-03-20 회사.md",
-    "Attached file/Pasted image 20240321084135.png",
-    "4. Yealry/나/2024.md",
-    "회사/유컴패니온/2024-03/2024-03-19 회사.md",
-    "1. Daily/2024/2024-03/2024-03-19.md",
-    "회사/유컴패니온/파견지(롯데렌탈)/중문/JS alert(중문).md",
-    "회사/유컴패니온/파견지(롯데렌탈)/일문/JS  alert(일문).md",
-    "회사/유컴패니온/2024-03/2024-03-15 회사.md",
-    "회사/유컴패니온/파견지(롯데렌탈)/숙지.md",
     "index.html",
     "회사/유컴패니온/파견지(롯데렌탈)/일문/MO",
     "회사/유컴패니온/파견지(롯데렌탈)/중문/PC",

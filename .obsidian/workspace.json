@@ -13,26 +13,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-03/2024-03-27.md",
+                "file": "회사/유컴패니온/2024-03/2024-03-27 회사.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "715c76c1c9229a6c",
+            "id": "c10c154c978bfc0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개인 사이트/vercel.md",
+                "file": "1. Daily/2024/2024-03/2024-03-28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9464e45b990763d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "회사/유컴패니온/2024-03/2024-03-28 회사.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개인 사이트/vercel.md",
+                "file": "회사/유컴패니온/2024-03/2024-03-27 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개인 사이트/vercel.md"
+                "file": "회사/유컴패니온/2024-03/2024-03-27 회사.md"
               }
             }
           },
@@ -136,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개인 사이트/vercel.md",
+                "file": "회사/유컴패니온/2024-03/2024-03-27 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,8 +183,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "715c76c1c9229a6c",
+  "active": "27704a5a820c30b8",
   "lastOpenFiles": [
+    "1. Daily/2024/2024-03/2024-03-28.md",
+    "회사/유컴패니온/2024-03/2024-03-28 회사.md",
+    "회사/유컴패니온/2024-03/2024-03-27 회사.md",
     "1. Daily/2024/2024-03/2024-03-27.md",
     "개인 사이트/vercel.md",
     "Front End/유용한 사이트/조회수 늘리기.md",
@@ -185,7 +199,6 @@
     "L3 Study/개속관 사동선.md",
     "Travel/일본(오사카).md",
     "L3 Study/데이터베이스 관리 시스템.md",
-    "회사/유컴패니온/2024-03/2024-03-27 회사.md",
     "Excalidraw/Drawing 2023-09-26 10.14.28.excalidraw.md",
     "Excalidraw/Drawing 2023-09-26 10.14.29.excalidraw.md",
     "Excalidraw/Drawing 2023-11-02 15.16.00.excalidraw.md",
@@ -200,8 +213,6 @@
     "1. Daily/2024/2024-03/2024-03-19.md",
     "회사/유컴패니온/2024-03/2024-03-25 회사.md",
     "회사/유컴패니온/파견지(롯데렌탈)/일문/JS  alert(일문).md",
-    "회사/유컴패니온/파견지(롯데렌탈)/일문/공통 단어(일문.md",
-    "회사/유컴패니온/파견지(롯데렌탈)/중문/JS alert(중문).md",
     "Attached file/Pasted image 20240325162655.png",
     "Attached file/Pasted image 20240325161943.png",
     "Attached file/Pasted image 20240325133318.png",

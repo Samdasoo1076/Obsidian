@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-03/2024-03-28.md",
+                "file": "1. Daily/2024/2024-03/2024-03-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-03/2024-03-28 회사.md",
+                "file": "회사/유컴패니온/2024-03/2024-03-29 회사.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/유컴패니온/2024-03/2024-03-27 회사.md",
+                "file": "회사/유컴패니온/2024-03/2024-03-29 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/유컴패니온/2024-03/2024-03-27 회사.md"
+                "file": "회사/유컴패니온/2024-03/2024-03-29 회사.md"
               }
             }
           },
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/유컴패니온/2024-03/2024-03-27 회사.md",
+                "file": "회사/유컴패니온/2024-03/2024-03-29 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,11 +184,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "27704a5a820c30b8",
+  "active": "9464e45b990763d8",
   "lastOpenFiles": [
-    "1. Daily/2024/2024-03/2024-03-28.md",
-    "회사/유컴패니온/2024-03/2024-03-28 회사.md",
     "회사/유컴패니온/2024-03/2024-03-27 회사.md",
+    "회사/유컴패니온/2024-03/2024-03-29 회사.md",
+    "1. Daily/2024/2024-03/2024-03-29.md",
+    "회사/유컴패니온/2024-03/2024-03-28 회사.md",
+    "1. Daily/2024/2024-03/2024-03-28.md",
     "1. Daily/2024/2024-03/2024-03-27.md",
     "개인 사이트/vercel.md",
     "Front End/유용한 사이트/조회수 늘리기.md",
@@ -211,8 +214,6 @@
     "1. Daily/2024/2024-03/2024-03-26.md",
     "1. Daily/2024/2024-03/2024-03-25.md",
     "1. Daily/2024/2024-03/2024-03-19.md",
-    "회사/유컴패니온/2024-03/2024-03-25 회사.md",
-    "회사/유컴패니온/파견지(롯데렌탈)/일문/JS  alert(일문).md",
     "Attached file/Pasted image 20240325162655.png",
     "Attached file/Pasted image 20240325161943.png",
     "Attached file/Pasted image 20240325133318.png",

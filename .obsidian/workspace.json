@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "27704a5a820c30b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "회사/유컴패니온/2024-03/2024-03-27 회사.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c10c154c978bfc0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-04/2024-04-01.md",
+                "file": "1. Daily/2024/2024-04/2024-04-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-04/2024-04-01 회사.md",
+                "file": "회사/유컴패니온/2024-04/2024-04-02 회사.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#2024",
+                "query": "tag:#2024-03-19",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/유컴패니온/2024-04/2024-04-01 회사.md",
+                "file": "회사/유컴패니온/2024-04/2024-04-02 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/유컴패니온/2024-04/2024-04-01 회사.md"
+                "file": "회사/유컴패니온/2024-04/2024-04-02 회사.md"
               }
             }
           },
@@ -148,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/유컴패니온/2024-04/2024-04-01 회사.md",
+                "file": "회사/유컴패니온/2024-04/2024-04-02 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,8 +174,14 @@
   },
   "active": "9464e45b990763d8",
   "lastOpenFiles": [
-    "회사/유컴패니온/파견지(롯데렌탈)/파라미터 변경 (Cout).md",
+    "회사/유컴패니온/숙지/용어.md",
+    "회사/유컴패니온/2024-04/2024-04-02 회사.md",
     "회사/유컴패니온/2024-04/2024-04-01 회사.md",
+    "개발",
+    "1. Daily/2024/2024-04/2024-04-02.md",
+    "1. Daily/2024/2024-04/2024-04-01.md",
+    "회사/유컴패니온/2024-03/2024-03-27 회사.md",
+    "회사/유컴패니온/파견지(롯데렌탈)/파라미터 변경 (Cout).md",
     "회사/유컴패니온/파견지(롯데렌탈)/중문/JS alert(중문).md",
     "회사/유컴패니온/파견지(롯데렌탈)/내가 확인한 오류.md",
     "회사/유컴패니온/파견지(롯데렌탈)/번역 안된것.md",
@@ -197,8 +191,6 @@
     "회사/유컴패니온/파견지(롯데렌탈)/커밋시 중요사항.md",
     "회사/유컴패니온/파견지(롯데렌탈)/중, 일문 번역 오류.md",
     "회사/유컴패니온/파견지(롯데렌탈)/공통 코드(sso.rentacar.v2.js).md",
-    "회사/유컴패니온/2024-03/2024-03-27 회사.md",
-    "1. Daily/2024/2024-04/2024-04-01.md",
     "회사/유컴패니온/2024-03/2024-03-29 회사.md",
     "회사/유컴패니온/2024-04",
     "1. Daily/2024/2024-03/2024-03-29.md",
@@ -213,9 +205,6 @@
     "Front End/유용한 사이트/무제 폴더",
     "옵시디언 사용법/코드 구현 하는법.md",
     "내가 풀은 알고리즘/L3 필기시험.md",
-    "L3 Study/개속관 사동선.md",
-    "Travel/일본(오사카).md",
-    "L3 Study/데이터베이스 관리 시스템.md",
     "Attached file/Pasted image 20240325162655.png",
     "Attached file/Pasted image 20240325161943.png",
     "Attached file/Pasted image 20240325133318.png",
@@ -231,7 +220,6 @@
     "회사/유컴패니온/파견지(롯데렌탈)/중문/PC",
     "회사/유컴패니온/파견지(롯데렌탈)/중문/MO",
     "회사/유컴패니온/파견지(롯데렌탈)/일문/PC",
-    "회사/유컴패니온/파견지(롯데렌탈)/중문",
     "무제 파일.canvas",
     "테스트용 캔버스.canvas"
   ]

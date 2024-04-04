@@ -8,24 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c10c154c978bfc0b",
+            "id": "9464e45b990763d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-04/2024-04-03 회사.md",
+                "file": "1. Daily/2024/2024-04/2024-04-04.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9464e45b990763d8",
+            "id": "c10c154c978bfc0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-04/2024-04-03.md",
+                "file": "회사/유컴패니온/파견지(롯데렌탈)/파라미터 변경 (Cout).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "809c1b48038656ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "회사/유컴패니온/2024-04/2024-04-04 회사.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024/2024-04/2024-04-03.md",
+                "file": "회사/유컴패니온/파견지(롯데렌탈)/파라미터 변경 (Cout).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024/2024-04/2024-04-03.md"
+                "file": "회사/유컴패니온/파견지(롯데렌탈)/파라미터 변경 (Cout).md"
               }
             }
           },
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024/2024-04/2024-04-03.md",
+                "file": "회사/유컴패니온/파견지(롯데렌탈)/파라미터 변경 (Cout).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,11 +184,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9464e45b990763d8",
+  "active": "c10c154c978bfc0b",
   "lastOpenFiles": [
-    "키보드/ak87 split/키 맵핑 하기.md",
-    "1. Daily/2024/2024-04/2024-04-03.md",
+    "회사/유컴패니온/2024-04/2024-04-04 회사.md",
+    "회사/유컴패니온/파견지(롯데렌탈)/파라미터 변경 (Cout).md",
+    "1. Daily/2024/2024-04/2024-04-04.md",
     "회사/유컴패니온/2024-04/2024-04-03 회사.md",
+    "1. Daily/2024/2024-04/2024-04-03.md",
+    "키보드/ak87 split/키 맵핑 하기.md",
     "회사/유컴패니온/2024-04/2024-04-01 회사.md",
     "회사/유컴패니온/2024-04/2024-04-02 회사.md",
     "1. Daily/2024/2024-04/2024-04-02.md",
@@ -184,7 +199,6 @@
     "개발",
     "1. Daily/2024/2024-04/2024-04-01.md",
     "회사/유컴패니온/2024-03/2024-03-27 회사.md",
-    "회사/유컴패니온/파견지(롯데렌탈)/파라미터 변경 (Cout).md",
     "회사/유컴패니온/파견지(롯데렌탈)/중문/JS alert(중문).md",
     "회사/유컴패니온/파견지(롯데렌탈)/내가 확인한 오류.md",
     "회사/유컴패니온/파견지(롯데렌탈)/번역 안된것.md",
@@ -201,8 +215,6 @@
     "회사/유컴패니온/2024-03/2024-03-28 회사.md",
     "1. Daily/2024/2024-03/2024-03-28.md",
     "1. Daily/2024/2024-03/2024-03-27.md",
-    "개인 사이트/vercel.md",
-    "Front End/유용한 사이트/조회수 늘리기.md",
     "개인 사이트",
     "Front End/유용한 사이트/무제 폴더",
     "Attached file/Pasted image 20240325162655.png",

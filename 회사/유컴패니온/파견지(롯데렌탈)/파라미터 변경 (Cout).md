@@ -73,3 +73,11 @@ PC / eng / join / step02.jsp
 Fmt태그랑, 
 #2024-04-04 [[2024-04-04 회사]]
 
+<c:out value=""/>
+PC / chn / join / step01.jsp
+PC / chn / join / step02.jsp
+
+MO / chn / join / step01.jsp
+MO / chn / join / step02.jsp
+
+#2024-04-05 [[2024-04-05 회사]]

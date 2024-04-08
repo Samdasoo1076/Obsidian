@@ -81,3 +81,17 @@ MO / chn / join / step01.jsp
 MO / chn / join / step02.jsp
 
 #2024-04-05 [[2024-04-05 회사]]
+
+<c:out value=""/>
+PC / chn / myPage / memberLeaveComplete.jsp
+PC / chn / myPage / memberLeaveLeaveRentcar.jsp
+PC / chn / myPage / memberModifyRentcar.jsp
+PC / chn / myPage / memberModifyComplete.jsp
+
+MO / chn / myPage / memberLeaveLeaveRentcar.jsp
+MO / chn / myPage / memberLeaveComplete.jsp
+MO / chn / myPage / memberModifyRentcar.jsp
+MO / chn / myPage / memberModifyComplete.jsp
+
+
+#2024-04-05 [[2024-04-08 회사]]

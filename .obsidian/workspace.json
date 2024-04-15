@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024/2024-04/2024-04-15.md",
+                "file": "회사/유컴패니온/2024-04/2024-04-15 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024/2024-04/2024-04-15.md"
+                "file": "회사/유컴패니온/2024-04/2024-04-15 회사.md"
               }
             }
           },
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024/2024-04/2024-04-15.md",
+                "file": "회사/유컴패니온/2024-04/2024-04-15 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,10 +171,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "29248f49e7a94238",
+  "active": "9464e45b990763d8",
   "lastOpenFiles": [
-    "회사/유컴패니온/2024-04/2024-04-12 회사.md",
     "1. Daily/2024/2024-04/2024-04-15.md",
+    "회사/유컴패니온/2024-04/2024-04-12 회사.md",
     "회사/유컴패니온/2024-04/2024-04-11 회사.md",
     "1. Daily/2024/2024-04/2024-04-12.md",
     "회사/유컴패니온/2024-04/2024-04-15 회사.md",

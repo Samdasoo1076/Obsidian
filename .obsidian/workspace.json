@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-04/2024-04-11 회사.md",
+                "file": "회사/유컴패니온/2024-04/2024-04-15 회사.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-04/2024-04-11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6be9cef6466b111d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "회사/유컴패니온/파견지(롯데렌탈)/파라미터 변경 (Cout).md",
+                "file": "1. Daily/2024/2024-04/2024-04-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024/2024-04/2024-04-11.md",
+                "file": "1. Daily/2024/2024-04/2024-04-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024/2024-04/2024-04-11.md"
+                "file": "1. Daily/2024/2024-04/2024-04-15.md"
               }
             }
           },
@@ -148,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024/2024-04/2024-04-11.md",
+                "file": "1. Daily/2024/2024-04/2024-04-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,9 +174,13 @@
   },
   "active": "29248f49e7a94238",
   "lastOpenFiles": [
+    "회사/유컴패니온/2024-04/2024-04-12 회사.md",
+    "1. Daily/2024/2024-04/2024-04-15.md",
     "회사/유컴패니온/2024-04/2024-04-11 회사.md",
-    "1. Daily/2024/2024-04/2024-04-11.md",
+    "1. Daily/2024/2024-04/2024-04-12.md",
+    "회사/유컴패니온/2024-04/2024-04-15 회사.md",
     "1. Daily/2024/2024-04/2024-04-08.md",
+    "1. Daily/2024/2024-04/2024-04-11.md",
     "1. Daily/2024/2024-04/2024-04-09.md",
     "회사/유컴패니온/2024-04/2024-04-09 회사.md",
     "Attached file/use_thum.png",
@@ -210,10 +202,6 @@
     "1. Daily/2024/2024-04/2024-04-02.md",
     "회사/유컴패니온/숙지/용어.md",
     "개발",
-    "1. Daily/2024/2024-04/2024-04-01.md",
-    "회사/유컴패니온/2024-03/2024-03-27 회사.md",
-    "회사/유컴패니온/파견지(롯데렌탈)/중문/JS alert(중문).md",
-    "회사/유컴패니온/파견지(롯데렌탈)/내가 확인한 오류.md",
     "회사/유컴패니온/2024-04",
     "1. Daily/2024/2024-04",
     "개인 사이트",

@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024/2024-04/2024-04-17.md",
+                "file": "회사/유컴패니온/2024-04/2024-04-17 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024/2024-04/2024-04-17.md"
+                "file": "회사/유컴패니온/2024-04/2024-04-17 회사.md"
               }
             }
           },
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024/2024-04/2024-04-17.md",
+                "file": "회사/유컴패니온/2024-04/2024-04-17 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,8 +173,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8b20e680bd9f0e70",
+  "active": "29248f49e7a94238",
   "lastOpenFiles": [
+    "1. Daily/2024/2024-04/2024-04-17.md",
     "Attached file/운영자매뉴얼(ADMIN).pptx",
     "Attached file/Pasted image 20240417091053.png",
     "Attached file/Pasted image 20240417090417.png",
@@ -184,7 +184,6 @@
     "Attached file/Pasted image 20240417085358.png",
     "회사/유컴패니온/2024-04/2024-04-17 회사.md",
     "1. Daily/2024/2024-04/2024-04-16.md",
-    "1. Daily/2024/2024-04/2024-04-17.md",
     "회사/유컴패니온/2024-04/2024-04-16 회사.md",
     "Attached file/Pasted image 20240416162306.png",
     "Attached file/Pasted image 20240416162211.png",
@@ -221,7 +220,6 @@
     "회사/유컴패니온/파견지(롯데렌탈)/일문/MO",
     "회사/유컴패니온/파견지(롯데렌탈)/중문/PC",
     "회사/유컴패니온/파견지(롯데렌탈)/중문/MO",
-    "회사/유컴패니온/파견지(롯데렌탈)/일문/PC",
     "무제 파일.canvas",
     "테스트용 캔버스.canvas"
   ]

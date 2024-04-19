@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-04/2024-04-18 회사.md",
+                "file": "회사/유컴패니온/2024-04/2024-04-19 회사.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Back End/Python/파이썬식 mvc 패턴.md",
+                "file": "1. Daily/2024/2024-04/2024-04-19.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#2024-03-19",
+                "query": "tag:#파견",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Back End/Python/파이썬식 mvc 패턴.md",
+                "file": "회사/유컴패니온/2024-04/2024-04-19 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Back End/Python/파이썬식 mvc 패턴.md"
+                "file": "회사/유컴패니온/2024-04/2024-04-19 회사.md"
               }
             }
           },
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Back End/Python/파이썬식 mvc 패턴.md",
+                "file": "회사/유컴패니온/2024-04/2024-04-19 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,11 +171,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8b20e680bd9f0e70",
+  "active": "29248f49e7a94238",
   "lastOpenFiles": [
+    "1. Daily/2024/2024-04/2024-04-19.md",
+    "회사/유컴패니온/2024-04/2024-04-19 회사.md",
+    "회사/유컴패니온/2024-04/2024-04-18 회사.md",
+    "Back End/Python/파이썬식 mvc 패턴.md",
     "1. Daily/2024/2024-04/2024-04-18.md",
     "1. Daily/2024/2024-04/2024-04-17.md",
-    "회사/유컴패니온/2024-04/2024-04-18 회사.md",
     "회사/유컴패니온/2024-04/2024-04-17 회사.md",
     "옵시디언 사용법/코드 구현 하는법.md",
     "Attached file/az2pOgx_460sv.webp",
@@ -208,9 +210,6 @@
     "회사/유컴패니온/2024-04/2024-04-04 회사.md",
     "1. Daily/2024/2024-04/2024-04-04.md",
     "Back End/자바/Int/함수/BitCount.md",
-    "Back End/자바/Int/함수/BigInteger.md",
-    "Back End/자바/함수.md",
-    "Back End/자바/Array/함수/copyOfrange.md",
     "개발",
     "회사/유컴패니온/2024-04",
     "1. Daily/2024/2024-04",

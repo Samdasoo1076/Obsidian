@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-04/2024-04-23.md",
+                "file": "회사/유컴패니온/2024-04/2024-04-24 회사.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,12 +23,15 @@
             "id": "8b20e680bd9f0e70",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily/2024/2024-04/2024-04-24.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "회사/유컴패니온/2024-04/2024-04-24 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "회사/유컴패니온/2024-04/2024-04-24 회사.md"
+              }
             }
           },
           {
@@ -129,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "회사/유컴패니온/2024-04/2024-04-24 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,13 +171,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8b20e680bd9f0e70",
+  "active": "29248f49e7a94238",
   "lastOpenFiles": [
+    "1. Daily/2024/2024-04/2024-04-24.md",
+    "회사/유컴패니온/2024-04/2024-04-24 회사.md",
     "회사/유컴패니온/2024-04/2024-04-23 회사.md",
+    "1. Daily/2024/2024-04/2024-04-23.md",
     "회사/유컴패니온/2024-02/2024-02-23 회사.md",
     "회사/유컴패니온/2024-02/2024-02-22 회사.md",
     "회사/유컴패니온/2024-02/2024-02-21 회사.md",
-    "1. Daily/2024/2024-04/2024-04-23.md",
     "1. Daily/2024/2024-04/2024-04-22.md",
     "2024-04-23.md",
     "2024-04-23 1.md",
@@ -201,8 +210,6 @@
     "회사/유컴패니온/2024-04/2024-04-12 회사.md",
     "회사/유컴패니온/2024-04/2024-04-11 회사.md",
     "1. Daily/2024/2024-04/2024-04-12.md",
-    "1. Daily/2024/2024-04/2024-04-08.md",
-    "1. Daily/2024/2024-04/2024-04-11.md",
     "개발",
     "회사/유컴패니온/2024-04",
     "1. Daily/2024/2024-04",

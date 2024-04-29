@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"34a7244a3593a079","type":"file","file":"Back End/자바/1. 필수지식/개념/객체 지향.md","x":-140,"y":-1020,"width":520,"height":530},
+		{"id":"08ceebbdc0faf1b2","type":"text","text":"객체 1","x":-720,"y":-400,"width":250,"height":60,"color":"1"},
+		{"id":"ac2858c170b32a68","type":"text","text":"객체 2","x":160,"y":-400,"width":250,"height":60,"color":"1"},
+		{"id":"03404dd9ef21bec4","type":"text","text":"메세지","x":-305,"y":-160,"width":250,"height":60,"color":"4"},
+		{"id":"156a105d93561586","type":"text","text":"메소드","x":-657,"y":-275,"width":125,"height":60,"color":"5"},
+		{"id":"6016abb78560a381","type":"text","text":"메소드","x":223,"y":-275,"width":125,"height":60,"color":"5"},
+		{"id":"af3f98195bc5eda0","type":"text","text":"객체 1","x":-68,"y":20,"width":250,"height":60,"color":"1"},
+		{"id":"d95b544ac208cb85","type":"text","text":"객체 2","x":812,"y":20,"width":250,"height":60,"color":"1"},
+		{"id":"aee76e489951b418","type":"text","text":"메세지","x":347,"y":260,"width":250,"height":60,"color":"4"},
+		{"id":"38814a0210e969b2","type":"text","text":"대표적인 예시","x":-305,"y":-400,"width":250,"height":60},
+		{"id":"4fb2656c3aa4603e","type":"text","text":"자율성 부여\n캡슐화","x":347,"y":-10,"width":250,"height":90},
+		{"id":"a0aa6f4df3727d69","type":"text","text":"메소드","x":-130,"y":260,"width":125,"height":60,"color":"5"},
+		{"id":"7ed720d5b7afcfd6","type":"text","text":"인터페이스","x":-130,"y":145,"width":250,"height":60,"color":"6"},
+		{"id":"8724262eb22f4cc1","type":"text","text":"인터페이스","x":812,"y":145,"width":250,"height":60,"color":"6"},
+		{"id":"2bc0aa002ee131a9","type":"text","text":"메소드","x":875,"y":290,"width":125,"height":60,"color":"5"}
+	],
+	"edges":[
+		{"id":"249d4744fc1fa514","fromNode":"08ceebbdc0faf1b2","fromSide":"bottom","toNode":"156a105d93561586","toSide":"top"},
+		{"id":"de4c40c2fed6ec99","fromNode":"ac2858c170b32a68","fromSide":"bottom","toNode":"6016abb78560a381","toSide":"top"},
+		{"id":"802de889b24571bb","fromNode":"6016abb78560a381","fromSide":"top","toNode":"ac2858c170b32a68","toSide":"bottom"},
+		{"id":"bb63b56019c51f3f","fromNode":"156a105d93561586","fromSide":"top","toNode":"08ceebbdc0faf1b2","toSide":"bottom"},
+		{"id":"b9685d8034a6a367","fromNode":"156a105d93561586","fromSide":"bottom","toNode":"03404dd9ef21bec4","toSide":"left","label":"통신"},
+		{"id":"6502ba9d18986d94","fromNode":"03404dd9ef21bec4","fromSide":"right","toNode":"6016abb78560a381","toSide":"bottom"},
+		{"id":"e596bde87424a7c8","fromNode":"03404dd9ef21bec4","fromSide":"left","toNode":"156a105d93561586","toSide":"bottom"},
+		{"id":"662995e19b65642d","fromNode":"03404dd9ef21bec4","fromSide":"right","toNode":"6016abb78560a381","toSide":"bottom","label":"통신"},
+		{"id":"e5b7b0de82f5102d","fromNode":"aee76e489951b418","fromSide":"right","toNode":"2bc0aa002ee131a9","toSide":"bottom"},
+		{"id":"ba3e6c10c502a84b","fromNode":"aee76e489951b418","fromSide":"right","toNode":"2bc0aa002ee131a9","toSide":"bottom"},
+		{"id":"1ba4622bcd118e7b","fromNode":"aee76e489951b418","fromSide":"left","toNode":"a0aa6f4df3727d69","toSide":"bottom"},
+		{"id":"477f6209cbeb5fd9","fromNode":"af3f98195bc5eda0","fromSide":"bottom","toNode":"7ed720d5b7afcfd6","toSide":"top"},
+		{"id":"0055659b9ba4c769","fromNode":"7ed720d5b7afcfd6","fromSide":"bottom","toNode":"a0aa6f4df3727d69","toSide":"top"},
+		{"id":"4bbce60045e56c87","fromNode":"a0aa6f4df3727d69","fromSide":"top","toNode":"7ed720d5b7afcfd6","toSide":"bottom"},
+		{"id":"37f485cf82cfce9e","fromNode":"7ed720d5b7afcfd6","fromSide":"top","toNode":"af3f98195bc5eda0","toSide":"bottom"},
+		{"id":"a4ad6b7f3b4b7128","fromNode":"2bc0aa002ee131a9","fromSide":"top","toNode":"8724262eb22f4cc1","toSide":"bottom"},
+		{"id":"e72eac5705ff2a74","fromNode":"d95b544ac208cb85","fromSide":"bottom","toNode":"8724262eb22f4cc1","toSide":"top"},
+		{"id":"6a6ab7ef5eed62fb","fromNode":"8724262eb22f4cc1","fromSide":"bottom","toNode":"2bc0aa002ee131a9","toSide":"top"},
+		{"id":"943add128c09c0d5","fromNode":"8724262eb22f4cc1","fromSide":"top","toNode":"d95b544ac208cb85","toSide":"bottom"}
+	]
+}

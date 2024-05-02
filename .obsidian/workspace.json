@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-04/2024-04-30.md",
+                "file": "회사/유컴패니온/2024-05/2024-05-02 회사.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-04/2024-04-30 회사.md",
+                "file": "1. Daily/2024/2024-05/2024-05-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/유컴패니온/2024-04/2024-04-30 회사.md",
+                "file": "1. Daily/2024/2024-05/2024-05-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/유컴패니온/2024-04/2024-04-30 회사.md"
+                "file": "1. Daily/2024/2024-05/2024-05-02.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/유컴패니온/2024-04/2024-04-30 회사.md",
+                "file": "1. Daily/2024/2024-05/2024-05-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,8 +174,14 @@
   },
   "active": "9656c0178de78fdc",
   "lastOpenFiles": [
-    "1. Daily/2024/2024-04/2024-04-30.md",
+    "Attached file/Pasted image 20240502161618.png",
+    "회사/유컴패니온/2024-05/2024-05-02 회사.md",
+    "1. Daily/2024/2024-05/2024-05-02.md",
     "회사/유컴패니온/2024-04/2024-04-30 회사.md",
+    "1. Daily/2024/2024-05",
+    "회사/유컴패니온/2024-05",
+    "회사/유컴패니온/2024-04/무제 파일.md",
+    "1. Daily/2024/2024-04/2024-04-30.md",
     "회사/유컴패니온/2024-04/2024-04-29 회사.md",
     "1. Daily/2024/2024-04/2024-04-29.md",
     "Attached file/Pasted image 20240429151417.png",
@@ -206,23 +212,17 @@
     "Attached file/Pasted image 20240426152611.png",
     "Attached file/Pasted image 20240426152441.png",
     "Attached file/Pasted image 20240426152439.png",
-    "Back End/자바/Interface/컬렉션 프레임워크/Set 컬렉션.md",
     "Attached file/Pasted image 20240426152116.png",
     "Attached file/Pasted image 20240426151629.png",
     "Attached file/Pasted image 20240426151437.png",
     "Back End/자바/Interface/컬렉션 프레임워크",
     "Attached file/Pasted image 20240426151226.png",
     "Back End/자바/Interface",
-    "Back End/자바/Spring/Framework, Boot 차이.md",
     "Back End/자바/Spring",
-    "회사/유컴패니온/2024-04/2024-04-25 회사.md",
-    "회사/유컴패니온/2024-04/2024-04-24 회사.md",
     "Attached file/운영자매뉴얼(ADMIN).pptx",
     "개발",
     "회사/유컴패니온/2024-04",
     "1. Daily/2024/2024-04",
-    "개인 사이트",
-    "Front End/유용한 사이트/무제 폴더",
     "테스트용 캔버스.canvas"
   ]
 }

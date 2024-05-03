@@ -8,19 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf4502b8995335c7",
+            "id": "9656c0178de78fdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-05/2024-05-02 회사.md",
+                "file": "1. Daily/2024/2024-05/2024-05-03.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9656c0178de78fdc",
+            "id": "2564ba6dc0aa45f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "회사/유컴패니온/숙지/용어/프로포절(proposal).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98eddea6ff1509e9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Back End/자바/1. 필수지식/개념/디자인 패턴/팩토리 메서드.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "e9d428f76c911d12",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -61,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#2024-04-29",
+                "query": "tag:#프로포절",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024/2024-05/2024-05-02.md",
+                "file": "회사/유컴패니온/숙지/용어/프로포절(proposal).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024/2024-05/2024-05-02.md"
+                "file": "회사/유컴패니온/숙지/용어/프로포절(proposal).md"
               }
             }
           },
@@ -136,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024/2024-05/2024-05-02.md",
+                "file": "회사/유컴패니온/숙지/용어/프로포절(proposal).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,11 +195,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9656c0178de78fdc",
+  "active": "185a43a271d85fa0",
   "lastOpenFiles": [
-    "Attached file/Pasted image 20240502161618.png",
-    "회사/유컴패니온/2024-05/2024-05-02 회사.md",
+    "회사/유컴패니온/숙지/용어/용어.md",
+    "회사/유컴패니온/숙지/용어/프로포절(proposal).md",
+    "회사/유컴패니온/숙지/용어",
+    "Back End/자바/1. 필수지식/개념/디자인 패턴/팩토리 메소드.md",
+    "Back End/자바/1. 필수지식/개념/디자인 패턴/팩토리 메서드.excalidraw.md",
+    "Back End/자바/1. 필수지식/개념/객체 지향.md",
+    "Back End/자바/1. 필수지식/개념/디자인 패턴",
+    "1. Daily/2024/2024-05/2024-05-03 로직.excalidraw.md",
+    "1. Daily/2024/2024-05/2024-05-03.md",
     "1. Daily/2024/2024-05/2024-05-02.md",
+    "1. Daily/2024/2024-05/2024-05-03 로직.canvas",
+    "1. Daily/2024/2024-05/2024-05-03 로직 이해.md",
+    "Back End/자바/함수.md",
+    "Back End/자바/객체 지향.canvas",
+    "회사/유컴패니온/2024-05/2024-05-03 회사.md",
+    "회사/유컴패니온/2024-05/2024-05-02 회사.md",
+    "Attached file/Pasted image 20240502161618.png",
     "회사/유컴패니온/2024-04/2024-04-30 회사.md",
     "1. Daily/2024/2024-05",
     "회사/유컴패니온/2024-05",
@@ -186,13 +223,11 @@
     "1. Daily/2024/2024-04/2024-04-29.md",
     "Attached file/Pasted image 20240429151417.png",
     "1. Daily/2024/2024-04/2024-04-26.md",
-    "Back End/자바/무제 파일.canvas",
     "Back End/자바/1. 필수지식/개념/DTO를 사용하는 이유.md",
     "Back End/자바/2. 참고지식/유클리드 호제법.md",
     "Back End/자바/2. 참고지식/length과 size 차이.md",
     "Back End/자바/2. 참고지식/Wrapper Classes.md",
     "Back End/자바/1. 필수지식/개념",
-    "Back End/자바/1. 필수지식/개념/객체 지향.md",
     "회사/유컴패니온/2024-04/2024-04-26 회사.md",
     "1. Daily/2024/2024-04/2024-04-25.md",
     "Front End/JavaSciprt/DOM.md",
@@ -200,15 +235,7 @@
     "무제 파일.canvas",
     "Front End/JavaSciprt/무제 파일.canvas",
     "Attached file/Pasted image 20240426170818.png",
-    "회사/유컴패니온/숙지/용어.md",
     "Back End/자바/Interface/인터페이스.md",
-    "Back End/자바/Interface/컬렉션 프레임워크/컬렉션 프레임워크.md",
-    "Back End/자바/Interface/컬렉션 프레임워크/List 컬렉션.md",
-    "Back End/자바/Interface/컬렉션 프레임워크/Map 컬렉션.md",
-    "Back End/자바/Interface/추상 클래스.md",
-    "Back End/자바/Interface/추상 메소드.md",
-    "Back End/자바/1. 필수지식/개념/오버로딩, 오버라이딩.md",
-    "Back End/자바/함수.md",
     "Attached file/Pasted image 20240426152611.png",
     "Attached file/Pasted image 20240426152441.png",
     "Attached file/Pasted image 20240426152439.png",
@@ -216,13 +243,10 @@
     "Attached file/Pasted image 20240426151629.png",
     "Attached file/Pasted image 20240426151437.png",
     "Back End/자바/Interface/컬렉션 프레임워크",
-    "Attached file/Pasted image 20240426151226.png",
     "Back End/자바/Interface",
     "Back End/자바/Spring",
     "Attached file/운영자매뉴얼(ADMIN).pptx",
     "개발",
-    "회사/유컴패니온/2024-04",
-    "1. Daily/2024/2024-04",
     "테스트용 캔버스.canvas"
   ]
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-05/2024-05-07.md",
+                "file": "회사/유컴패니온/2024-05/2024-05-08 회사.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front End/지식/정규표현식/0. 기호기능.md",
+                "file": "1. Daily/2024/2024-05/2024-05-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front End/지식/정규표현식/0. 템플릿.md",
+                "file": "4. Yealry/나/2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024/2024-05/2024-05-07.md",
+                "file": "4. Yealry/나/2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024/2024-05/2024-05-07.md"
+                "file": "4. Yealry/나/2024.md"
               }
             }
           },
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024/2024-05/2024-05-07.md",
+                "file": "4. Yealry/나/2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,9 +184,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2564ba6dc0aa45f3",
+  "active": "4df6f6723736079c",
   "lastOpenFiles": [
+    "1. Daily/2024/2024-05/2024-05-08.md",
+    "4. Yealry/나/2024.md",
+    "4. Yealry/나/2023.md",
+    "1. Daily/2024/2024-01/2024-01-07.md",
+    "Front End/지식/정규표현식/0. 템플릿.md",
+    "회사/유컴패니온/2024-05/2024-05-08 회사.md",
     "회사/유컴패니온/2024-05/2024-05-07 회사.md",
+    "Front End/지식/정규표현식/0. 기호기능.md",
     "1. Daily/2024/2024-05/2024-05-07.md",
     "Front End/지식/정규표현식/일부만 찾기.md",
     "Front End/지식/정규표현식/특수 문자 찾기.md",
@@ -194,8 +202,6 @@
     "Front End/지식/정규표현식/부정.md",
     "Front End/지식/정규표현식/모두 찾기.md",
     "Front End/지식/정규표현식/0부터 9까지.md",
-    "Front End/지식/정규표현식/0. 템플릿.md",
-    "Front End/지식/정규표현식/0. 기호기능.md",
     "1. Daily/2023/2023-11/2023-11-17.md",
     "회사/디센트/2023-10-27 회사.md",
     "Back End/자바/함수.md",
@@ -209,14 +215,9 @@
     "회사/유컴패니온/2024-05/2024-05-03 회사.md",
     "Back End/자바/1. 필수지식/개념/디자인 패턴/팩토리 메서드.excalidraw.md",
     "1. Daily/2024/2024-05/2024-05-02.md",
-    "회사/유컴패니온/숙지/용어/용어.md",
     "회사/유컴패니온/숙지/용어",
-    "Back End/자바/1. 필수지식/개념/디자인 패턴/팩토리 메소드.md",
-    "Back End/자바/1. 필수지식/개념/객체 지향.md",
     "Back End/자바/1. 필수지식/개념/디자인 패턴",
-    "1. Daily/2024/2024-05/2024-05-03 로직.excalidraw.md",
     "1. Daily/2024/2024-05/2024-05-03 로직.canvas",
-    "1. Daily/2024/2024-05/2024-05-03 로직 이해.md",
     "Back End/자바/객체 지향.canvas",
     "Attached file/Pasted image 20240502161618.png",
     "1. Daily/2024/2024-05",

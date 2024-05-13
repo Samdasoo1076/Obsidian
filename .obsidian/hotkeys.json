@@ -41,5 +41,14 @@
       ],
       "key": "D"
     }
+  ],
+  "buttons:button-maker": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "B"
+    }
   ]
 }

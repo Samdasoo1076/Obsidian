@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Back End/자바/백준/Bronze/X보다 작은수(10871).md",
+                "file": "1. Daily/2024/2024-05/2024-05-13.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9656c0178de78fdc",
+            "id": "710ac7f20694d66e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-05/2024-05-10 회사.md",
+                "file": "회사/유컴패니온/2024-05/2024-05-13 회사.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Back End/자바/백준/Bronze/X보다 작은수(10871).md",
+                "file": "회사/유컴패니온/2024-05/2024-05-13 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Back End/자바/백준/Bronze/X보다 작은수(10871).md"
+                "file": "회사/유컴패니온/2024-05/2024-05-13 회사.md"
               }
             }
           },
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Back End/자바/백준/Bronze/X보다 작은수(10871).md",
+                "file": "회사/유컴패니온/2024-05/2024-05-13 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,9 +184,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ede7c725d5f6c793",
+  "active": "710ac7f20694d66e",
   "lastOpenFiles": [
+    "Attached file/Pasted image 20240513164731.png",
+    "Back End/자바/백준/배열/평균(1546).md",
     "Back End/자바/백준/0. 템플릿.md",
+    "Back End/자바/백준/배열",
+    "1. Daily/2024/2024-05/2024-05-13.md",
+    "회사/유컴패니온/2024-05/2024-05-13 회사.md",
+    "회사/유컴패니온/2024-05/2024-05-10 회사.md",
     "Back End/자바/백준/Bronze/X보다 작은수(10871).md",
     "Back End/자바/백준/Bronze/주사위 세개(2480).md",
     "Back End/자바/백준/Bronze/오븐 시계(2525).md",
@@ -195,7 +202,6 @@
     "Back End/자바/백준/Gold",
     "Back End/자바/백준/Silver",
     "Back End/자바/백준/Bronze",
-    "회사/유컴패니온/2024-05/2024-05-10 회사.md",
     "1. Daily/2024/2024-05/2024-05-10.md",
     "4. Yealry/나/2023.md",
     "회사/유컴패니온/2024-05/2024-05-09 회사.md",
@@ -212,10 +218,6 @@
     "Front End/지식/정규표현식/0. 템플릿.md",
     "회사/유컴패니온/2024-05/2024-05-07 회사.md",
     "Front End/지식/정규표현식/0. 기호기능.md",
-    "1. Daily/2024/2024-05/2024-05-07.md",
-    "Front End/지식/정규표현식/일부만 찾기.md",
-    "Front End/지식/정규표현식/특수 문자 찾기.md",
-    "Front End/지식/정규표현식/하나라도 포함 된것.md",
     "Attached file/Pasted image 20240507121225.png",
     "Front End/지식/정규표현식",
     "일상",
@@ -224,7 +226,6 @@
     "1. Daily/2024/2024-05/2024-05-03 로직.canvas",
     "Back End/자바/객체 지향.canvas",
     "Attached file/Pasted image 20240502161618.png",
-    "1. Daily/2024/2024-05",
     "Attached file/Pasted image 20240429151417.png",
     "Attached file/Pasted image 20240426171055.png",
     "무제 파일.canvas",

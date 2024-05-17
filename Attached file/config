@@ -1,0 +1,5 @@
+Host test1
+    HostName txi.ucom.kr
+    Port 2004
+    User ucom
+    IdentityFile C:/Users/ucomp/Downloads

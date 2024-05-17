@@ -13,38 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-05/2024-05-16 회사.md",
+                "file": "회사/유컴패니온/2024-05/2024-05-17 회사.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6152efe2e0f36dee",
+            "id": "ff8701127a09fbf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Back End/자바/백준/배열/나머지(3052).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e36335700be05db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "회사/유컴패니온/2024-05/2024-05-14 회사.md",
+                "file": "1. Daily/2024/2024-05/2024-05-17.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,8 +60,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#점심",
-                "matchingCase": false,
+                "query": "tag:#2024-05-16",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/유컴패니온/2024-05/2024-05-14 회사.md",
+                "file": "회사/유컴패니온/2024-05/2024-05-17 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/유컴패니온/2024-05/2024-05-14 회사.md"
+                "file": "회사/유컴패니온/2024-05/2024-05-17 회사.md"
               }
             }
           },
@@ -148,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/유컴패니온/2024-05/2024-05-14 회사.md",
+                "file": "회사/유컴패니온/2024-05/2024-05-17 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,20 +171,32 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7e36335700be05db",
+  "active": "ede7c725d5f6c793",
   "lastOpenFiles": [
-    "회사/유컴패니온/2024-05/2024-05-16 회사.md",
-    "회사/유컴패니온/2024-05/2024-05-10 회사.md",
+    "1. Daily/2024/2024-05/2024-05-17.md",
+    "회사/유컴패니온/2024-05/2024-05-17 회사.md",
+    "1. Daily/2024/2024-05/2024-05-16.md",
+    "1. Daily/2024/2024-05/2024-05-13.md",
+    "1. Daily/2024/2024-05/2024-05-14.md",
     "회사/유컴패니온/2024-05/2024-05-13 회사.md",
     "회사/유컴패니온/2024-05/2024-05-14 회사.md",
+    "회사/유컴패니온/2024-05/2024-05-16 회사.md",
+    "회사/유컴패니온/2024-05/무제 파일.md",
+    "Attached file/Pasted image 20240513164731.png",
+    "Attached file/SSL SSL과 TLS에 대한 정리(+동작방식)  네이버 블로그.md",
+    "Attached file/Pasted image 20240517160659.png",
+    "Attached file/Pasted image 20240507121225.png",
+    "Attached file/use_thum.png",
+    "Attached file/Pasted image 20230918110651.png",
+    "Attached file/Pasted image 20230918110305.png",
+    "Attached file/Pasted image 20230918110020.png",
+    "Attached file/2024년 유컴패니온 조직개편_240514.pdf",
+    "Attached file/az2pOgx_460sv.webp",
+    "Attached file/config",
+    "회사/유컴패니온/2024-05/2024-05-10 회사.md",
     "Back End/자바/백준/0. 템플릿.md",
     "Back End/자바/백준/배열/나머지(3052).md",
     "Back End/자바/백준/배열/과제 안 내신분(5597).md",
-    "1. Daily/2024/2024-05/2024-05-16.md",
-    "1. Daily/2024/2024-05/2024-05-14.md",
-    "Attached file/2024년 유컴패니온 조직개편_240514.pdf",
-    "1. Daily/2024/2024-05/2024-05-13.md",
-    "Attached file/Pasted image 20240513164731.png",
     "Back End/자바/백준/배열/평균(1546).md",
     "Back End/자바/백준/배열",
     "Back End/자바/백준/Bronze/X보다 작은수(10871).md",
@@ -216,26 +215,14 @@
     "Back End/자바/백준",
     "Back End/자바/Interface/추상 메소드.md",
     "회사/유컴패니온/2024-04/2024-04-26 회사.md",
-    "Back End/자바/함수.md",
-    "2024-05-09.md",
-    "4. Yealry/나/2024.md",
-    "1. Daily/2024/2024-05/2024-05-08.md",
-    "Attached file/Pasted image 20240507121225.png",
     "Front End/지식/정규표현식",
     "일상",
-    "회사/유컴패니온/숙지/용어",
     "1. Daily/2024/2024-05/2024-05-03 로직.canvas",
     "Back End/자바/객체 지향.canvas",
     "Attached file/Pasted image 20240502161618.png",
     "Attached file/Pasted image 20240429151417.png",
-    "Attached file/Pasted image 20240426171055.png",
     "무제 파일.canvas",
     "Front End/JavaSciprt/무제 파일.canvas",
-    "Attached file/Pasted image 20240426170818.png",
-    "Attached file/Pasted image 20240426152611.png",
-    "Attached file/Pasted image 20240426152441.png",
-    "Attached file/Pasted image 20240426152439.png",
-    "Attached file/Pasted image 20240426152116.png",
     "테스트용 캔버스.canvas"
   ]
 }

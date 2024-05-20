@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ede7c725d5f6c793",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "회사/유컴패니온/2024-05/2024-05-17 회사.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ff8701127a09fbf8",
             "type": "leaf",
             "state": {
@@ -30,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ede7c725d5f6c793",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily/2024/2024-05/2024-05-20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "461f85dc24e99559",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Front End/CSS/Scrollbar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5821bd7f049a5cd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "회사/유컴패니온/2024-02/2024-02-19 회사.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/유컴패니온/2024-05/2024-05-17 회사.md",
+                "file": "Front End/CSS/Scrollbar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/유컴패니온/2024-05/2024-05-17 회사.md"
+                "file": "Front End/CSS/Scrollbar.md"
               }
             }
           },
@@ -135,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/유컴패니온/2024-05/2024-05-17 회사.md",
+                "file": "Front End/CSS/Scrollbar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,8 +174,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,12 +192,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "remotely-save:Remotely Save": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "flowershow:Publish with Flowershow": false
     }
   },
-  "active": "ede7c725d5f6c793",
+  "active": "461f85dc24e99559",
   "lastOpenFiles": [
+    "무제 파일.canvas",
+    "Front End/CSS/Scrollbar.md",
+    "Front End/JavaSciprt/프로미스(then).md",
     "1. Daily/2024/2024-05/2024-05-17.md",
+    "회사/유컴패니온/2024-05/2024-05-20 회사.md",
+    "회사/유컴패니온/2024-02/2024-02-19 회사.md",
+    "Front End/JavaSciprt/프로미스 설명.canvas",
+    "Front End/JavaSciprt/로컬 스토리지.md",
+    "Front End/JavaSciprt/스프레드 연산자.md",
+    "Front End/JavaSciprt/클로저.md",
+    "1. Daily/2024/2024-05/2024-05-20.md",
     "회사/유컴패니온/2024-05/2024-05-17 회사.md",
     "1. Daily/2024/2024-05/2024-05-16.md",
     "1. Daily/2024/2024-05/2024-05-13.md",
@@ -201,27 +236,17 @@
     "Back End/자바/백준/배열",
     "Back End/자바/백준/Bronze/X보다 작은수(10871).md",
     "Back End/자바/백준/Bronze/주사위 세개(2480).md",
-    "Back End/자바/백준/Bronze/오븐 시계(2525).md",
-    "Back End/자바/백준/Bronze/알람시계(2884).md",
-    "Back End/자바/백준/Bronze/사분면 고르기(14681).md",
     "Back End/자바/백준/Bronze/무제 폴더",
     "Back End/자바/백준/Gold",
     "Back End/자바/백준/Silver",
     "Back End/자바/백준/Bronze",
-    "1. Daily/2024/2024-05/2024-05-10.md",
-    "4. Yealry/나/2023.md",
-    "회사/유컴패니온/2024-05/2024-05-09 회사.md",
-    "1. Daily/2024/2024-05/2024-05-09.md",
     "Back End/자바/백준",
-    "Back End/자바/Interface/추상 메소드.md",
-    "회사/유컴패니온/2024-04/2024-04-26 회사.md",
     "Front End/지식/정규표현식",
     "일상",
     "1. Daily/2024/2024-05/2024-05-03 로직.canvas",
     "Back End/자바/객체 지향.canvas",
     "Attached file/Pasted image 20240502161618.png",
     "Attached file/Pasted image 20240429151417.png",
-    "무제 파일.canvas",
     "Front End/JavaSciprt/무제 파일.canvas",
     "테스트용 캔버스.canvas"
   ]

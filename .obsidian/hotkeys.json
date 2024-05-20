@@ -50,5 +50,13 @@
       ],
       "key": "B"
     }
+  ],
+  "flowershow:publish-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "\\"
+    }
   ]
 }

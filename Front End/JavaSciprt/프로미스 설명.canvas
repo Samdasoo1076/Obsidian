@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"e869817c49de436b","type":"text","text":"로직","x":-200,"y":-360,"width":250,"height":50},
+		{"id":"b362139a019dcd39","x":-200,"y":-240,"width":250,"height":50,"type":"text","text":"프로미스"},
+		{"id":"93a26044ccde8699","x":-380,"y":-80,"width":250,"height":60,"type":"text","text":"성공"},
+		{"id":"31217e221128814a","x":0,"y":-80,"width":250,"height":60,"type":"text","text":"실패"}
+	],
+	"edges":[
+		{"id":"36e59aaf42fe72c5","fromNode":"e869817c49de436b","fromSide":"bottom","toNode":"b362139a019dcd39","toSide":"top"},
+		{"id":"c513b5fc14bf5094","fromNode":"b362139a019dcd39","fromSide":"bottom","toNode":"93a26044ccde8699","toSide":"top"},
+		{"id":"e32f2ee13a85337a","fromNode":"b362139a019dcd39","fromSide":"bottom","toNode":"31217e221128814a","toSide":"top"}
+	]
+}

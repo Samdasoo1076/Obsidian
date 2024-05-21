@@ -1,15 +1,9 @@
 [
-  "obsidian-banners",
-  "buttons",
-  "calendar",
-  "dbfolder",
   "obsidian-excalidraw-plugin",
   "multi-column-markdown",
   "templater-obsidian",
   "tag-wrangler",
   "periodic-notes",
-  "dataview",
-  "remotely-save",
   "editing-toolbar",
   "obsidian-emoji-toolbar",
   "obsidian-image-toolkit",
@@ -17,5 +11,8 @@
   "obsidian-icon-folder",
   "obsidian-outliner",
   "obsidian-hover-editor",
-  "obsidian-mind-map"
+  "canvas-mindmap",
+  "obsidian-advanced-slides",
+  "obsidian-checklist-plugin",
+  "notion-like-tables"
 ]

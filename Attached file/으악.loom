@@ -1,0 +1,97 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "65eda4d2-1c66-4594-9a8d-c2fe0deed836",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "테스트",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "05d757ca-c6a1-45aa-8106-33272df647ed",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "테스트",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      }
+    ],
+    "rows": [
+      {
+        "id": "d584e062-6fc0-4778-a274-5c927d0e7bfe",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2024-05-21T07:07:41.849Z",
+        "lastEditedDateTime": "2024-05-21T07:09:05.759Z",
+        "cells": [
+          {
+            "id": "a4b1f2a6-7515-4d91-8dfe-8abd71edf7da",
+            "columnId": "65eda4d2-1c66-4594-9a8d-c2fe0deed836",
+            "content": "1",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a54a1dd7-12e2-4176-b3b2-4ae730834757",
+            "columnId": "05d757ca-c6a1-45aa-8106-33272df647ed",
+            "content": "1",
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [
+      {
+        "id": "d202c4cf-5299-4fee-bc43-f81b17f6b738",
+        "columnId": "65eda4d2-1c66-4594-9a8d-c2fe0deed836",
+        "operator": "or",
+        "isEnabled": true,
+        "type": "text",
+        "condition": "is",
+        "text": ""
+      }
+    ],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.16.0"
+}

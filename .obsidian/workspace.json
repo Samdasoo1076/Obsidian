@@ -35,12 +35,16 @@
             "id": "5fc38cdd3f0041ed",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Flowershow 웹/커밋 방법.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/유컴패니온/2024-05/2024-05-21 회사.md",
+                "file": "1. Flowershow 웹/커밋 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/유컴패니온/2024-05/2024-05-21 회사.md",
+                "file": "1. Flowershow 웹/커밋 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/유컴패니온/2024-05/2024-05-21 회사.md"
+                "file": "1. Flowershow 웹/커밋 방법.md"
               }
             }
           },
@@ -188,9 +192,15 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "1cc9607e724eeb94",
+  "active": "5fc38cdd3f0041ed",
   "lastOpenFiles": [
+    "1. Flowershow 웹/Untitled.loom",
+    "1. Flowershow 웹/커밋 방법.md",
+    "Attached file/Pasted image 20240521170534.png",
+    "1. Flowershow 웹",
     "회사/유컴패니온/2024-05/2024-05-21 회사.md",
+    "Attached file/Pasted image 20240521155659.png",
+    "Attached file/Pasted image 20240521101257.png",
     "템플릿/회사 템플릿.md",
     "1. Daily/2024/2024-05/2024-05-21.md",
     "Attached file/으악.loom",
@@ -198,7 +208,6 @@
     "Attached file/SSL SSL과 TLS에 대한 정리(+동작방식)  네이버 블로그.md",
     "Attached file/Untitled.loom",
     "옵시디언 사용법/플러그인 단축키/마인드맵 생성.md",
-    "Attached file/Pasted image 20240521155659.png",
     "옵시디언 사용법/단축키.md",
     "옵시디언 사용법/플러그인 단축키",
     "옵시디언 사용법/무제 파일.md",
@@ -207,7 +216,6 @@
     "무제 파일.md",
     "회사/유컴패니온/2024-05/2024-05-20 회사.md",
     "Front End/JavaSciprt/페이지 뒤로가기시 스크립트 작동.md",
-    "Attached file/Pasted image 20240521101257.png",
     "Front End/JavaSciprt/this.md",
     "Front End/JavaSciprt/로컬 스토리지.md",
     "1. Daily/2024/2024-05/2024-05-13.md",
@@ -223,7 +231,6 @@
     "회사/유컴패니온/숙지/용어/용어.md",
     "Excalidraw/Drawing 2024-05-21 08.58.23.excalidraw.md",
     "Tags",
-    "Front End/CSS/Scrollbar.md",
     "Front End/JavaSciprt/프로미스 설명.canvas",
     "Attached file/Pasted image 20240513164731.png",
     "Attached file/Pasted image 20240517160659.png",
@@ -232,11 +239,8 @@
     "Attached file/Pasted image 20230918110305.png",
     "Attached file/Pasted image 20230918110020.png",
     "Attached file/2024년 유컴패니온 조직개편_240514.pdf",
-    "Attached file/az2pOgx_460sv.webp",
     "Attached file/config",
     "Back End/자바/백준/배열",
-    "Back End/자바/백준/Bronze/무제 폴더",
-    "Back End/자바/백준/Gold",
     "1. Daily/2024/2024-05/2024-05-03 로직.canvas",
     "Back End/자바/객체 지향.canvas",
     "Front End/JavaSciprt/무제 파일.canvas",

@@ -13,38 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "템플릿/회사 템플릿.md",
+                "file": "1. Daily/2024/2024-05/2024-05-22.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1cc9607e724eeb94",
+            "id": "fe1ecea98a099ad5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-05/2024-05-21 회사.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fc38cdd3f0041ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Flowershow 웹/커밋 방법.md",
+                "file": "회사/유컴패니온/2024-05/2024-05-22 회사.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#2024-05",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Flowershow 웹/커밋 방법.md",
+                "file": "회사/유컴패니온/2024-05/2024-05-22 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Flowershow 웹/커밋 방법.md",
+                "file": "회사/유컴패니온/2024-05/2024-05-22 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Flowershow 웹/커밋 방법.md"
+                "file": "회사/유컴패니온/2024-05/2024-05-22 회사.md"
               }
             }
           },
@@ -169,9 +157,17 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "11f1271e5348476c",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -187,21 +183,29 @@
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "notion-like-tables:Create loom": false
+      "notion-like-tables:Create loom": false,
+      "periodic-notes:Open today": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "5fc38cdd3f0041ed",
+  "active": "fe1ecea98a099ad5",
   "lastOpenFiles": [
-    "1. Flowershow 웹/Untitled.loom",
+    "1. Daily/2024/2024-05/2024-05-17.md",
+    "회사/유컴패니온/2024-05/2024-05-22 회사.md",
+    "1. Daily/2024/2024-05/2024-05-22.md",
+    "템플릿/일상 템플릿.md",
+    "Attached file/Pasted image 20240522135115.png",
+    "회사/유컴패니온/2024-05/2024-05-21 회사.md",
+    "일상/2024-05-22.md",
+    "Attached file/Pasted image 20240522135013.png",
+    "템플릿/회사 템플릿.md",
     "1. Flowershow 웹/커밋 방법.md",
+    "1. Flowershow 웹/Untitled.loom",
     "Attached file/Pasted image 20240521170534.png",
     "1. Flowershow 웹",
-    "회사/유컴패니온/2024-05/2024-05-21 회사.md",
     "Attached file/Pasted image 20240521155659.png",
     "Attached file/Pasted image 20240521101257.png",
-    "템플릿/회사 템플릿.md",
     "1. Daily/2024/2024-05/2024-05-21.md",
     "Attached file/으악.loom",
     "Attached file/use_thum.png",
@@ -223,21 +227,14 @@
     "1. Daily/2024/2024-05/2024-05-20.md",
     "회사/유컴패니온/2024-05/2024-05-14 회사.md",
     "Paste.md",
-    "1. Daily/2024/2024-05/2024-05-17.md",
     "회사/유컴패니온/2024-02/2024-02-19 회사.md",
-    "Front End/JavaSciprt/스프레드 연산자.md",
-    "index.md.md",
     "무제 파일.canvas",
-    "회사/유컴패니온/숙지/용어/용어.md",
-    "Excalidraw/Drawing 2024-05-21 08.58.23.excalidraw.md",
     "Tags",
     "Front End/JavaSciprt/프로미스 설명.canvas",
     "Attached file/Pasted image 20240513164731.png",
     "Attached file/Pasted image 20240517160659.png",
     "Attached file/Pasted image 20240507121225.png",
     "Attached file/Pasted image 20230918110651.png",
-    "Attached file/Pasted image 20230918110305.png",
-    "Attached file/Pasted image 20230918110020.png",
     "Attached file/2024년 유컴패니온 조직개편_240514.pdf",
     "Attached file/config",
     "Back End/자바/백준/배열",

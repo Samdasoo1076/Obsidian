@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-05/2024-05-22.md",
+                "file": "1. Daily/2024/2024-05/2024-05-23.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fe1ecea98a099ad5",
+            "id": "4ba076d1003a2006",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-05/2024-05-22 회사.md",
+                "file": "회사/유컴패니온/2024-05/2024-05-23 회사.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/유컴패니온/2024-05/2024-05-22 회사.md",
+                "file": "회사/유컴패니온/2024-05/2024-05-23 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/유컴패니온/2024-05/2024-05-22 회사.md",
+                "file": "회사/유컴패니온/2024-05/2024-05-23 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/유컴패니온/2024-05/2024-05-22 회사.md"
+                "file": "회사/유컴패니온/2024-05/2024-05-23 회사.md"
               }
             }
           },
@@ -185,15 +185,19 @@
       "templater-obsidian:Templater": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "notion-like-tables:Create loom": false,
-      "periodic-notes:Open today": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "fe1ecea98a099ad5",
+  "active": "4ba076d1003a2006",
   "lastOpenFiles": [
-    "1. Daily/2024/2024-05/2024-05-17.md",
-    "회사/유컴패니온/2024-05/2024-05-22 회사.md",
+    "자료구조/트리.md",
+    "회사/유컴패니온/2024-05/2024-05-23 회사.md",
+    "1. Daily/2024/2024-05/2024-05-23.md",
     "1. Daily/2024/2024-05/2024-05-22.md",
+    "회사/유컴패니온/2024-05/2024-05-02 회사.md",
+    "회사/유컴패니온/2024-05/2024-05-22 회사.md",
+    "1. Daily/2024/2024-05/2024-05-17.md",
     "템플릿/일상 템플릿.md",
     "Attached file/Pasted image 20240522135115.png",
     "회사/유컴패니온/2024-05/2024-05-21 회사.md",
@@ -225,9 +229,6 @@
     "1. Daily/2024/2024-05/2024-05-13.md",
     "2024-.md",
     "1. Daily/2024/2024-05/2024-05-20.md",
-    "회사/유컴패니온/2024-05/2024-05-14 회사.md",
-    "Paste.md",
-    "회사/유컴패니온/2024-02/2024-02-19 회사.md",
     "무제 파일.canvas",
     "Tags",
     "Front End/JavaSciprt/프로미스 설명.canvas",

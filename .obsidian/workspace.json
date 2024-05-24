@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-05/2024-05-23.md",
+                "file": "회사/유컴패니온/2024-05/2024-05-24 회사.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "d6aea9ab47dfb67f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "회사/유컴패니온/2024-05/2024-05-24 16.59.54.excalidraw.md"
               }
             }
           },
@@ -25,14 +35,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-05/2024-05-23 회사.md",
+                "file": "1. Daily/2024/2024-05/2024-05-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15b07af422202c85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "템플릿/일상 템플릿.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#2024-05",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/유컴패니온/2024-05/2024-05-23 회사.md",
+                "file": "회사/유컴패니온/2024-05/2024-05-24 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/유컴패니온/2024-05/2024-05-23 회사.md",
+                "file": "회사/유컴패니온/2024-05/2024-05-24 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/유컴패니온/2024-05/2024-05-23 회사.md"
+                "file": "회사/유컴패니온/2024-05/2024-05-24 회사.md"
               }
             }
           },
@@ -189,21 +210,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4ba076d1003a2006",
+  "active": "ede7c725d5f6c793",
   "lastOpenFiles": [
-    "자료구조/트리.md",
+    "회사/유컴패니온/2024-05/2024-05-24 16.59.54.excalidraw.md",
+    "회사/유컴패니온/2024-05/2024-05-24 회사.md",
+    "회사/유컴패니온/2024-05/무제 파일.canvas",
+    "템플릿/일상 템플릿.md",
+    "템플릿/회사 템플릿.md",
+    "1. Daily/2024/2024-05/2024-05-24.md",
     "회사/유컴패니온/2024-05/2024-05-23 회사.md",
+    "1. Daily/2024/2024-05/2024-05-02.md",
     "1. Daily/2024/2024-05/2024-05-23.md",
+    "자료구조/트리.md",
     "1. Daily/2024/2024-05/2024-05-22.md",
     "회사/유컴패니온/2024-05/2024-05-02 회사.md",
     "회사/유컴패니온/2024-05/2024-05-22 회사.md",
     "1. Daily/2024/2024-05/2024-05-17.md",
-    "템플릿/일상 템플릿.md",
     "Attached file/Pasted image 20240522135115.png",
     "회사/유컴패니온/2024-05/2024-05-21 회사.md",
     "일상/2024-05-22.md",
     "Attached file/Pasted image 20240522135013.png",
-    "템플릿/회사 템플릿.md",
     "1. Flowershow 웹/커밋 방법.md",
     "1. Flowershow 웹/Untitled.loom",
     "Attached file/Pasted image 20240521170534.png",
@@ -224,11 +250,6 @@
     "무제 파일.md",
     "회사/유컴패니온/2024-05/2024-05-20 회사.md",
     "Front End/JavaSciprt/페이지 뒤로가기시 스크립트 작동.md",
-    "Front End/JavaSciprt/this.md",
-    "Front End/JavaSciprt/로컬 스토리지.md",
-    "1. Daily/2024/2024-05/2024-05-13.md",
-    "2024-.md",
-    "1. Daily/2024/2024-05/2024-05-20.md",
     "무제 파일.canvas",
     "Tags",
     "Front End/JavaSciprt/프로미스 설명.canvas",

@@ -58,5 +58,14 @@
       ],
       "key": "\\"
     }
+  ],
+  "editor:delete-paragraph": [],
+  "obsidian-checklist-plugin:refresh-checklist-view": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
   ]
 }

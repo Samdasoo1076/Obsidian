@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"7a593928c0202a43","type":"text","text":"깃랩 서버","x":-420,"y":-320,"width":250,"height":60},
+		{"id":"5ce117c7971dc421","type":"text","text":"server1 (reverse Proxy)","x":-420,"y":-80,"width":250,"height":60},
+		{"id":"cb0daeb21ba8266f","type":"text","text":"server2 (Back-end)","x":-420,"y":140,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"4c028c2f5abc775e","fromNode":"7a593928c0202a43","fromSide":"bottom","toNode":"5ce117c7971dc421","toSide":"top"},
+		{"id":"040717fc80cfb19a","fromNode":"5ce117c7971dc421","fromSide":"bottom","toNode":"cb0daeb21ba8266f","toSide":"top"}
+	]
+}

@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "템플릿/공부 템플릿.md",
+                "file": "1. Daily/2024/2024-06/2024-06-24.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d88ad3899da5e8c8",
+            "id": "883c9e731fc368fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-06/2024-06-24.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:nginx",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024/2024-06/2024-06-24.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024/2024-06/2024-06-24.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024/2024-06/2024-06-24.md"
+                "file": "README.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             }
           },
           {
-            "id": "c70828f7372c8105",
+            "id": "55b6e71a27cc4dcd",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -171,11 +171,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 268.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "mermaid-tools:Open Mermaid Toolbar": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -186,49 +185,53 @@
       "templater-obsidian:Templater": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "notion-like-tables:Create loom": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "d88ad3899da5e8c8",
+  "active": "7d2b3d80d59c46ae",
   "lastOpenFiles": [
+    "2024-.md",
     "2024-06-24.md",
+    "Dates.md",
+    "OIP.jpg",
+    "회사/유컴패니온/2024-06/2024-06-25 회사.md",
+    "index.md.md",
+    "1. Daily/2024/2024-06/2024-06-25.md",
+    "회사/유컴패니온/2024-06/2024-06-25 회사 서버 구성.canvas",
+    "무제 파일.md",
+    "무제 파일.canvas",
     "1. Daily/2024/2024-06/2024-06-24.md",
+    "일상/2024-05-22.md",
+    "회사/유컴패니온/2024-06/2024-06-03 회사.md",
+    "회사/유컴패니온/2024-06/무제 파일.md",
     "1. Daily/2024/2024-06/2024-06-21.md",
-    "Server/Nginx/특징.md",
-    "템플릿/공부 템플릿.md",
-    "1. Flowershow 웹/커밋 방법.md",
-    "템플릿/일상 템플릿.md",
-    "키보드/무제 파일.md",
-    "Server/Nginx",
-    "Server",
-    "회사/유컴패니온/2024-06/2024-06-21 회사`.md",
-    "회사/유컴패니온/2024-06/2024-06-19 회사.md",
-    "회사/유컴패니온/2024-06/2024-06-18 회사.md",
-    "회사/유컴패니온/2024-06/2024-06-14 회사.md",
-    "회사/유컴패니온/2024-06/2024-06-13 회사.md",
-    "회사/유컴패니온/2024-06/2024-06-12 회사.md",
-    "회사/유컴패니온/2024-06/2024-06-11 회사.md",
-    "회사/유컴패니온/2024-06/2024-06-10 회사.md",
-    "회사/유컴패니온/2024-06/2024-06-07 회사.md",
-    "회사/유컴패니온/2024-06/2024-06-05 회사.md",
-    "1. Daily/2024/2024-06/2024-06-19.md",
     "1. Daily/2024/2024-06/2024-06-18.md",
+    "1. Daily/2024/2024-06/2024-06-19.md",
     "1. Daily/2024/2024-06/2024-06-14.md",
     "1. Daily/2024/2024-06/2024-06-13.md",
     "1. Daily/2024/2024-06/2024-06-12.md",
-    "1. Daily/2024/2024-06/2024-06-11.md",
-    "1. Daily/2024/2024-06/2024-06-10.md",
-    "1. Daily/2024/2024-06/2024-06-07.md",
-    "Attached file/Pasted image 20240604202506.png",
-    "Attached file/Pasted image 20240604202249.png",
-    "Attached file/Pasted image 20240604192115.png",
-    "회사/유컴패니온/2024-06",
+    "1. Flowershow 웹/커밋 방법.md",
+    "회사/유컴패니온/2024-06/2024-06-24 회사.md",
+    "Attached file/Pasted image 20240624134536.png",
+    "Chrome/꿀팁/즐겨찾기한 페이지 찾기.md",
+    "Chrome/꿀팁",
+    "Chrome",
+    "템플릿/공부 템플릿.md",
+    "Server/Nginx/특징.md",
+    "Server/Nginx",
+    "Server",
+    "회사/유컴패니온/2024-06/2024-06-21 회사`.md",
+    "Chrome/무제 파일.md",
+    "회사/유컴패니온/2024-06/2024-06-19 회사.md",
+    "템플릿/일상 템플릿.md",
     "Attached file/Pasted image 20240603152657.png",
+    "회사/유컴패니온/2024-06",
     "1. Daily/2024/2024-06",
-    "일상",
+    "index.html",
+    "회사/유컴패니온/2024-05/무제 파일.canvas",
     "Attached file/Pasted image 20240522135115.png",
     "Attached file/Pasted image 20240522135013.png",
-    "Travel/무제 파일.canvas",
     "1. Flowershow 웹/Untitled.loom",
     "Attached file/Pasted image 20240521170534.png",
     "1. Flowershow 웹",
@@ -236,10 +239,8 @@
     "Attached file/Pasted image 20240521101257.png",
     "Attached file/으악.loom",
     "Attached file/use_thum.png",
-    "Attached file/Untitled.loom",
-    "옵시디언 사용법/플러그인 단축키",
-    "무제 파일.canvas",
     "Front End/JavaSciprt/프로미스 설명.canvas",
+    "Attached file/Pasted image 20240513164731.png",
     "1. Daily/2024/2024-05/2024-05-03 로직.canvas",
     "Back End/자바/객체 지향.canvas",
     "Front End/JavaSciprt/무제 파일.canvas",

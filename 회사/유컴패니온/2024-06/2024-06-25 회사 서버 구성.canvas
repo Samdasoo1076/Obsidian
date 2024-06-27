@@ -2,10 +2,12 @@
 	"nodes":[
 		{"id":"7a593928c0202a43","type":"text","text":"깃랩 서버","x":-420,"y":-320,"width":250,"height":60},
 		{"id":"5ce117c7971dc421","type":"text","text":"server1 (reverse Proxy)","x":-420,"y":-80,"width":250,"height":60},
-		{"id":"cb0daeb21ba8266f","type":"text","text":"server2 (Back-end)","x":-420,"y":140,"width":250,"height":60}
+		{"id":"cb0daeb21ba8266f","type":"text","text":"server2 (Back-end)","x":-420,"y":140,"width":250,"height":60},
+		{"id":"978372ce2d5021c4","x":-420,"y":-560,"width":250,"height":81,"type":"text","text":"docker-swarm"}
 	],
 	"edges":[
-		{"id":"4c028c2f5abc775e","fromNode":"7a593928c0202a43","fromSide":"bottom","toNode":"5ce117c7971dc421","toSide":"top"},
-		{"id":"040717fc80cfb19a","fromNode":"5ce117c7971dc421","fromSide":"bottom","toNode":"cb0daeb21ba8266f","toSide":"top"}
+		{"id":"040717fc80cfb19a","fromNode":"5ce117c7971dc421","fromSide":"bottom","toNode":"cb0daeb21ba8266f","toSide":"top"},
+		{"id":"d59a3b17ecd50c17","fromNode":"7a593928c0202a43","fromSide":"bottom","toNode":"5ce117c7971dc421","toSide":"top"},
+		{"id":"db7176adcda2086d","fromNode":"978372ce2d5021c4","fromSide":"bottom","toNode":"7a593928c0202a43","toSide":"top"}
 	]
 }

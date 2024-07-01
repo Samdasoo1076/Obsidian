@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-06/2024-06-28 회사.md",
+                "file": "회사/유컴패니온/2024-07/2024-07-01 회사.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-06/2024-06-28.md",
+                "file": "1. Daily/2024/2024-07/2024-07-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/유컴패니온/2024-06/2024-06-28 회사.md",
+                "file": "회사/유컴패니온/2024-07/2024-07-01 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/유컴패니온/2024-06/2024-06-28 회사.md",
+                "file": "회사/유컴패니온/2024-07/2024-07-01 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/유컴패니온/2024-06/2024-06-28 회사.md"
+                "file": "회사/유컴패니온/2024-07/2024-07-01 회사.md"
               }
             }
           },
@@ -190,8 +190,12 @@
   },
   "active": "ede7c725d5f6c793",
   "lastOpenFiles": [
-    "1. Daily/2024/2024-06/2024-06-28.md",
+    "1. Daily/2024/2024-07/2024-07-01.md",
+    "회사/유컴패니온/2024-07/2024-07-01 회사.md",
     "회사/유컴패니온/2024-06/2024-06-28 회사.md",
+    "회사/유컴패니온/2024-07",
+    "1. Daily/2024/2024-06/2024-06-28.md",
+    "1. Daily/2024/2024-07",
     "회사/유컴패니온/2024-06/2024-06-25 회사 서버 구성.canvas",
     "회사/유컴패니온/2024-06/2024-06-27 회사.md",
     "1. Daily/2024/2024-06/2024-06-25.md",
@@ -216,7 +220,6 @@
     "1. Daily/2024/2024-06/2024-06-03.md",
     "1. Daily/2024/2024-06/2024-06-02.md",
     "Attached file/Pasted image 20240626155958.png",
-    "README.md",
     "OIP.jpg",
     "무제 파일.canvas",
     "Attached file/Pasted image 20240624134536.png",
@@ -233,10 +236,8 @@
     "Attached file/Pasted image 20240522135013.png",
     "1. Flowershow 웹/Untitled.loom",
     "Attached file/Pasted image 20240521170534.png",
-    "1. Flowershow 웹",
     "Attached file/Pasted image 20240521155659.png",
     "Attached file/Pasted image 20240521101257.png",
-    "Attached file/으악.loom",
     "Attached file/use_thum.png",
     "Front End/JavaSciprt/프로미스 설명.canvas",
     "1. Daily/2024/2024-05/2024-05-03 로직.canvas",

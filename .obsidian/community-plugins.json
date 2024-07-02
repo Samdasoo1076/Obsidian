@@ -17,5 +17,7 @@
   "notion-like-tables",
   "mermaid-tools",
   "folder-note-plugin",
-  "better-fn"
+  "better-fn",
+  "dataview",
+  "flowershow"
 ]

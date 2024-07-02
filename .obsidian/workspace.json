@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-01 회사.md",
+                "file": "1. Daily/2024/운동/2024-07/2024-07-01 운동.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-07/2024-07-01.md",
+                "file": "회사/유컴패니온/2024-07/2024-07-02 회사.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-01 회사.md",
+                "file": "회사/유컴패니온/2024-07/2024-07-02 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-01 회사.md",
+                "file": "회사/유컴패니온/2024-07/2024-07-02 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-01 회사.md"
+                "file": "회사/유컴패니온/2024-07/2024-07-02 회사.md"
               }
             }
           },
@@ -158,7 +159,7 @@
             }
           },
           {
-            "id": "55b6e71a27cc4dcd",
+            "id": "aafdfbae3477d5b0",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -175,8 +176,8 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
+      "graph:그래프 뷰 열기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
@@ -188,10 +189,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ede7c725d5f6c793",
+  "active": "af6b29dc0dcefedc",
   "lastOpenFiles": [
-    "1. Daily/2024/2024-07/2024-07-01.md",
     "회사/유컴패니온/2024-07/2024-07-01 회사.md",
+    "1. Daily/2024/2024-07/2024-07-01.md",
+    "회사/유컴패니온/2024-07/2024-07-02 회사.md",
+    "1. Daily/2024/2024-05/2024-05.md",
+    "1. Daily/2024/운동/2024-07/DataView.md",
+    "1. Daily/2024/2024-05/2024-05-20.md",
+    "1. Daily/2024/운동/2024-07/2024-07-01 운동.md",
+    "일상/2024-05-22.md",
+    "1. Daily/2024/2024-05/2024-05-22.md",
+    "Attached file/Untitled.loom",
+    "템플릿/운동 템플릿.md",
+    "{{date - 1}}.md",
+    "1. Daily/2024/2024-07/2024-07-02.md",
+    "템플릿/일상 템플릿.md",
+    "템플릿/공부 템플릿.md",
+    "템플릿/회사 템플릿.md",
+    "1. Daily/2024/운동/2024-07",
+    "1. Daily/2024/운동",
     "회사/유컴패니온/2024-06/2024-06-28 회사.md",
     "회사/유컴패니온/2024-07",
     "1. Daily/2024/2024-06/2024-06-28.md",
@@ -206,19 +223,6 @@
     "회사/유컴패니온/2024-06/2024-06-24 회사.md",
     "1. Daily/2024/2024-06/2024-06-24.md",
     "1. Daily/2024/2024-06/2024-06-21.md",
-    "1. Daily/2024/2024-06/2024-06-19.md",
-    "1. Daily/2024/2024-06/2024-06.md",
-    "회사/유컴패니온/2024-06/2024-06-21 회사`.md",
-    "1. Daily/2024/2024-05/2024-05.md",
-    "1. Daily/2024/2024-04/2024-04.md",
-    "1. Daily/2024/2024-03/2024-03.md",
-    "1. Daily/2024/2024-02/2024-02.md",
-    "1. Daily/2024/2024-01/2024-01.md",
-    "1. Daily/2024/2024-03/2024-03-01.md",
-    "2024-.md",
-    "2024-06-24.md",
-    "1. Daily/2024/2024-06/2024-06-03.md",
-    "1. Daily/2024/2024-06/2024-06-02.md",
     "Attached file/Pasted image 20240626155958.png",
     "OIP.jpg",
     "무제 파일.canvas",
@@ -229,12 +233,9 @@
     "Server",
     "Attached file/Pasted image 20240603152657.png",
     "회사/유컴패니온/2024-06",
-    "1. Daily/2024/2024-06",
-    "index.html",
     "회사/유컴패니온/2024-05/무제 파일.canvas",
     "Attached file/Pasted image 20240522135115.png",
     "Attached file/Pasted image 20240522135013.png",
-    "1. Flowershow 웹/Untitled.loom",
     "Attached file/Pasted image 20240521170534.png",
     "Attached file/Pasted image 20240521155659.png",
     "Attached file/Pasted image 20240521101257.png",

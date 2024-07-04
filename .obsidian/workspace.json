@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-07/2024-07-03.md",
+                "file": "옵시디언 사용법/이미지 사이즈 줄이기.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/운동/2024-07/2024-07-02 운동.md",
+                "file": "Front End/React/가상 DOM.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "086b3d69eca312b5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024/운동/2024-07/2024-07-02 운동.md",
+                "file": "옵시디언 사용법/이미지 사이즈 줄이기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024/운동/2024-07/2024-07-02 운동.md",
+                "file": "옵시디언 사용법/이미지 사이즈 줄이기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024/운동/2024-07/2024-07-02 운동.md"
+                "file": "옵시디언 사용법/이미지 사이즈 줄이기.md"
               }
             }
           },
@@ -189,8 +196,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4fa4e43911fbdc5c",
+  "active": "bd1011751e4e5dc7",
   "lastOpenFiles": [
+    "Attached file/Pasted image 20240704172454.png",
+    "Front End/React/가상 DOM.md",
+    "옵시디언 사용법/이미지 사이즈 줄이기.md",
+    "옵시디언 사용법/옵시디언 사용법.md",
+    "1. Daily/2024/2024-07/2024-07-04.md",
+    "Attached file/Pasted image 20240704172236.png",
+    "Attached file/Pasted image 20240704172038.png",
+    "회사/유컴패니온/2024-07/2024-07-04 회사.md",
+    "Front End/React",
+    "회사/디센트/2023-10/2023-10-27 회사.md",
+    "회사/디센트/2023-10/2023-10-26 회사.md",
+    "키보드/ak87 split/맵핑 기능.md",
+    "키보드/ak87 split/키 맵핑 하기.md",
+    "1. Daily/2024/운동/2024-07/2024-07-03 운동.md",
+    "1. Daily/2024/2024-07/2024-07-03.md",
+    "1. Daily/2024/운동/2024-07/2024-07-02 운동.md",
     "4. Yealry/나/2024.md",
     "4. Yealry/회사/2024 회사.md",
     "회사/유컴패니온/2024-04/2024-04-30 회사.md",
@@ -204,20 +227,7 @@
     "1. Daily/2024/2024-02/2024-02.md",
     "1. Daily/2024/2024-03/2024-03.md",
     "1. Daily/2024/2024-04/2024-04.md",
-    "회사/유컴패니온/2024-07/2024-07-03 회사.md",
-    "1. Daily/2024/2024-07/2024-07-03.md",
-    "Front End/Vue.js/싱글 파일 컴포넌트(SFC).md",
-    "1. Daily/2024/운동/2024-07/2024-07-02 운동.md",
     "Front End/Vue.js",
-    "내가 풀은 알고리즘/L3 필기시험.md",
-    "템플릿/운동 템플릿.md",
-    "1. Daily/2024/운동/2024-07/2024-07-01 운동.md",
-    "1. Daily/2024/2024-07/2024-07-02.md",
-    "회사/유컴패니온/2024-07/2024-07-02 회사.md",
-    "회사/유컴패니온/2024-07/2024-07-01 회사.md",
-    "1. Daily/2024/2024-07/2024-07-01.md",
-    "1. Daily/2024/운동/2024-07/DataView.md",
-    "1. Daily/2024/2024-05/2024-05-20.md",
     "Attached file/Untitled.loom",
     "1. Daily/2024/운동/2024-07",
     "1. Daily/2024/운동",
@@ -231,15 +241,12 @@
     "Chrome/꿀팁",
     "Chrome",
     "Server/Nginx",
-    "Server",
     "Attached file/Pasted image 20240603152657.png",
     "회사/유컴패니온/2024-05/무제 파일.canvas",
     "Attached file/Pasted image 20240522135115.png",
     "Attached file/Pasted image 20240522135013.png",
     "Attached file/Pasted image 20240521170534.png",
     "Attached file/Pasted image 20240521155659.png",
-    "Attached file/Pasted image 20240521101257.png",
-    "Attached file/use_thum.png",
     "Front End/JavaSciprt/프로미스 설명.canvas",
     "1. Daily/2024/2024-05/2024-05-03 로직.canvas",
     "Back End/자바/객체 지향.canvas",

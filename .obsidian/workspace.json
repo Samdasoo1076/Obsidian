@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "옵시디언 사용법/이미지 사이즈 줄이기.md",
+                "file": "회사/유컴패니온/2024-07/2024-07-05 회사.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "086b3d69eca312b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily/2024/2024-07/2024-07-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,14 +41,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "086b3d69eca312b5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -124,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "옵시디언 사용법/이미지 사이즈 줄이기.md",
+                "file": "회사/유컴패니온/2024-07/2024-07-05 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "옵시디언 사용법/이미지 사이즈 줄이기.md",
+                "file": "회사/유컴패니온/2024-07/2024-07-05 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "옵시디언 사용법/이미지 사이즈 줄이기.md"
+                "file": "회사/유컴패니온/2024-07/2024-07-05 회사.md"
               }
             }
           },
@@ -198,9 +202,17 @@
   },
   "active": "bd1011751e4e5dc7",
   "lastOpenFiles": [
-    "Attached file/Pasted image 20240704172454.png",
+    "1. Daily/2024/2024-07/2024-07-05.md",
+    "회사/유컴패니온/2024-07/2024-07-05 회사.md",
     "Front End/React/가상 DOM.md",
+    "1. Daily/2024/운동/2024-07/2024-07-01 운동.md",
+    "1. Daily/2024/운동/2024-07/2024-07-02 운동.md",
+    "1. Daily/2024/운동/2024-07/2024-07-03 운동.md",
+    "1. Daily/2024/운동/2024-07/2024-07-04 운동.md",
+    "옵시디언 사용법/코드 구현 하는법.md",
+    "1. Daily/2024/2024-07/2024-07-01.md",
     "옵시디언 사용법/이미지 사이즈 줄이기.md",
+    "Attached file/Pasted image 20240704172454.png",
     "옵시디언 사용법/옵시디언 사용법.md",
     "1. Daily/2024/2024-07/2024-07-04.md",
     "Attached file/Pasted image 20240704172236.png",
@@ -211,9 +223,7 @@
     "회사/디센트/2023-10/2023-10-26 회사.md",
     "키보드/ak87 split/맵핑 기능.md",
     "키보드/ak87 split/키 맵핑 하기.md",
-    "1. Daily/2024/운동/2024-07/2024-07-03 운동.md",
     "1. Daily/2024/2024-07/2024-07-03.md",
-    "1. Daily/2024/운동/2024-07/2024-07-02 운동.md",
     "4. Yealry/나/2024.md",
     "4. Yealry/회사/2024 회사.md",
     "회사/유컴패니온/2024-04/2024-04-30 회사.md",
@@ -222,11 +232,6 @@
     "회사/유컴패니온/2024-04/2024-04-25 회사.md",
     "회사/유컴패니온/2024-04/2024-04-24 회사.md",
     "1. Daily/2024/2024-06/2024-06.md",
-    "1. Daily/2024/2024-05/2024-05.md",
-    "1. Daily/2024/2024-01/2024-01.md",
-    "1. Daily/2024/2024-02/2024-02.md",
-    "1. Daily/2024/2024-03/2024-03.md",
-    "1. Daily/2024/2024-04/2024-04.md",
     "Front End/Vue.js",
     "Attached file/Untitled.loom",
     "1. Daily/2024/운동/2024-07",
@@ -246,7 +251,6 @@
     "Attached file/Pasted image 20240522135115.png",
     "Attached file/Pasted image 20240522135013.png",
     "Attached file/Pasted image 20240521170534.png",
-    "Attached file/Pasted image 20240521155659.png",
     "Front End/JavaSciprt/프로미스 설명.canvas",
     "1. Daily/2024/2024-05/2024-05-03 로직.canvas",
     "Back End/자바/객체 지향.canvas",

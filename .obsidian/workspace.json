@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-05 회사.md",
+                "file": "1. Daily/2024/운동/2024-07/2024-07-08 운동.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-07/2024-07-05.md",
+                "file": "1. Daily/2024/2024-07/2024-07-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#2024-06",
+                "query": "tag:#점심",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-05 회사.md",
+                "file": "1. Daily/2024/운동/2024-07/2024-07-08 운동.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-05 회사.md",
+                "file": "1. Daily/2024/운동/2024-07/2024-07-08 운동.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-05 회사.md"
+                "file": "1. Daily/2024/운동/2024-07/2024-07-08 운동.md"
               }
             }
           },
@@ -190,16 +190,20 @@
   },
   "active": "bd1011751e4e5dc7",
   "lastOpenFiles": [
+    "회사/유컴패니온/2024-07/2024-07-08 회사.md",
+    "1. Daily/2024/운동/2024-07/2024-07-08 운동.md",
+    "1. Daily/2024/2024-07/2024-07-08.md",
+    "1. Daily/2024/운동/2024-07/2024-07-05 운동.md",
+    "1. Daily/2024/2024-07/2024-07-01.md",
     "1. Daily/2024/2024-07/2024-07-05.md",
+    "회사/유컴패니온/2024-07/2024-07-05 회사.md",
     "Front End/React/가상 DOM.md",
     "옵시디언 사용법/이미지 사이즈 줄이기.md",
-    "회사/유컴패니온/2024-07/2024-07-05 회사.md",
     "1. Daily/2024/운동/2024-07/2024-07-01 운동.md",
     "1. Daily/2024/운동/2024-07/2024-07-02 운동.md",
     "1. Daily/2024/운동/2024-07/2024-07-03 운동.md",
     "1. Daily/2024/운동/2024-07/2024-07-04 운동.md",
     "옵시디언 사용법/코드 구현 하는법.md",
-    "1. Daily/2024/2024-07/2024-07-01.md",
     "Attached file/Pasted image 20240704172454.png",
     "옵시디언 사용법/옵시디언 사용법.md",
     "1. Daily/2024/2024-07/2024-07-04.md",
@@ -216,10 +220,6 @@
     "4. Yealry/회사/2024 회사.md",
     "회사/유컴패니온/2024-04/2024-04-30 회사.md",
     "회사/유컴패니온/2024-04/2024-04-29 회사.md",
-    "회사/유컴패니온/2024-04/2024-04-26 회사.md",
-    "회사/유컴패니온/2024-04/2024-04-25 회사.md",
-    "회사/유컴패니온/2024-04/2024-04-24 회사.md",
-    "1. Daily/2024/2024-06/2024-06.md",
     "Front End/Vue.js",
     "Attached file/Untitled.loom",
     "1. Daily/2024/운동/2024-07",

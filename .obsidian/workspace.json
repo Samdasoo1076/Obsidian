@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-10 회사.md",
+                "file": "회사/유컴패니온/2024-07/2024-07-11 회사.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-07/2024-07-09.md",
+                "file": "1. Daily/2024/2024-07/2024-07-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +50,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "custom"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-10 회사.md",
+                "file": "회사/유컴패니온/2024-07/2024-07-11 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-10 회사.md",
+                "file": "회사/유컴패니온/2024-07/2024-07-11 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-10 회사.md"
+                "file": "회사/유컴패니온/2024-07/2024-07-11 회사.md"
               }
             }
           },
@@ -173,6 +173,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
       "flowershow:Publish with Flowershow": false,
       "switcher:퀵 스위처 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -190,9 +191,20 @@
   },
   "active": "a1ed6cdf4a51f8fa",
   "lastOpenFiles": [
-    "1. Daily/2024/2024-07/2024-07-09.md",
+    "1. Daily/2024/2024-07/2024-07-11.md",
+    "회사/유컴패니온/2024-07/2024-07-11 회사.md",
+    "개인 사이트/vercel.md",
+    "Dates.md",
+    "1. Daily/2024/2024-06/2024-06.md",
     "1. Daily/2024/2024-07/2024-07-10.md",
+    "일상/2024-05-22.md",
+    "2024-06-24.md",
+    "2024-.md",
+    "무제 파일.md",
+    "무제 파일 1.md",
+    "무제 폴더",
     "회사/유컴패니온/2024-07/2024-07-10 회사.md",
+    "1. Daily/2024/2024-07/2024-07-09.md",
     "1. Daily/2024/운동/2024-07/2024-07-09 운동.md",
     "Attached file/Pasted image 20240710145523.png",
     "Attached file/Pasted image 20240710145502.png",
@@ -210,20 +222,10 @@
     "1. Daily/2024/2024-07/2024-07-01.md",
     "회사/유컴패니온/2024-07/2024-07-05 회사.md",
     "Front End/React/가상 DOM.md",
-    "1. Daily/2024/운동/2024-07/2024-07-01 운동.md",
-    "1. Daily/2024/운동/2024-07/2024-07-02 운동.md",
-    "1. Daily/2024/운동/2024-07/2024-07-03 운동.md",
-    "1. Daily/2024/운동/2024-07/2024-07-04 운동.md",
     "Attached file/Pasted image 20240704172454.png",
-    "옵시디언 사용법/옵시디언 사용법.md",
     "Attached file/Pasted image 20240704172236.png",
     "Attached file/Pasted image 20240704172038.png",
-    "회사/유컴패니온/2024-07/2024-07-04 회사.md",
     "Front End/React",
-    "회사/디센트/2023-10/2023-10-27 회사.md",
-    "회사/디센트/2023-10/2023-10-26 회사.md",
-    "키보드/ak87 split/맵핑 기능.md",
-    "키보드/ak87 split/키 맵핑 하기.md",
     "Front End/Vue.js",
     "Attached file/Untitled.loom",
     "1. Daily/2024/운동/2024-07",
@@ -237,7 +239,6 @@
     "Attached file/Pasted image 20240624134536.png",
     "Chrome/꿀팁",
     "Chrome",
-    "Server/Nginx",
     "회사/유컴패니온/2024-05/무제 파일.canvas",
     "Front End/JavaSciprt/프로미스 설명.canvas",
     "1. Daily/2024/2024-05/2024-05-03 로직.canvas",

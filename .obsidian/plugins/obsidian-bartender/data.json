@@ -1,0 +1,43 @@
+{
+  "statusBarOrder": [],
+  "ribbonBarOrder": [],
+  "fileExplorerOrder": {
+    "": [
+      "옵시디언 사용법",
+      "1. Daily",
+      "회사",
+      "4. Yealry",
+      "내가 풀은 알고리즘",
+      "알아두면 쓸데 없는 코딩지식",
+      "영어",
+      "일상",
+      "자료구조",
+      "키보드",
+      "템플릿",
+      "API",
+      "Attached file",
+      "Chrome",
+      "Dates.md",
+      "Excalidraw",
+      "Git",
+      "Github",
+      "index.html",
+      "자기 소개 사이트",
+      "L3 Study",
+      "OIP.jpg",
+      "README.md",
+      "Tags",
+      "Travel",
+      "Server",
+      "Front End",
+      "Back End",
+      "DATABASE"
+    ]
+  },
+  "actionBarOrder": {},
+  "autoHide": false,
+  "autoHideDelay": 2000,
+  "dragDelay": 200,
+  "sortOrder": "custom",
+  "useCollapse": true
+}

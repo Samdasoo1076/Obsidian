@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-11 회사.md",
+                "file": "회사/유컴패니온/2024-07/2024-07-12 회사.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-07/2024-07-11.md",
+                "file": "1. Daily/2024/2024-07/2024-07-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-11 회사.md",
+                "file": "회사/유컴패니온/2024-07/2024-07-12 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-11 회사.md",
+                "file": "회사/유컴패니온/2024-07/2024-07-12 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-11 회사.md"
+                "file": "회사/유컴패니온/2024-07/2024-07-12 회사.md"
               }
             }
           },
@@ -191,7 +191,10 @@
   },
   "active": "a1ed6cdf4a51f8fa",
   "lastOpenFiles": [
+    "1. Daily/2024/2024-07/2024-07-12.md",
     "1. Daily/2024/2024-07/2024-07-11.md",
+    "회사/유컴패니온/2024-07/2024-07-12 회사.md",
+    "2024-07-12.md",
     "회사/유컴패니온/2024-07/2024-07-11 회사.md",
     "개인 사이트/vercel.md",
     "Dates.md",
@@ -219,9 +222,6 @@
     "1. Daily/2024/운동/2024-07/2024-07-08 운동.md",
     "회사/유컴패니온/2024-07/2024-07-08 회사.md",
     "1. Daily/2024/운동/2024-07/2024-07-05 운동.md",
-    "1. Daily/2024/2024-07/2024-07-01.md",
-    "회사/유컴패니온/2024-07/2024-07-05 회사.md",
-    "Front End/React/가상 DOM.md",
     "Attached file/Pasted image 20240704172454.png",
     "Attached file/Pasted image 20240704172236.png",
     "Attached file/Pasted image 20240704172038.png",

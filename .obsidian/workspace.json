@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-12 회사.md",
+                "file": "1. Daily/2024/2024-07/2024-07-15.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b43a73d79cd93e97",
+            "id": "c608486df92ccae6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-07/2024-07-12.md",
+                "file": "회사/유컴패니온/2024-07/2024-07-15 회사.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-12 회사.md",
+                "file": "회사/유컴패니온/2024-07/2024-07-15 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-12 회사.md",
+                "file": "회사/유컴패니온/2024-07/2024-07-15 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-12 회사.md"
+                "file": "회사/유컴패니온/2024-07/2024-07-15 회사.md"
               }
             }
           },
@@ -189,11 +190,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a1ed6cdf4a51f8fa",
+  "active": "c608486df92ccae6",
   "lastOpenFiles": [
+    "1. Daily/2024/2024-07/2024-07-15.md",
+    "1. Daily/2024/2024-07/2024-07-09.md",
+    "회사/유컴패니온/2024-07/2024-07-15 회사.md",
     "1. Daily/2024/2024-07/2024-07-12.md",
-    "1. Daily/2024/2024-07/2024-07-11.md",
+    "2024-07-15.md",
     "회사/유컴패니온/2024-07/2024-07-12 회사.md",
+    "1. Daily/2024/2024-07/2024-07-11.md",
     "2024-07-12.md",
     "회사/유컴패니온/2024-07/2024-07-11 회사.md",
     "개인 사이트/vercel.md",
@@ -207,7 +212,6 @@
     "무제 파일 1.md",
     "무제 폴더",
     "회사/유컴패니온/2024-07/2024-07-10 회사.md",
-    "1. Daily/2024/2024-07/2024-07-09.md",
     "1. Daily/2024/운동/2024-07/2024-07-09 운동.md",
     "Attached file/Pasted image 20240710145523.png",
     "Attached file/Pasted image 20240710145502.png",
@@ -219,9 +223,6 @@
     "1. Daily/2024/2024-07/2024-07-04.md",
     "1. Daily/2024/2024-07/2024-07-08.md",
     "옵시디언 사용법/코드 구현 하는법.md",
-    "1. Daily/2024/운동/2024-07/2024-07-08 운동.md",
-    "회사/유컴패니온/2024-07/2024-07-08 회사.md",
-    "1. Daily/2024/운동/2024-07/2024-07-05 운동.md",
     "Attached file/Pasted image 20240704172454.png",
     "Attached file/Pasted image 20240704172236.png",
     "Attached file/Pasted image 20240704172038.png",

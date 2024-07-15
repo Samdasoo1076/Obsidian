@@ -76,5 +76,23 @@
       ],
       "key": "0"
     }
+  ],
+  "workspace:close-window": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "W"
+    }
+  ],
+  "obsidian-wakatime:wakatime-api-key": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "."
+    }
   ]
 }

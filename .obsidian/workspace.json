@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-07/2024-07-18.md",
+                "file": "회사/유컴패니온/2024-07/2024-07-19 회사.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-18 회사.md",
+                "file": "1. Daily/2024/2024-07/2024-07-19.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "87c7712acf68d05e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-18 회사.md",
+                "file": "회사/유컴패니온/2024-07/2024-07-19 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-18 회사.md",
+                "file": "회사/유컴패니온/2024-07/2024-07-19 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-18 회사.md"
+                "file": "회사/유컴패니온/2024-07/2024-07-19 회사.md"
               }
             }
           },
@@ -190,12 +197,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c608486df92ccae6",
+  "active": "a1ed6cdf4a51f8fa",
   "lastOpenFiles": [
-    "Attached file/Pasted image 20240718170709.png",
+    "1. Daily/2024/2024-07/2024-07-19.md",
+    "회사/유컴패니온/2024-07/2024-07-19 회사.md",
     "1. Daily/2024/2024-07/2024-07-18.md",
-    "1. Daily/2024/2024-07/2024-07-17.md",
     "회사/유컴패니온/2024-07/2024-07-18 회사.md",
+    "Attached file/Pasted image 20240718170709.png",
+    "1. Daily/2024/2024-07/2024-07-17.md",
     "2024-07-18.md",
     "회사/유컴패니온/2024-07/2024-07-17 회사.md",
     "1. Daily/2024/2024-07/2024-07-16.md",
@@ -218,7 +227,6 @@
     "일상/2024-05-22.md",
     "2024-06-24.md",
     "2024-.md",
-    "무제 파일.md",
     "무제 폴더",
     "Attached file/Pasted image 20240710145523.png",
     "Attached file/Pasted image 20240710145502.png",
@@ -236,7 +244,6 @@
     "1. Daily/2024/2024-07",
     "회사/유컴패니온/2024-06/2024-06-25 회사 서버 구성.canvas",
     "Attached file/Pasted image 20240626155958.png",
-    "OIP.jpg",
     "무제 파일.canvas",
     "Chrome/꿀팁",
     "Chrome",

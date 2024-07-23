@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-19 회사.md",
+                "file": "회사/유컴패니온/2024-07/2024-07-23 회사.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-07/2024-07-22.md",
+                "file": "1. Daily/2024/2024-07/2024-07-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb19db5f021308c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Yealry/나/2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-19 회사.md",
+                "file": "회사/유컴패니온/2024-07/2024-07-23 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-19 회사.md",
+                "file": "회사/유컴패니온/2024-07/2024-07-23 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-19 회사.md"
+                "file": "회사/유컴패니온/2024-07/2024-07-23 회사.md"
               }
             }
           },
@@ -191,12 +203,18 @@
   },
   "active": "a1ed6cdf4a51f8fa",
   "lastOpenFiles": [
-    "회사/유컴패니온/2024-07/2024-07-22 회사.md",
+    "Attached file/Pasted image 20240723142558.png",
+    "1. Daily/2024/2024-07/2024-07-23.md",
+    "회사/유컴패니온/2024-07/2024-07-23 회사.md",
+    "Attached file/Pasted image 20240723142440.png",
+    "4. Yealry/나/2024.md",
     "1. Daily/2024/2024-07/2024-07-22.md",
+    "회사/유컴패니온/2024-07/2024-07-19 회사.md",
+    "Attached file/Pasted image 20240723100355.png",
+    "회사/유컴패니온/2024-07/2024-07-22 회사.md",
     "Attached file/Pasted image 20240722090604.png",
     "Attached file/Pasted image 20240722090600.png",
     "1. Daily/2024/2024-07/2024-07-19.md",
-    "회사/유컴패니온/2024-07/2024-07-19 회사.md",
     "1. Daily/2024/2024-07/2024-07-18.md",
     "회사/유컴패니온/2024-07/2024-07-18 회사.md",
     "Attached file/Pasted image 20240718170709.png",
@@ -217,16 +235,11 @@
     "1. Daily/2024/2024-07/2024-07-11.md",
     "2024-07-12.md",
     "개인 사이트/vercel.md",
-    "Dates.md",
-    "1. Daily/2024/2024-06/2024-06.md",
-    "1. Daily/2024/2024-07/2024-07-10.md",
     "무제 폴더",
     "Attached file/Pasted image 20240710145523.png",
     "Attached file/Pasted image 20240710145502.png",
     "Attached file/Pasted image 20240710145349.png",
     "Attached file/Pasted image 20240710145142.png",
-    "Attached file/Pasted image 20240704172454.png",
-    "Attached file/Pasted image 20240704172236.png",
     "Front End/React",
     "Front End/Vue.js",
     "Attached file/Untitled.loom",

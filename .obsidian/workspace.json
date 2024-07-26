@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-25 회사.md",
+                "file": "회사/유컴패니온/2024-07/2024-07-26 회사.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-25 회사.md",
+                "file": "1. Daily/2024/2024-07/2024-07-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-25 회사.md",
+                "file": "1. Daily/2024/2024-07/2024-07-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-25 회사.md"
+                "file": "1. Daily/2024/2024-07/2024-07-25.md"
               }
             }
           },
@@ -189,13 +190,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a1ed6cdf4a51f8fa",
+  "active": "c608486df92ccae6",
   "lastOpenFiles": [
+    "1. Daily/2024/2024-07/2024-07-26.md",
+    "회사/유컴패니온/2024-07/2024-07-26 회사.md",
+    "1. Daily/2024/2024-07/2024-07-25.md",
+    "회사/유컴패니온/2024-07/2024-07-25 회사.md",
     "Back End/자바/백준/0. 템플릿.md",
     "Back End/자바/백준/배열/과제 안 내신분(5597).md",
     "Back End/자바/객체 지향.canvas",
-    "회사/유컴패니온/2024-07/2024-07-25 회사.md",
-    "1. Daily/2024/2024-07/2024-07-25.md",
     "1. Daily/2024/2024-07/2024-07-24.md",
     "회사/유컴패니온/2024-07/2024-07-24 회사.md",
     "1. Daily/2024/2024-07/2024-07-23.md",
@@ -223,7 +226,6 @@
     "회사/유컴패니온/2024-07/2024-07-15 회사.md",
     "Attached file/Pasted image 20240716161004.png",
     "회사/유컴패니온/2024-07/2024-07-11 회사.md",
-    "회사/유컴패니온/2024-07/2024-07-10 회사.md",
     "무제 폴더",
     "Attached file/Pasted image 20240710145523.png",
     "Attached file/Pasted image 20240710145502.png",

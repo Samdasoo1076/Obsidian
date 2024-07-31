@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-30 회사.md",
+                "file": "회사/유컴패니온/2024-07/2024-07-31 회사.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-07/2024-07-30.md",
+                "file": "1. Daily/2024/2024-07/2024-07-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-30 회사.md",
+                "file": "회사/유컴패니온/2024-07/2024-07-31 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-30 회사.md",
+                "file": "회사/유컴패니온/2024-07/2024-07-31 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/유컴패니온/2024-07/2024-07-30 회사.md"
+                "file": "회사/유컴패니온/2024-07/2024-07-31 회사.md"
               }
             }
           },
@@ -191,9 +191,11 @@
   },
   "active": "a1ed6cdf4a51f8fa",
   "lastOpenFiles": [
-    "Attached file/Pasted image 20240730143356.png",
+    "1. Daily/2024/2024-07/2024-07-31.md",
+    "회사/유컴패니온/2024-07/2024-07-31 회사.md",
     "1. Daily/2024/2024-07/2024-07-30.md",
     "회사/유컴패니온/2024-07/2024-07-30 회사.md",
+    "Attached file/Pasted image 20240730143356.png",
     "회사/유컴패니온/2024-07/2024-07-29 회사.md",
     "1. Daily/2024/2024-07/2024-07-29.md",
     "1. Daily/2024/2024-07/2024-07-12.md",
@@ -223,12 +225,10 @@
     "회사/유컴패니온/2024-07/2024-07-18 회사.md",
     "Attached file/Pasted image 20240718170709.png",
     "1. Daily/2024/2024-07/2024-07-17.md",
-    "2024-07-18.md",
     "Attached file/Pasted image 20240716161004.png",
     "무제 폴더",
     "Attached file/Pasted image 20240710145523.png",
     "Attached file/Pasted image 20240710145502.png",
-    "Attached file/Pasted image 20240710145349.png",
     "Front End/React",
     "Front End/Vue.js",
     "Attached file/Untitled.loom",

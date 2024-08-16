@@ -11,25 +11,13 @@
             "id": "a1ed6cdf4a51f8fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "회사/유컴패니온/2024-08/2024-08-13 회사.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c608486df92ccae6",
-            "type": "leaf",
-            "state": {
               "type": "canvas",
               "state": {
                 "file": "회사/유컴패니온/SM/Connect+/데이터 흐름도.canvas",
                 "viewState": {
-                  "x": -3.5,
-                  "y": -165,
-                  "zoom": 0
+                  "x": -23.13748008060594,
+                  "y": -250.31923010709704,
+                  "zoom": -0.3333333333333333
                 }
               }
             }
@@ -41,6 +29,18 @@
               "type": "markdown",
               "state": {
                 "file": "회사/유컴패니온/SM/Connect+/2024-08/2024-08-13 플젝.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cecb43128c31d26b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "회사/유컴패니온/2024-08/2024-08-16 회사.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/유컴패니온/SM/Connect+/2024-08/2024-08-13 플젝.md",
+                "file": "회사/유컴패니온/2024-08/2024-08-16 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/유컴패니온/SM/Connect+/2024-08/2024-08-13 플젝.md",
+                "file": "회사/유컴패니온/2024-08/2024-08-16 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/유컴패니온/SM/Connect+/2024-08/2024-08-13 플젝.md"
+                "file": "회사/유컴패니온/2024-08/2024-08-16 회사.md"
               }
             }
           },
@@ -205,21 +205,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e4b61b958845dbbf",
+  "active": "cecb43128c31d26b",
   "lastOpenFiles": [
+    "회사/유컴패니온/2024-08/2024-08-12 회사.md",
     "회사/유컴패니온/2024-08/2024-08-13 회사.md",
+    "회사/유컴패니온/2024-08/2024-08-14 회사.md",
+    "회사/유컴패니온/2024-08/2024-08-16 회사.md",
     "회사/유컴패니온/SM/Connect+/2024-08/2024-08-13 플젝.md",
+    "1. Daily/2024/2024-08/2024-08-16.md",
+    "회사/유컴패니온/SM/Connect+/데이터 흐름도.canvas",
+    "회사/유컴패니온/SM/Connect+/무제 파일.canvas",
+    "1. Daily/2024/2024-08/2024-08-14.md",
+    "1. Daily/2024/2024-08/2024-08-01.md",
     "1. Daily/2024/2024-08/2024-08-13.md",
     "4. Yealry/회사/2024 회사.md",
-    "1. Daily/2024/2024-08/2024-08-01.md",
-    "회사/유컴패니온/2024-08/2024-08-12 회사.md",
     "회사/유컴패니온/SM/Connect+/2024-08/2024-08-12 플젝.md",
     "회사/유컴패니온/SM/Connect+/2024-08/2024-08-08 플젝.md",
     "회사/유컴패니온/SM/Connect+/2024-08/2024-08-09 플젝.md",
     "1. Daily/2024/2024-08/2024-08-12.md",
     "회사/유컴패니온/2024-08/2024-08-07 회사.md",
     "회사/유컴패니온/2024-08/2024-08-08 회사.md",
-    "회사/유컴패니온/SM/Connect+/데이터 흐름도.canvas",
     "템플릿/프로젝트 템플릿.md",
     "템플릿/일상 템플릿.md",
     "템플릿/회사 템플릿.md",
@@ -233,11 +238,6 @@
     "회사/유컴패니온/SM/Connect+",
     "회사/유컴패니온/SM",
     "1. Daily/2024/2024-08/2024-08-06.md",
-    "회사/유컴패니온/2024-08/2024-08-06 회사.md",
-    "회사/유컴패니온/2024-07/2024-07-02 회사.md",
-    "회사/유컴패니온/2024-07/2024-07-03 회사.md",
-    "회사/유컴패니온/2024-07/2024-07-04 회사.md",
-    "회사/유컴패니온/2024-07/2024-07-05 회사.md",
     "회사/유컴패니온/2024-06/2024-06-25 회사 서버 구성.canvas",
     "Attached file/Pasted image 20240802172507.png",
     "Attached file/Pasted image 20240802172503.png",

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"212711d5389fced6","x":-200,"y":40,"width":250,"height":60,"type":"text","text":"답변"},
+		{"id":"0c8be780ca186e0b","x":-200,"y":-320,"width":250,"height":60,"type":"text","text":"퀴즈 아이템"},
+		{"id":"6231c3a2afacf28c","x":-325,"y":-140,"width":250,"height":60,"type":"text","text":"정답"},
+		{"id":"e1c4e7a1cb61cc4d","x":50,"y":-140,"width":250,"height":60,"type":"text","text":"정답 아님"}
+	],
+	"edges":[
+		{"id":"28db4e5842742cb6","fromNode":"6231c3a2afacf28c","fromSide":"bottom","toNode":"212711d5389fced6","toSide":"top"},
+		{"id":"12339ae50bec97bc","fromNode":"212711d5389fced6","fromSide":"bottom","toNode":"6231c3a2afacf28c","toSide":"left"},
+		{"id":"c0d7d980f8193df8","fromNode":"0c8be780ca186e0b","fromSide":"bottom","toNode":"6231c3a2afacf28c","toSide":"top"}
+	]
+}

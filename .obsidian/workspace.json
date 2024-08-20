@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/SM/Connect+/2024-08/2024-08-19 플젝.md",
+                "file": "회사/유컴패니온/SM/Connect+/2024-08/2024-08-20 플젝.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,14 +40,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-08/2024-08-19 회사.md",
+                "file": "회사/유컴패니온/2024-08/2024-08-20 회사.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6aa5d7ff58b29a48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily/2024/2024-08/2024-08-20.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/유컴패니온/SM/Connect+/2024-08/2024-08-19 플젝.md",
+                "file": "회사/유컴패니온/2024-08/2024-08-20 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/유컴패니온/SM/Connect+/2024-08/2024-08-19 플젝.md",
+                "file": "회사/유컴패니온/2024-08/2024-08-20 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/유컴패니온/SM/Connect+/2024-08/2024-08-19 플젝.md"
+                "file": "회사/유컴패니온/2024-08/2024-08-20 회사.md"
               }
             }
           },
@@ -205,14 +217,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ea53c7a4af411b5a",
+  "active": "cecb43128c31d26b",
   "lastOpenFiles": [
+    "회사/유컴패니온/SM/Connect+/2024-08/2024-08-20 플젝.md",
+    "회사/유컴패니온/SM/Connect+/2024-08/2024-08-19 플젝.md",
     "회사/유컴패니온/2024-08/2024-08-19 회사.md",
+    "회사/유컴패니온/2024-08/2024-08-20 회사.md",
+    "1. Daily/2024/2024-08/2024-08-20.md",
     "템플릿/회사 템플릿.md",
     "템플릿/프로젝트 템플릿.md",
     "템플릿/일상 템플릿.md",
     "템플릿/운동 템플릿.md",
-    "회사/유컴패니온/SM/Connect+/2024-08/2024-08-19 플젝.md",
     "회사/유컴패니온/SM/Connect+/데이터 흐름도.canvas",
     "1. Daily/2024/2024-08/2024-08-19.md",
     "회사/유컴패니온/SM/Connect+/2024-08/2024-08-13 플젝.md",
@@ -232,10 +247,7 @@
     "1. Daily/2024/2024-08/2024-08-12.md",
     "회사/유컴패니온/2024-08/2024-08-07 회사.md",
     "회사/유컴패니온/2024-08/2024-08-08 회사.md",
-    "회사/유컴패니온/SM/Connect+/Drawing 2024-08-08 14.58.50.excalidraw.md",
     "회사/유컴패니온/SM/Connect+/2024-08",
-    "회사/유컴패니온/SM/Connect+/2024-08.md",
-    "1. Daily/2024/2024-08/2024-08-08.md",
     "Attached file/Untitled 1.loom",
     "회사/유컴패니온/SM/Connect+",
     "회사/유컴패니온/SM",

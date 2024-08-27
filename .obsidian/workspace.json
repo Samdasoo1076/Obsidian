@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-08/2024-08-26 회사.md",
+                "file": "회사/유컴패니온/2024-08/2024-08-27 회사.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-08/2024-08-26.md",
+                "file": "1. Daily/2024/2024-08/2024-08-27.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024/2024-08/2024-08-26.md",
+                "file": "회사/유컴패니온/2024-08/2024-08-27 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024/2024-08/2024-08-26.md",
+                "file": "회사/유컴패니온/2024-08/2024-08-27 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024/2024-08/2024-08-26.md"
+                "file": "회사/유컴패니온/2024-08/2024-08-27 회사.md"
               }
             }
           },
@@ -202,8 +202,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "62a47388761ea53c",
+  "active": "6d114647523eefe7",
   "lastOpenFiles": [
+    "1. Daily/2024/2024-08/2024-08-27.md",
+    "회사/유컴패니온/2024-08/2024-08-27 회사.md",
+    "회사/유컴패니온/SM/Connect+/2024-08/2024-08-23 플젝.md",
     "회사/유컴패니온/2024-08/2024-08-26 회사.md",
     "1. Daily/2024/2024-08/2024-08-26.md",
     "회사/유컴패니온/2024-08/2024-08-23 회사.md",
@@ -226,7 +229,6 @@
     "4. Yealry/회사/플젝 사진/건국대",
     "4. Yealry/회사/플젝 사진/롯데렌터카",
     "4. Yealry/회사/플젝 사진",
-    "회사/유컴패니온/SM/Connect+/2024-08/2024-08-23 플젝.md",
     "4. Yealry/나/2024.md",
     "4. Yealry/나/2023.md",
     "Attached file/Pasted image 20240823122322.png",
@@ -244,8 +246,6 @@
     "템플릿/운동 템플릿.md",
     "1. Daily/2024/2024-08/2024-08-19.md",
     "회사/유컴패니온/SM/Connect+/2024-08/2024-08-13 플젝.md",
-    "회사/유컴패니온/2024-08/2024-08-16 회사.md",
-    "회사/유컴패니온/2024-08/2024-08-12 회사.md",
     "회사/유컴패니온/SM/Connect+/2024-08",
     "Attached file/Untitled 1.loom",
     "회사/유컴패니온/SM/Connect+",

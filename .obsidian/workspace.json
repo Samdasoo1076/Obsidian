@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/SM/Ucomp/2024-08/2024-08-28 플젝.md",
+                "file": "회사/유컴패니온/SM/Ucomp/2024-08/2024-08-29 플젝.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,19 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-08/2024-08-28 회사.md",
+                "file": "회사/유컴패니온/2024-08/2024-08-29 회사.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "62a47388761ea53c",
+            "id": "27419d8ffea7588a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-08/2024-08-28.md",
+                "file": "회사/유컴패니온/고도화/2025 한양대 입학처/요구사항.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/유컴패니온/SM/Ucomp/2024-08/2024-08-28 플젝.md",
+                "file": "회사/유컴패니온/SM/Ucomp/2024-08/2024-08-29 플젝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/유컴패니온/SM/Ucomp/2024-08/2024-08-28 플젝.md",
+                "file": "회사/유컴패니온/SM/Ucomp/2024-08/2024-08-29 플젝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/유컴패니온/SM/Ucomp/2024-08/2024-08-28 플젝.md"
+                "file": "회사/유컴패니온/SM/Ucomp/2024-08/2024-08-29 플젝.md"
               }
             }
           },
@@ -203,9 +203,17 @@
   },
   "active": "ea53c7a4af411b5a",
   "lastOpenFiles": [
+    "회사/유컴패니온/고도화/2025 한양대 입학처/요구사항.md",
+    "회사/유컴패니온/2024-08/2024-08-29 회사.md",
+    "1. Daily/2024/2024-08/2024-08-29.md",
+    "회사/유컴패니온/고도화/2025 한양대 입학처/2024-08-29",
+    "회사/유컴패니온/고도화/2025 한양대 입학처",
+    "회사/유컴패니온/고도화",
+    "회사/유컴패니온/SM/Ucomp/2024-08/2024-08-29 플젝.md",
+    "1. Daily/2024/2024-08/2024-08-01.md",
+    "1. Daily/2024/2024-08/2024-08-28.md",
     "회사/유컴패니온/2024-08/2024-08-28 회사.md",
     "회사/유컴패니온/SM/Ucomp/2024-08/2024-08-28 플젝.md",
-    "1. Daily/2024/2024-08/2024-08-28.md",
     "옵시디언 사용법/플러그인 단축키/마인드맵 생성.md",
     "옵시디언 사용법/코드 구현 하는법.md",
     "옵시디언 사용법/줄 생성 Ctrl + `.md",
@@ -227,8 +235,6 @@
     "회사/유컴패니온/SM/Connect+/데이터 흐름도.canvas",
     "회사/유컴패니온/SM/Connect+/무제 파일.canvas",
     "4. Yealry/회사/플젝 사진/건국대/건국대 플젝 기능 개발 사진.md",
-    "1. Daily/2024/2024-08/2024-08-23.md",
-    "4. Yealry/회사/플젝 사진/Connect+/Connect+ 플젝 기능 개발 사진.md",
     "Attached file/Pasted image 20240823152259.png",
     "Attached file/Pasted image 20240823152225.png",
     "Attached file/Pasted image 20240823152206.png",
@@ -242,15 +248,8 @@
     "4. Yealry/회사/플젝 사진/건국대",
     "4. Yealry/회사/플젝 사진/롯데렌터카",
     "4. Yealry/회사/플젝 사진",
-    "4. Yealry/나/2024.md",
-    "4. Yealry/나/2023.md",
     "Attached file/Pasted image 20240823122322.png",
-    "1. Daily/2024/2024-08/2024-08-21.md",
-    "회사/유컴패니온/SM/Connect+/2024-08/2024-08-21 플젝.md",
     "회사/유컴패니온/SM/Connect+/2024-08",
-    "Attached file/Untitled 1.loom",
-    "회사/유컴패니온/SM/Connect+",
-    "회사/유컴패니온/SM",
     "회사/유컴패니온/2024-06/2024-06-25 회사 서버 구성.canvas",
     "Back End/자바/객체 지향.canvas",
     "무제 파일.canvas",

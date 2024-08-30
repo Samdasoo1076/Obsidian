@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/SM/Ucomp/2024-08/2024-08-29 플젝.md",
+                "file": "회사/유컴패니온/SM/한양대/2025 한양대 입학처/요구사항.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,25 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-08/2024-08-29 회사.md",
+                "file": "회사/유컴패니온/SM/Ucomp/2024-08/2024-08-30 플젝.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "27419d8ffea7588a",
+            "id": "ba1a74b594ebac86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/고도화/2025 한양대 입학처/요구사항.md",
+                "file": "회사/유컴패니온/2024-08/2024-08-30 회사.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "067c51effc8a9ff0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-08/2024-08-30 플젝.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,22 +70,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d2b3d80d59c46ae",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "custom"
-              }
-            }
-          },
-          {
             "id": "185a43a271d85fa0",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#2024-",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,22 +85,25 @@
             }
           },
           {
-            "id": "006ac10b83c73b82",
+            "id": "6b86d96fa2a51c4a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc57266be6362c2c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "d097e22c711512ad",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -123,57 +129,10 @@
             }
           },
           {
-            "id": "93071ba735080594",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "회사/유컴패니온/SM/Ucomp/2024-08/2024-08-29 플젝.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "8fa9aa490f9a5abb",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "회사/유컴패니온/SM/Ucomp/2024-08/2024-08-29 플젝.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "9f05dd4c81d015c4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "회사/유컴패니온/SM/Ucomp/2024-08/2024-08-29 플젝.md"
-              }
-            }
-          },
-          {
             "id": "60cde4247d4d826a",
             "type": "leaf",
             "state": {
               "type": "todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "aafdfbae3477d5b0",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
               "state": {}
             }
           }
@@ -186,7 +145,7 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian42-brat:BRAT": false,
-      "flowershow:Publish with Flowershow": false,
+      "flowershow:Publish with Flowershow": true,
       "switcher:퀵 스위처 열기": false,
       "canvas:새 캔버스 만들기": false,
       "graph:그래프 뷰 열기": false,
@@ -201,40 +160,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ea53c7a4af411b5a",
+  "active": "6d114647523eefe7",
   "lastOpenFiles": [
-    "회사/유컴패니온/고도화/2025 한양대 입학처/요구사항.md",
+    "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-08/2024-08-30 플젝.md",
+    "회사/유컴패니온/SM/Ucomp/2024-08/2024-08-30 플젝.md",
+    "회사/유컴패니온/2024-08/2024-08-30 회사.md",
+    "회사/유컴패니온/SM/한양대/2025 한양대 입학처/요구사항.md",
+    "회사/유컴패니온/SM/한양대/무제 파일.md",
+    "템플릿/회사 템플릿.md",
+    "Dates.md",
+    "4. Yealry/회사/2024 회사.md",
+    "1. Daily/2024/2024-06/2024-06.md",
+    "1. Daily/2024/2024-03/2024-03.md",
+    "Untitled Diagram.svg",
+    "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-08/Untitled Diagram.svg",
+    "회사/유컴패니온/SM/한양대/2025 한양대 입학처/사용자 화면 필요 테이블.md",
+    "무제 파일.canvas",
+    "ucomp.co.kr.md",
+    "회사/유컴패니온/2024-04/2024-04-26 회사.md",
+    "회사/유컴패니온/파견지(롯데렌탈)/번역 안된것.md",
+    "회사/유컴패니온/고도화/2025 한양대 입학처/메모.md",
     "회사/유컴패니온/2024-08/2024-08-29 회사.md",
-    "1. Daily/2024/2024-08/2024-08-29.md",
-    "회사/유컴패니온/고도화/2025 한양대 입학처/2024-08-29",
-    "회사/유컴패니온/고도화/2025 한양대 입학처",
-    "회사/유컴패니온/고도화",
-    "회사/유컴패니온/SM/Ucomp/2024-08/2024-08-29 플젝.md",
+    "1. Daily/2024/2024-08/2024-08-30.md",
     "1. Daily/2024/2024-08/2024-08-01.md",
+    "회사/유컴패니온/SM/Ucomp/2024-08/2024-08-29 플젝.md",
+    "1. Daily/2024/2024-08/2024-08-29.md",
+    "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-08",
+    "회사/유컴패니온/SM/한양대/2025 한양대 입학처",
+    "회사/유컴패니온/SM/한양대",
     "1. Daily/2024/2024-08/2024-08-28.md",
     "회사/유컴패니온/2024-08/2024-08-28 회사.md",
     "회사/유컴패니온/SM/Ucomp/2024-08/2024-08-28 플젝.md",
     "옵시디언 사용법/플러그인 단축키/마인드맵 생성.md",
     "옵시디언 사용법/코드 구현 하는법.md",
     "옵시디언 사용법/줄 생성 Ctrl + `.md",
-    "옵시디언 사용법/이미지 사이즈 줄이기.md",
-    "옵시디언 사용법/불릿 생성 Ctrl + d.md",
-    "옵시디언 사용법/마크다운 사용.md",
-    "옵시디언 사용법/단축키.md",
-    "옵시디언 사용법/옵시디언 사용법.md",
-    "2024-08-28.md",
-    "회사/유컴패니온/SM/Connect+/2024-08/2024-08-23 플젝.md",
     "회사/유컴패니온/SM/Ucomp/2024-08",
     "회사/유컴패니온/SM/Ucomp",
-    "1. Daily/2024/2024-08/2024-08-27.md",
-    "회사/유컴패니온/2024-08/2024-08-27 회사.md",
-    "회사/유컴패니온/2024-08/2024-08-26 회사.md",
-    "1. Daily/2024/2024-08/2024-08-26.md",
-    "회사/유컴패니온/2024-08/2024-08-23 회사.md",
-    "4. Yealry/회사/2024 회사.md",
     "회사/유컴패니온/SM/Connect+/데이터 흐름도.canvas",
     "회사/유컴패니온/SM/Connect+/무제 파일.canvas",
-    "4. Yealry/회사/플젝 사진/건국대/건국대 플젝 기능 개발 사진.md",
     "Attached file/Pasted image 20240823152259.png",
     "Attached file/Pasted image 20240823152225.png",
     "Attached file/Pasted image 20240823152206.png",
@@ -243,16 +206,13 @@
     "Attached file/Pasted image 20240823152031.png",
     "Attached file/Pasted image 20240823152010.png",
     "Attached file/Pasted image 20240823151959.png",
-    "Attached file/Pasted image 20240823151927.png",
     "4. Yealry/회사/플젝 사진/Connect+",
     "4. Yealry/회사/플젝 사진/건국대",
     "4. Yealry/회사/플젝 사진/롯데렌터카",
     "4. Yealry/회사/플젝 사진",
-    "Attached file/Pasted image 20240823122322.png",
     "회사/유컴패니온/SM/Connect+/2024-08",
     "회사/유컴패니온/2024-06/2024-06-25 회사 서버 구성.canvas",
     "Back End/자바/객체 지향.canvas",
-    "무제 파일.canvas",
     "회사/유컴패니온/2024-05/무제 파일.canvas",
     "Front End/JavaSciprt/프로미스 설명.canvas",
     "1. Daily/2024/2024-05/2024-05-03 로직.canvas",

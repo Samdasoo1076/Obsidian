@@ -10,5 +10,5 @@
     "downscalePercent": 100
   },
   "useTab": false,
-  "showRibbon": false
+  "showRibbon": true
 }

@@ -1,7 +1,6 @@
 {
   "name": "AIHK AK75Split",
   "vendorProductId": 1515585537,
-  "macros": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
   "layers": [
     [
       "KC_ESC",

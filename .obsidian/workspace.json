@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-09/2024-10-02.md",
+                "file": "1. Daily/2024/2024-10/2024-10-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,19 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-10/2024-10-02 회사.md",
+                "file": "회사/유컴패니온/2024-10/2024-10-04 회사.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ea0ed9db2c5acc38",
+            "id": "41491b429be7b46c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-10/2024-10-02 플젝.md",
+                "file": "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-10/2024-10-04 플젝.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#고교연계",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-10/2024-10-02 플젝.md",
+                "file": "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-10/2024-10-04 플젝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-10/2024-10-02 플젝.md",
+                "file": "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-10/2024-10-04 플젝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-10/2024-10-02 플젝.md"
+                "file": "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-10/2024-10-04 플젝.md"
               }
             }
           },
@@ -213,11 +213,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ea0ed9db2c5acc38",
+  "active": "41491b429be7b46c",
   "lastOpenFiles": [
-    "회사/유컴패니온/2024-10/2024-10-02 회사.md",
+    "회사/유컴패니온/2024-10/2024-10-04 회사.md",
+    "1. Daily/2024/2024-10/2024-10-04.md",
+    "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-10/2024-10-04 플젝.md",
     "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-10/2024-10-02 플젝.md",
-    "1. Daily/2024/2024-09/2024-10-02.md",
+    "회사/유컴패니온/2024-10/2024-10-02 회사.md",
+    "1. Daily/2024/2024-10/2024-10-02.md",
+    "1. Daily/2024/2024-10",
     "회사/유컴패니온/SM/한양대/2025 한양대 입학처/파일 기록.md",
     "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-10",
     "키보드/ak87 split/키 맵핑 하기.md",
@@ -241,9 +245,6 @@
     "템플릿/프로젝트 템플릿.md",
     "템플릿/회사 템플릿.md",
     "템플릿/일상 템플릿.md",
-    "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-09/2024-09-24 플젝.md",
-    "1. Daily/2024/2024-09/2024-09-24.md",
-    "회사/유컴패니온/2024-09/2024-09-24 회사.md",
     "Attached file/Pasted image 20240923145357.png",
     "Attached file/Pasted image 20240919164855.png",
     "Attached file/Pasted image 20240919164836.png",
@@ -257,7 +258,6 @@
     "Attached file/Pasted image 20240902141107.png",
     "회사/유컴패니온/SM/Connect+/2024-09",
     "회사/유컴패니온/SM/Ucomp/2024-09",
-    "1. Daily/2024/2024-09",
     "Untitled Diagram.svg",
     "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-08/Untitled Diagram.svg",
     "무제 파일.canvas",

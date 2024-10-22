@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-10/2024-10-21.md",
+                "file": "1. Daily/2024/2024-10/2024-10-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-21"
+              "title": "2024-10-22"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-10/2024-10-21 회사.md",
+                "file": "회사/유컴패니온/2024-10/2024-10-22 회사.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-21 회사"
+              "title": "2024-10-22 회사"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-10/2024-10-21 플젝.md",
+                "file": "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-10/2024-10-22 플젝.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-21 플젝"
+              "title": "2024-10-22 플젝"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -223,11 +223,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1368de61ea703fbe",
+  "active": "3c006c2ca401c318",
   "lastOpenFiles": [
-    "1. Daily/2024/2024-10/2024-10-21.md",
-    "회사/유컴패니온/2024-10/2024-10-21 회사.md",
+    "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-10/2024-10-22 플젝.md",
+    "회사/유컴패니온/2024-10/2024-10-22 회사.md",
+    "1. Daily/2024/2024-10/2024-10-22.md",
     "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-10/2024-10-21 플젝.md",
+    "회사/유컴패니온/2024-10/2024-10-21 회사.md",
+    "Attached file/Pasted image 20241022105612.png",
+    "1. Daily/2024/2024-10/2024-10-21.md",
     "키보드/QueFrency/QueFrency3일차.md",
     "키보드/QueFrency",
     "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-10/2024-10-18 플젝.md",
@@ -249,9 +253,6 @@
     "Chrome/꿀팁/즐겨찾기한 페이지 찾기.md",
     "자기 소개 사이트/자기소개용 Front-end.md",
     "자기 소개 사이트/단어장.md",
-    "회사/유컴패니온/2024-10/2024-10-11 회사.md",
-    "회사/유컴패니온/2024-10/2024-10-14 회사.md",
-    "회사/유컴패니온/2024-10/2024-10-15 회사.md",
     "Attached file/Pasted image 20241014180102.png",
     "Attached file/Pasted image 20241014122627.png",
     "Attached file/Pasted image 20241014122619.png",
@@ -261,7 +262,6 @@
     "Attached file/Pasted image 20241014122241.png",
     "Attached file/Pasted image 20241014122234.png",
     "Attached file/Pasted image 20241014122155.png",
-    "Attached file/Pasted image 20241014122147.png",
     "회사/유컴패니온/SI",
     "1. Daily/2024/2024-10",
     "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-10",

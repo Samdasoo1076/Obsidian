@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"00de1520ca46fe0d","x":-400,"y":-155,"width":250,"height":60,"type":"text","text":"깃허브에 있는 코드"},
+		{"id":"0ccb4532c78be4b7","x":-400,"y":-10,"width":250,"height":60,"type":"text","text":"받아야 하는 코드"},
+		{"id":"995472ee2d48c813","x":40,"y":-160,"width":250,"height":70,"type":"text","text":"로컬에 있는 코드"},
+		{"id":"c7327d9643aa5df3","x":40,"y":-10,"width":250,"height":60,"type":"text","text":"수정한 코드"}
+	],
+	"edges":[
+		{"id":"87da0812e44599d9","fromNode":"00de1520ca46fe0d","fromSide":"right","toNode":"995472ee2d48c813","toSide":"left"},
+		{"id":"ea5f46669f79ca36","fromNode":"0ccb4532c78be4b7","fromSide":"right","toNode":"c7327d9643aa5df3","toSide":"left"}
+	]
+}

@@ -13,43 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/2024-10/2024-10-25.md",
+                "file": "1. Daily/2024/2024-10/2024-10-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-25"
+              "title": "2024-10-28"
             }
           },
           {
             "id": "a3e2357ec8a246a5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "1. Daily/2024/율,명준/무제 파일.canvas",
-                "viewState": {
-                  "x": -249.4115515177666,
-                  "y": 51.049488087361624,
-                  "zoom": -0.3333333333333333
-                }
+                "file": "회사/유컴패니온/2024-10/2024-10-28 회사.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "무제 파일"
+              "icon": "lucide-file",
+              "title": "2024-10-28 회사"
             }
           },
           {
             "id": "066c53732e4a3b3b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-10/2024-10-28 플젝.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "2024-10-28 플젝"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,14 +209,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a3e2357ec8a246a5",
+  "active": "066c53732e4a3b3b",
   "lastOpenFiles": [
-    "회사/유컴패니온/2024-10/2024-10-25 회사.md",
+    "회사/유컴패니온/2024-10/2024-10-28 회사.md",
+    "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-10/2024-10-28 플젝.md",
+    "1. Daily/2024/2024-10/2024-10-28.md",
+    "1. Daily/2024/2024-10/2024-10-25.md",
     "1. Daily/2024/율,명준/무제 파일.canvas",
+    "회사/유컴패니온/2024-10/2024-10-25 회사.md",
     "1. Daily/2024/율,명준/2024-10-26 깃허브 풀 푸쉬 요약.canvas",
     "1. Daily/2024/율,명준/2024-2.md",
     "1. Daily/2024/율,명준/2024-10-25 율명준.md",
-    "1. Daily/2024/2024-10/2024-10-25.md",
     "1. Daily/2024/율,명준/Drawing 2024-10-26 21.51.03.excalidraw.md",
     "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-10/2024-10-25 플젝.md",
     "1. Daily/2024/율,명준",
@@ -240,8 +244,6 @@
     "회사/유컴패니온/2024-10/2024-10-18 회사.md",
     "1. Daily/2024/2024-10/2024-10-04.md",
     "1. Daily/2024/2024-10/2024-10-18.md",
-    "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-10/2024-10-02 플젝.md",
-    "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-10/2024-10-17 플젝.md",
     "Attached file/Pasted image 20241014180102.png",
     "Attached file/Pasted image 20241014122627.png",
     "Attached file/Pasted image 20241014122619.png",

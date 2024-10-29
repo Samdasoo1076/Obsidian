@@ -1,27 +1,9 @@
 {
 	"nodes":[
-		{"id":"c0412d05b47434b4","type":"text","text":"Readme.md","x":-185,"y":-100,"width":250,"height":60},
-		{"id":"c1849c88d73bf6e1","type":"text","text":"index.html","x":-525,"y":-100,"width":250,"height":60},
-		{"id":"df458a449ea238f2","type":"text","text":"Readme3.md","x":-580,"y":210,"width":250,"height":60},
-		{"id":"e6db823a1e78b727","type":"text","text":"회원가입 기능 명준","x":-800,"y":-10,"width":250,"height":60},
-		{"id":"87b6ca58e58694a0","type":"text","text":"index2.html","x":-80,"y":210,"width":250,"height":60},
-		{"id":"d475935d8329c716","type":"text","text":"Readme3.md","x":320,"y":210,"width":250,"height":60},
-		{"id":"f63cbd6e536be63b","type":"text","text":"메인 서비스","x":-360,"y":-300,"width":250,"height":60},
-		{"id":"55210eb0f170709b","type":"text","text":"로그인 기능 율희","x":120,"y":-10,"width":250,"height":60},
-		{"id":"b25b036b7144e3ca","type":"text","text":"로그인 추가 기능","x":120,"y":360,"width":250,"height":60},
-		{"id":"c3ebb6d1c4e2525f","type":"text","text":"    index3.html","x":-1000,"y":210,"width":250,"height":60},
-		{"id":"e2cb63728eaed5a1","type":"text","text":"회원가입 추가 기능","x":-800,"y":360,"width":250,"height":60}
+		{"id":"678620a3f91925f4","x":-180,"y":-260,"width":250,"height":60,"type":"text","text":"Main 메서드"},
+		{"id":"5002aca505f8c570","x":-180,"y":60,"width":250,"height":60,"type":"text","text":"더하기만 하는 메서드"},
+		{"id":"9649fc9fbcdc5beb","type":"text","text":"두번째 데이터 = 2","x":140,"y":-110,"width":250,"height":60},
+		{"id":"e4a150c6a2b27cb6","x":-460,"y":-110,"width":250,"height":60,"type":"text","text":"첫번째 데이터 = 1"}
 	],
-	"edges":[
-		{"id":"af1b01e1275d183e","fromNode":"f63cbd6e536be63b","fromSide":"bottom","toNode":"c1849c88d73bf6e1","toSide":"top"},
-		{"id":"de0ef7ad892b298a","fromNode":"f63cbd6e536be63b","fromSide":"bottom","toNode":"c0412d05b47434b4","toSide":"top"},
-		{"id":"8ff15a4f3116d469","fromNode":"55210eb0f170709b","fromSide":"bottom","toNode":"87b6ca58e58694a0","toSide":"top"},
-		{"id":"d85f004b79ddfe7a","fromNode":"55210eb0f170709b","fromSide":"bottom","toNode":"d475935d8329c716","toSide":"top"},
-		{"id":"4dbcc5feb862dca0","fromNode":"f63cbd6e536be63b","fromSide":"right","toNode":"55210eb0f170709b","toSide":"top"},
-		{"id":"c4b1420f0bbf27b0","fromNode":"f63cbd6e536be63b","fromSide":"left","toNode":"e6db823a1e78b727","toSide":"top"},
-		{"id":"ad359cce27dc4af6","fromNode":"e6db823a1e78b727","fromSide":"bottom","toNode":"c3ebb6d1c4e2525f","toSide":"top"},
-		{"id":"8484690ab654160f","fromNode":"e6db823a1e78b727","fromSide":"bottom","toNode":"df458a449ea238f2","toSide":"top"},
-		{"id":"5e729abafda28c85","fromNode":"55210eb0f170709b","fromSide":"bottom","toNode":"b25b036b7144e3ca","toSide":"top"},
-		{"id":"4883b8933ff2d999","fromNode":"e6db823a1e78b727","fromSide":"bottom","toNode":"e2cb63728eaed5a1","toSide":"top"}
-	]
+	"edges":[]
 }

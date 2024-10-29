@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"5c45ab78fc780a11","x":-340,"y":-380,"width":250,"height":60,"type":"text","text":"TailWind.css"},
+		{"id":"afe50478237672a0","x":-340,"y":40,"width":250,"height":50,"type":"text","text":"Blog"},
+		{"id":"4dc311dc95ef00bf","x":-465,"y":-60,"width":250,"height":60,"type":"text","text":"Tailwind.css / 1.2.3"},
+		{"id":"35d365dee66b9940","type":"text","text":"Tailwind.css / 1.2.3","x":-515,"y":-280,"width":250,"height":60},
+		{"id":"720e57352689b106","x":-640,"y":-160,"width":250,"height":60,"type":"text","text":"npm"},
+		{"id":"ac4feec0136eb132","type":"text","text":"Tailwind.css / 1.2.3","x":-340,"y":-540,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"e145a624072eef7c","fromNode":"afe50478237672a0","fromSide":"top","toNode":"720e57352689b106","toSide":"bottom"},
+		{"id":"86c4adc24873872a","fromNode":"720e57352689b106","fromSide":"top","toNode":"5c45ab78fc780a11","toSide":"bottom"},
+		{"id":"3a6a9c8b81c5f61d","fromNode":"5c45ab78fc780a11","fromSide":"bottom","toNode":"720e57352689b106","toSide":"top"},
+		{"id":"930f7ac393a2be88","fromNode":"720e57352689b106","fromSide":"bottom","toNode":"afe50478237672a0","toSide":"top"},
+		{"id":"a9b4a0e30a17d9db","fromNode":"5c45ab78fc780a11","fromSide":"top","toNode":"ac4feec0136eb132","toSide":"bottom"},
+		{"id":"be392f14485c72e6","fromNode":"ac4feec0136eb132","fromSide":"bottom","toNode":"5c45ab78fc780a11","toSide":"top"}
+	]
+}

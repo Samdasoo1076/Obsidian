@@ -8,11 +8,10 @@ sudo tail /var/log/apache2/error.log
 ```
 
 화면에 오류 출력 
-php.ini에서 
+apahce2 / php.ini에서 
 display_errors = On
 display_startup_errors_ On
 
-short_open_tag
-php_ini에서 
+apache2 / php_ini에서 
 short_open_tag = On
 

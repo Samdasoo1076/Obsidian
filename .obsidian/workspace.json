@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/STS.md",
+                "file": "1. Daily/2024/2024-11/2024-11-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "STS"
+              "title": "2024-11-22"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2024-11/2024-11-21 회사.md",
+                "file": "회사/유컴패니온/2024-11/2024-11-22 회사.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-21 회사"
+              "title": "2024-11-22 회사"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/SI/원주미래산업진흥원/2024-11/2024-11-20 플젝.md",
+                "file": "회사/유컴패니온/SI/원주미래산업진흥원/2024-11/2024-11-22 플젝.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-20 플젝"
+              "title": "2024-11-22 플젝"
             }
           },
           {
@@ -78,19 +78,21 @@
             }
           },
           {
-            "id": "3a10a73b93f19f94",
+            "id": "677ddc61ea0c89ed",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Back End/Spring/구조/스프링 구조.md"
+                "file": "이력서에 적을만한것/힘들었던 경험/개발 서버 구축, 튜닝.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "스프링 구조"
+              "icon": "lucide-file",
+              "title": "개발 서버 구축, 튜닝"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -249,21 +251,32 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3a10a73b93f19f94",
+  "active": "6696ab7b0470c5c8",
   "lastOpenFiles": [
+    "회사/유컴패니온/2024-11/2024-11-22 회사.md",
+    "이력서에 적을만한것/힘들었던 경험/개발 서버 구축, 튜닝.md",
     "회사/유컴패니온/SI/원주미래산업진흥원/서버 구성.md",
+    "이력서에 적을만한것/서버 구성.md",
+    "Docker/명령어.md",
+    "이력서에 적을만한것/힘들었던 경험",
+    "회사/유컴패니온/SI/원주미래산업진흥원/2024-11/2024-11-22 플젝.md",
+    "1. Daily/2024/2024-11/2024-11-22.md",
+    "Attached file/Pasted image 20241122155119.png",
+    "Attached file/Pasted image 20241122155117.png",
+    "Attached file/Pasted image 20241122155004.png",
+    "회사/유컴패니온/SI/원주미래산업진흥원/2024-11/2024-11-01 플젝.md",
+    "회사/유컴패니온/SI/원주미래산업진흥원/2024-11/2024-11-20 플젝.md",
     "회사/유컴패니온/2024-11/2024-11-21 회사.md",
+    "Project/STS.md",
     "Back End/Spring/구조/스프링 구조.md",
+    "Back End/gradle/gradle gradlew 차이.md",
     "Back End/Spring/구조",
     "Back End/Spring",
     "Back End/자바/무제 폴더",
-    "Project/STS.md",
     "1. Daily/2024/2024-11/2024-11-21.md",
     "Project",
-    "Back End/gradle/gradle gradlew 차이.md",
     "Back End/gradle",
     "이력서에 적을만한것/사이트 특정 기능 고도화.md",
-    "회사/유컴패니온/SI/원주미래산업진흥원/2024-11/2024-11-20 플젝.md",
     "회사/유컴패니온/2024-11/2024-11-20 회사.md",
     "1. Daily/2024/2024-11/2024-11-20.md",
     "Attached file/SSL SSL과 TLS에 대한 정리(+동작방식)  네이버 블로그.md",
@@ -272,17 +285,10 @@
     "회사/유컴패니온/SI/원주미래산업진흥원/2024-11/2024-11-12 플젝.md",
     "옵시디언 사용법/옵시디언 사용법.md",
     "옵시디언 사용법/불릿 생성 Ctrl + d.md",
-    "Docker/명령어.md",
     "회사/유컴패니온/SI/원주미래산업진흥원/2024-11/개발 순서.md",
     "회사/유컴패니온/SI/원주미래산업진흥원/2024-11/2024-11-19 플젝.md",
     "회사/유컴패니온/2024-11/2024-11-01 회사.md",
     "회사/유컴패니온/2024-11/2024-11-19 회사.md",
-    "1. Daily/2024/2024-11/2024-11-19.md",
-    "Excalidraw/Drawing 2024-05-21 08.58.23.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-27 10.30.07.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-06 21.40.59.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-06 21.38.38.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-26 10.14.29.excalidraw.md",
     "Attached file/Pasted image 20241119140744.png",
     "Docker",
     "Attached file/Pasted image 20241118112329.png",
@@ -292,14 +298,10 @@
     "Attached file/Pasted image 20231201114153.png",
     "이력서에 적을만한것",
     "Attached file/Pasted image 20240221141514.png",
-    "Attached file/Pasted image 20240106234750.png",
     "Server/apache",
     "Server/ubuntu",
-    "Attached file/Pasted image 20241114093715.png",
-    "Attached file/Pasted image 20241111145047.png",
     "1. Daily/2024/CodeName_Doje/2024-10-26 깃허브 풀 푸쉬 요약.canvas",
     "1. Daily/2024/CodeName_Doje/2024-10-27 라이브러리 설명.canvas",
-    "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-11",
     "1. Daily/2024/CodeName_Doje/매개변수 설명.canvas",
     "1. Daily/2024/CodeName_Doje/브랜치 설명.canvas",
     "회사/유컴패니온/SM/Connect+/데이터 흐름도.canvas",

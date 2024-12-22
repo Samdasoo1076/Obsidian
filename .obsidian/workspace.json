@@ -62,20 +62,6 @@
               "icon": "lucide-file",
               "title": "자소서"
             }
-          },
-          {
-            "id": "a6bcad21f8887217",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "회사/디센트/용어/TMS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TMS"
-            }
           }
         ],
         "currentTab": 3
@@ -217,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,9 +226,10 @@
   },
   "active": "7044a6124a3fcbae",
   "lastOpenFiles": [
+    "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-10/2024-10-21 플젝.md",
     "회사/디센트/용어/TMS.md",
-    "회사/디센트/용어/OMS.md",
     "이력서에 적을만한것/자소서.md",
+    "회사/디센트/용어/OMS.md",
     "회사/디센트/용어/WMS.md",
     "회사/디센트/용어/출고.md",
     "회사/디센트/용어/입고.md",
@@ -264,7 +252,6 @@
     "1. Daily/2024/2024-12/2024-12-13.md",
     "1. Daily/2024/CodeName_Doje/2024-11-04 방과후.md",
     "회사/유컴패니온/SI/원주미래산업진흥원/2024-12/2024-12-13 플젝.md",
-    "1. Daily/2024/2024-12/2024-12-12.md",
     "회사/유컴패니온/SM/Connect+/데이터 흐름도.canvas",
     "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-08/Untitled Diagram.svg",
     "회사/유컴패니온/2024-12",

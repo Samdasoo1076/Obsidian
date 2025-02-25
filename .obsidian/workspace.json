@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2025/2025-02/2025-02-24.md",
+                "file": "1. Daily/2025/2025-02/2025-02-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-24"
+              "title": "2025-02-25"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2025/2025-02/2025-02-24 회사.md",
+                "file": "회사/유컴패니온/2025/2025-02/2025-02-25 회사.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-24 회사"
+              "title": "2025-02-25 회사"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/SM/DOMS/2025/2025-02/2025-02-24 플젝.md",
+                "file": "회사/유컴패니온/SI/원주미래산업진흥원/2025/2025-02/2025-02-25 플젝.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-24 플젝"
+              "title": "2025-02-25 플젝"
             }
           },
           {
@@ -75,20 +75,6 @@
               },
               "icon": "lucide-file",
               "title": "❗ Issue 1"
-            }
-          },
-          {
-            "id": "95ff5de376777d4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "키보드/gmk70/맵핑.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "맵핑"
             }
           }
         ],
@@ -167,7 +153,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
@@ -254,15 +240,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8d9f439fdb7c42c2",
+  "active": "f51e2fce0938cf83",
   "lastOpenFiles": [
+    "회사/유컴패니온/SI/원주미래산업진흥원/2025/2025-02/2025-02-25 플젝.md",
+    "Attached file/Pasted image 20250225120759.png",
+    "템플릿/이슈 템플릿.md",
+    "키보드/gmk70/맵핑.md",
+    "회사/유컴패니온/2025/2025-02/2025-02-25 회사.md",
+    "1. Daily/2025/2025-02/2025-02-22.md",
     "회사/유컴패니온/SM/DOMS/2025/2025-02/2025-02-24 플젝.md",
+    "1. Daily/2025/2025-02/2025-02-25.md",
     "회사/유컴패니온/2025/2025-02/2025-02-24 회사.md",
+    "1. Daily/2025/2025-02/2025-02-24.md",
     "회사/유컴패니온/SM/Connect+/2025/2025-02/2025-02-21 플젝.md",
     "회사/유컴패니온/SM/DOMS/2025/2025-02",
-    "1. Daily/2025/2025-02/2025-02-24.md",
     "1. Daily/2025/2025-02/2025-02-21.md",
-    "키보드/gmk70/맵핑.md",
     "키보드/ak87 split/맵핑 기능.md",
     "키보드/ak87 split/키 맵핑 하기.md",
     "Attached file/zuoya_gmk70.layout.json",
@@ -270,8 +262,6 @@
     "키보드/gmk70",
     "회사/유컴패니온/2025/2025-02/2025-02-21 회사.md",
     "회사/이슈/2025/2025-02/❗ Issue 1.md",
-    "템플릿/이슈 템플릿.md",
-    "1. Daily/2025/2025-02/2025-02-22.md",
     "템플릿/일상 템플릿.md",
     "템플릿/프로젝트 템플릿.md",
     "템플릿/공부 템플릿.md",
@@ -281,10 +271,6 @@
     "1. Daily/2025/2025-02/2025-02-20.md",
     "회사/유컴패니온/2025/2025-02/2025-02-20 회사.md",
     "회사/유컴패니온/2025/2025-02/2025-02-18 회사.md",
-    "회사/유컴패니온/2025/2025-02/2025-02-19 회사.md",
-    "회사/유컴패니온/SM/DOMS/2025/2025-02/2025-02-19 플젝.md",
-    "1. Daily/2025/2025-02/2025-02-19.md",
-    "1. Daily/2025/2025-02/2025-02-18.md",
     "회사/유컴패니온/SM/DOMS/2025",
     "회사/유컴패니온/SM/DOMS",
     "회사/이슈/2025/2025-02",
@@ -303,7 +289,6 @@
     "1. Daily/2024/CodeName_Doje/2024-10-27 라이브러리 설명.canvas",
     "Attached file/Pasted image 20241122155119.png",
     "Attached file/Pasted image 20241122155117.png",
-    "Attached file/Pasted image 20241122155004.png",
     "무제 파일.canvas",
     "1. Daily/2024/CodeName_Doje/2024-10-26 깃허브 풀 푸쉬 요약.canvas",
     "1. Daily/2024/CodeName_Doje/매개변수 설명.canvas",

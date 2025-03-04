@@ -6,5 +6,6 @@
   "nativeMenus": false,
   "enabledCssSnippets": [
     "my-snippet"
-  ]
+  ],
+  "showRibbon": true
 }

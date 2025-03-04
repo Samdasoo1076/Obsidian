@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9de170e603c50d78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Daily/2025/2025-03/2025-03-03.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-03-03"
-            }
-          },
-          {
             "id": "8d9f439fdb7c42c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2025/2025-02/2025-02-28 회사.md",
+                "file": "1. Daily/2025/2025-03/2025-03-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-28 회사"
+              "title": "2025-03-04"
+            }
+          },
+          {
+            "id": "9de170e603c50d78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "회사/유컴패니온/2025/2025-03/2025-03-04 회사.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-04 회사"
             }
           },
           {
@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "c2b5431a81b72af2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "회사/이슈/2025/2025-03/❗ Issue 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "❗ Issue 1"
+            }
+          },
+          {
             "id": "d75cdc4bee364e24",
             "type": "leaf",
             "state": {
@@ -61,20 +75,6 @@
               },
               "icon": "lucide-file",
               "title": "❗ Issue 2"
-            }
-          },
-          {
-            "id": "38a94cfeb670640c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "회사/이슈/2025/2025-02/❗ Issue 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "❗ Issue 1"
             }
           },
           {
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "전화번호",
+                "query": "Connect",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +127,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -165,10 +166,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "태그"
             }
           },
           {
@@ -234,8 +237,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "canvas:새 캔버스 만들기": false,
       "graph:그래프 뷰 열기": false,
       "templates:템플릿 삽입": false,
@@ -250,47 +253,49 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9de170e603c50d78",
+  "active": "8d9f439fdb7c42c2",
   "lastOpenFiles": [
-    "1. Daily/2025/2025-02/2025-02-28.md",
-    "1. Daily/2025/2025-03/2025-03-03.md",
-    "1. Daily/2025/2025-03",
+    "회사/유컴패니온/2025/2025-03/2025-03-04 회사.md",
+    "1. Daily/2025/2025-03/2025-03-04.md",
     "회사/유컴패니온/2025/2025-02/2025-02-28 회사.md",
-    "회사/유컴패니온/SI/원주미래산업진흥원/2025/2025-02/2025-02-28 플젝.md",
-    "회사/유컴패니온/SI/원주미래산업진흥원/2025/2025-02/2025-02-27 플젝.md",
-    "1. Daily/2025/2025-02/2025-02-27.md",
     "회사/유컴패니온/2025/2025-02/2025-02-27 회사.md",
     "회사/유컴패니온/2025/2025-02/2025-02-26 회사.md",
+    "회사/유컴패니온/2025/2025-02/2025-02-25 회사.md",
+    "회사/유컴패니온/2025/2025-02/2025-02-24 회사.md",
+    "회사/유컴패니온/SI/원주미래산업진흥원/2025/2025-02/2025-02-28 플젝.md",
+    "회사/유컴패니온/SI/원주미래산업진흥원/2025/2025-02/2025-02-27 플젝.md",
+    "회사/유컴패니온/SM/Connect+/2025/2025-02/2025-02-21 플젝.md",
+    "회사/유컴패니온/SM/DOMS/2025/2025-02/2025-02-24 플젝.md",
+    "1. Daily/2025/2025-03/2025-03-03.md",
+    "1. Daily/2025/2025-02/2025-02-28.md",
+    "1. Daily/2025/2025-02/2025-02-27.md",
+    "회사/이슈/2025/2025-03/❗ Issue 1.md",
+    "Attached file/Pasted image 20250304145537.png",
+    "회사/이슈/2025/2025-02/❗ Issue 2.md",
+    "회사/이슈/2025/2025-03",
+    "회사/이슈/2025/2025-02/❗ Issue 1.md",
+    "템플릿/일상 템플릿.md",
+    "Attached file/Pasted image 20250304122701.png",
+    "Attached file/Connect.bat",
+    "Attached file/connectSSH.bat",
+    "회사/유컴패니온/2025/2025-03",
+    "1. Daily/2025/2025-03",
     "회사/유컴패니온/2025/2025-01/2025-01-09 회사.md",
     "회사/유컴패니온/2025/2025-01/2025-01-07 회사.md",
     "회사/유컴패니온/2024/2024-02/2024-02-16 회사.md",
     "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-09/2024-09-09 플젝.md",
-    "회사/이슈/2025/2025-02/❗ Issue 2.md",
-    "템플릿/일상 템플릿.md",
     "템플릿/이슈 템플릿.md",
     "회사/유컴패니온/SI/원주미래산업진흥원/2025/2025-02/2025-02-25 플젝.md",
-    "회사/이슈/2025/2025-02/❗ Issue 1.md",
     "1. Daily/2025/2025-02/2025-02-26.md",
     "1. Daily/2025/2025-02/2025-02-25.md",
-    "회사/유컴패니온/2025/2025-02/2025-02-25 회사.md",
     "Attached file/Pasted image 20250225120759.png",
-    "키보드/gmk70/맵핑.md",
-    "1. Daily/2025/2025-02/2025-02-22.md",
-    "회사/유컴패니온/SM/DOMS/2025/2025-02/2025-02-24 플젝.md",
-    "회사/유컴패니온/2025/2025-02/2025-02-24 회사.md",
-    "1. Daily/2025/2025-02/2025-02-24.md",
-    "회사/유컴패니온/SM/Connect+/2025/2025-02/2025-02-21 플젝.md",
     "회사/유컴패니온/SM/DOMS/2025/2025-02",
     "Attached file/zuoya_gmk70.layout.json",
     "키보드/gmk70",
     "회사/유컴패니온/SM/DOMS/2025",
     "회사/유컴패니온/SM/DOMS",
-    "회사/이슈/2025/2025-02",
-    "회사/이슈/2025",
-    "회사/이슈",
     "Attached file/Pasted image 20250211135902.png",
     "Attached file/Pasted image 20250211085833.png",
-    "회사/유컴패니온/SM/Connect+/config",
     "Attached file/Pasted image 20250207140518.png",
     "Attached file/Pasted image 20250207140517.png",
     "회사/유컴패니온/SM/Connect+/데이터 흐름도.canvas",
@@ -298,8 +303,6 @@
     "Attached file/Pasted image 20241223085408.png",
     "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-08/Untitled Diagram.svg",
     "1. Daily/2024/CodeName_Doje/2024-10-27 라이브러리 설명.canvas",
-    "Attached file/Pasted image 20241122155119.png",
-    "Attached file/Pasted image 20241122155117.png",
     "무제 파일.canvas",
     "1. Daily/2024/CodeName_Doje/2024-10-26 깃허브 풀 푸쉬 요약.canvas",
     "1. Daily/2024/CodeName_Doje/매개변수 설명.canvas",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2025/2025-03/2025-03-05.md",
+                "file": "1. Daily/2025/2025-03/2025-03-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-05"
+              "title": "2025-03-06"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2025/2025-03/2025-03-05 회사.md",
+                "file": "회사/유컴패니온/2025/2025-03/2025-03-06 회사.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-05 회사"
+              "title": "2025-03-06 회사"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/SM/Connect+/2025/2025-03/2025-03-05 플젝.md",
+                "file": "회사/유컴패니온/SM/Connect+/2025/2025-03/2025-03-06 플젝.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-05 플젝"
+              "title": "2025-03-06 플젝"
             }
           },
           {
@@ -78,17 +78,17 @@
             }
           },
           {
-            "id": "d9f34756bafee7ac",
+            "id": "5f6365794d86b805",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "템플릿/일상 템플릿.md",
+                "file": "회사/유컴패니온/SM/Connect+/config/프로젝트 구조.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "일상 템플릿"
+              "title": "프로젝트 구조"
             }
           }
         ],
@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Connect",
+                "query": "tag:#점심",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -256,15 +256,23 @@
   },
   "active": "9de170e603c50d78",
   "lastOpenFiles": [
+    "회사/유컴패니온/SM/Connect+/2025/2025-03/2025-03-06 플젝.md",
+    "회사/유컴패니온/2025/2025-03/2025-03-06 회사.md",
+    "회사/유컴패니온/SM/Connect+/config/프로젝트 구조.md",
+    "회사/이슈/2025/2025-03/❗ Issue 1.md",
+    "회사/이슈/2025/2025-02/❗ Issue 2.md",
+    "Attached file/Pasted image 20250306102356.png",
+    "Attached file/Pasted image 20250306102313.png",
+    "1. Daily/2025/2025-03/2025-03-06.md",
+    "1. Daily/2025/2025-03/2025-03-03.md",
+    "1. Daily/2025/2025-03/2025-03-05.md",
+    "회사/유컴패니온/2025/2025-03/2025-03-04 회사.md",
+    "회사/유컴패니온/2025/2025-03/2025-03-05 회사.md",
     "회사/유컴패니온/SM/Connect+/2025/2025-03/2025-03-05 플젝.md",
     "회사/유컴패니온/SI/원주미래산업진흥원/2025/2025-02/2025-02-28 플젝.md",
     "회사/유컴패니온/SM/Connect+/2025/2025-03/무제",
     "회사/유컴패니온/SM/Connect+/2025/2025-03",
-    "회사/유컴패니온/2025/2025-03/2025-03-05 회사.md",
-    "1. Daily/2025/2025-03/2025-03-05.md",
-    "1. Daily/2025/2025-03/2025-03-03.md",
     "1. Daily/2025/2025-03/2025-03-04.md",
-    "회사/유컴패니온/2025/2025-03/2025-03-04 회사.md",
     "회사/유컴패니온/2025/2025-02/2025-02-28 회사.md",
     "회사/유컴패니온/2025/2025-02/2025-02-27 회사.md",
     "회사/유컴패니온/2025/2025-02/2025-02-26 회사.md",
@@ -275,9 +283,7 @@
     "회사/유컴패니온/SM/DOMS/2025/2025-02/2025-02-24 플젝.md",
     "1. Daily/2025/2025-02/2025-02-28.md",
     "1. Daily/2025/2025-02/2025-02-27.md",
-    "회사/이슈/2025/2025-03/❗ Issue 1.md",
     "Attached file/Pasted image 20250304145537.png",
-    "회사/이슈/2025/2025-02/❗ Issue 2.md",
     "회사/이슈/2025/2025-03",
     "회사/이슈/2025/2025-02/❗ Issue 1.md",
     "템플릿/일상 템플릿.md",
@@ -287,10 +293,6 @@
     "회사/유컴패니온/2025/2025-03",
     "1. Daily/2025/2025-03",
     "회사/유컴패니온/2025/2025-01/2025-01-09 회사.md",
-    "회사/유컴패니온/2025/2025-01/2025-01-07 회사.md",
-    "회사/유컴패니온/2024/2024-02/2024-02-16 회사.md",
-    "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-09/2024-09-09 플젝.md",
-    "템플릿/이슈 템플릿.md",
     "Attached file/Pasted image 20250225120759.png",
     "회사/유컴패니온/SM/DOMS/2025/2025-02",
     "Attached file/zuoya_gmk70.layout.json",
@@ -301,8 +303,6 @@
     "Attached file/Pasted image 20250207140517.png",
     "회사/유컴패니온/SM/Connect+/데이터 흐름도.canvas",
     "Attached file/Pasted image 20250120165912.png",
-    "Attached file/Pasted image 20241223085408.png",
-    "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-08/Untitled Diagram.svg",
     "1. Daily/2024/CodeName_Doje/2024-10-27 라이브러리 설명.canvas",
     "무제 파일.canvas",
     "1. Daily/2024/CodeName_Doje/2024-10-26 깃허브 풀 푸쉬 요약.canvas",

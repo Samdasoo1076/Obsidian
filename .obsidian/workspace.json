@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2025/2025-03/2025-03-14.md",
+                "file": "1. Daily/2025/2025-03/2025-03-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-14"
+              "title": "2025-03-17"
             }
           },
           {
@@ -27,26 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2025/2025-03/2025-03-14 회사.md",
+                "file": "회사/유컴패니온/2025/2025-03/2025-03-17 회사.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-14 회사"
-            }
-          },
-          {
-            "id": "d75cdc4bee364e24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "회사/유컴패니온/SM/CROI/2025/2025-03/2025-03-14 플젝.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-03-14 플젝"
+              "title": "2025-03-17 회사"
             }
           },
           {
@@ -62,9 +48,37 @@
               "icon": "lucide-file",
               "title": "프로젝트 설정"
             }
+          },
+          {
+            "id": "52ada0d58182ca86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/PromoSense/config/도커.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "도커"
+            }
+          },
+          {
+            "id": "7e8afb6c2526f467",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/PromoSense/2025/2025-03/2025-03-17 플젝.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-17 플젝"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -226,38 +240,43 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d75cdc4bee364e24",
+  "active": "7e8afb6c2526f467",
   "lastOpenFiles": [
-    "회사/유컴패니온/2025/2025-03/2025-03-14 회사.md",
+    "Project/PromoSense/config/도커.md",
+    "회사/유컴패니온/2025/2025-03/2025-03-17 회사.md",
+    "1. Daily/2025/2025-03/2025-03-17.md",
     "회사/유컴패니온/SM/CROI/2025/2025-03/2025-03-14 플젝.md",
-    "1. Daily/2025/2025-03/2025-03-14.md",
-    "회사/유컴패니온/SM/CROI/2025/2025-03/2025-03-13 플젝.md",
+    "회사/유컴패니온/SM/CROI/config/프로젝트 설정.md",
+    "Project/PromoSense/2025/2025-03/2025-03-17 플젝.md",
+    "4. Yealry/회사/2025 회사.md",
+    "4. Yealry/나/2024.md",
+    "4. Yealry/회사/2024 회사.md",
+    "4. Yealry/나/2023.md",
+    "4. Yealry/나/2025.md",
+    "4. Yealry/회사/플젝 사진/건국대/건국대 플젝 기능 개발 사진.md",
+    "4. Yealry/회사/플젝 사진/Connect+/Connect+ 플젝 기능 개발 사진.md",
+    "회사/이슈/2025/2025-03/❗ Issue 1.md",
+    "일상/2024-05-22.md",
+    "OIP.jpg",
+    "Project/PromoSense/config",
+    "Project/PromoSense/2025/2025-03",
+    "Project/PromoSense/2025",
+    "Project/PromoSense",
+    "회사/유컴패니온/2025/2025-03/2025-03-14 회사.md",
     "1. Daily/2025/2025-03/2025-03-03.md",
+    "1. Daily/2025/2025-03/2025-03-14.md",
+    "1. Daily/2025/2025-03/2025-03-04.md",
+    "회사/유컴패니온/SM/CROI/2025/2025-03/2025-03-13 플젝.md",
     "1. Daily/2025/2025-03/2025-03-13.md",
     "회사/유컴패니온/2025/2025-03/2025-03-13 회사.md",
     "회사/유컴패니온/SM/CROI/2025/2025-02/2025-02-19 플젝.md",
-    "회사/유컴패니온/SM/CROI/config/프로젝트 설정.md",
     "Attached file/Pasted image 20250313142054.png",
     "회사/유컴패니온/SM/CROI/config",
     "회사/유컴패니온/SM/SKB/2025/2025-02/2025-02-04 플젝.md",
     "회사/유컴패니온/SM/SKB/2025/2025-01/2025-01-20 플젝.md",
     "회사/이슈/2025/2025-02/❗ Issue 2.md",
-    "회사/유컴패니온/SM/CROI/2025/2025-02/2025-02-24 플젝.md",
-    "회사/유컴패니온/SM/Connect+/2025/2025-03/2025-03-12 플젝.md",
     "회사/유컴패니온/SM/CROI/2025/2025-03",
-    "회사/유컴패니온/SM/Connect+/2025/2025-03/2025-03-13 플젝.md",
-    "회사/유컴패니온/SM/Connect+/2025/2025-03/2025-03-05 플젝.md",
-    "회사/유컴패니온/2025/2025-03/2025-03-04 회사.md",
-    "회사/유컴패니온/2025/2025-03/2025-03-12 회사.md",
-    "1. Daily/2025/2025-03/2025-03-12.md",
-    "1. Daily/2025/2025-03/2025-03-07.md",
     "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-08/Untitled Diagram.svg",
-    "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-09/2024-09-04 플젝.md",
-    "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-08/2024-08-30 플젝.md",
-    "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-10/2024-10-31 플젝.md",
-    "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-11/2024-11-04 플젝.md",
-    "회사/유컴패니온/SM/한양대/2025 한양대 입학처/2024-11/2024-11-05 플젝.md",
-    "1. Daily/2025/2025-03/2025-03-11.md",
     "Attached file/Pasted image 20250311155253.png",
     "Attached file/Pasted image 20250306102356.png",
     "Attached file/Pasted image 20250306102313.png",
@@ -267,13 +286,8 @@
     "회사/이슈/2025/2025-03",
     "Attached file/Pasted image 20250304122701.png",
     "Attached file/Connect.bat",
-    "Attached file/connectSSH.bat",
-    "회사/유컴패니온/2025/2025-03",
-    "1. Daily/2025/2025-03",
     "Attached file/Pasted image 20250225120759.png",
-    "회사/유컴패니온/SM/CROI/2025/2025-02",
     "Attached file/Pasted image 20250211135902.png",
-    "Attached file/Pasted image 20250211085833.png",
     "회사/유컴패니온/SM/Connect+/데이터 흐름도.canvas",
     "1. Daily/2024/CodeName_Doje/2024-10-27 라이브러리 설명.canvas",
     "무제 파일.canvas",

@@ -6,6 +6,7 @@
       "1. Daily",
       "회사",
       "4. Yealry",
+      "Project",
       "내가 풀은 알고리즘",
       "알아두면 쓸데 없는 코딩지식",
       "영어",
@@ -29,7 +30,9 @@
       "Tags",
       "Travel",
       "OIP.jpg",
-      "README.md"
+      "README.md",
+      "Docker",
+      "이력서에 적을만한것"
     ]
   },
   "actionBarOrder": {},

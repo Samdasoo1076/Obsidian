@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2025/2025-03/2025-03-31.md",
+                "file": "1. Daily/2025/2025-04/2025-04-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-31"
+              "title": "2025-04-07"
             }
           },
           {
@@ -27,26 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2025/2025-03/2025-03-31 회사.md",
+                "file": "회사/유컴패니온/2025/2025-04/2025-04-07 회사.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-31 회사"
-            }
-          },
-          {
-            "id": "826dd085a5846e39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "회사/유컴패니온/SM/Connect+/2025/2025-03/2025-03-27 플젝.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-03-27 플젝"
+              "title": "2025-04-07 회사"
             }
           },
           {
@@ -76,9 +62,22 @@
               "icon": "lucide-file",
               "title": "도커"
             }
+          },
+          {
+            "id": "5e98fd011e0bde07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Yealry/나/2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "title": "Files"
             }
           },
           {
@@ -158,7 +157,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "태그"
+              "title": "Tags"
             }
           },
           {
@@ -212,11 +211,22 @@
             "state": {
               "type": "todo",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "6507b87726fc7970",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
               "icon": "checkmark",
               "title": "Todo List"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -224,12 +234,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:빠른 전환기 열기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "graph:그래프 뷰 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
@@ -237,40 +247,43 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "flowershow:Publish with Flowershow": false,
       "obsidian42-brat:BRAT": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "62a2859d1f7e5f57",
+  "active": "8d9f439fdb7c42c2",
   "lastOpenFiles": [
-    "1. Daily/2025/2025-03/2025-03-31.md",
-    "회사/유컴패니온/2025/2025-03/2025-03-11 회사.md",
+    "회사/유컴패니온/2025/2025-04/2025-04-07 회사.md",
+    "1. Daily/2025/2025-04/2025-04-07.md",
+    "4. Yealry/나/2025.md",
+    "템플릿/일상 템플릿.md",
+    "4. Yealry/회사/2025 회사.md",
+    "회사/유컴패니온/2025/2025-04/2025-04-01 회사.md",
+    "1. Daily/2025/2025-04/2025-04-01.md",
+    "회사/유컴패니온/SM/CROI/2025/2025-03/2025-03-14 플젝.md",
+    "회사/유컴패니온/2025/2025-03/2025-03-27 회사.md",
+    "회사/유컴패니온/2025/2025-04",
+    "1. Daily/2025/2025-03/2025-03-03.md",
+    "1. Daily/2025/2025-04",
+    "1. Daily/2025/2025-03/2025-03-27.md",
+    "1. Daily/2025/2025-03/Untitled.md",
+    "Project/PromoSense/config/도커.md",
     "회사/유컴패니온/2025/2025-03/2025-03-31 회사.md",
     "회사/유컴패니온/2025/2025-03/2025-03-28 회사.md",
+    "1. Daily/2025/2025-03/2025-03-31.md",
     "1. Daily/2025/2025-03/2025-03-28.md",
-    "회사/유컴패니온/2025/2025-03/2025-03-27 회사.md",
-    "1. Daily/2025/2025-03/2025-03-03.md",
-    "1. Daily/2025/2025-03/2025-03-27.md",
     "회사/유컴패니온/SM/Connect+/2025/2025-03/2025-03-27 플젝.md",
+    "일상/2024-05-22.md",
+    "README.md",
     "회사/유컴패니온/SM/CROI/config/프로젝트 설정.md",
-    "Project/PromoSense/config/도커.md",
     "회사/유컴패니온/SM/Connect+/2025/2025-03/2025-03-26 플젝.md",
     "회사/유컴패니온/2025/2025-03/2025-03-04 회사.md",
     "회사/유컴패니온/2025/2025-03/2025-03-26 회사.md",
     "1. Daily/2025/2025-03/2025-03-26.md",
     "회사/유컴패니온/SM/Connect+/2025/2025-03/2025-03-25 플젝.md",
-    "회사/유컴패니온/2025/2025-03/2025-03-25 회사.md",
-    "1. Daily/2025/2025-03/2025-03-25.md",
     "Attached file/Pasted image 20250325165656.png",
     "Attached file/Pasted image 20250325165639.png",
     "Attached file/Pasted image 20250325134727.png",
-    "회사/유컴패니온/SM/Connect+/2025/2025-03/2025-03-24 플젝.md",
-    "회사/유컴패니온/2025/2025-03/2025-03-24 회사.md",
-    "1. Daily/2025/2025-03/2025-03-24.md",
-    "회사/유컴패니온/SM/Connect+/2025/2025-03/2025-03-20 플젝.md",
-    "회사/유컴패니온/2025/2025-03/2025-03-21 회사.md",
-    "1. Daily/2025/2025-03/2025-03-21.md",
-    "Project/PromoSense/2025/2025-03/2025-03-21 플젝.md",
-    "Project/PromoSense/2025/2025-03/2025-03-18 플젝.md",
     "키보드/sinc rev 6",
     "Attached file/Pasted image 20250318102345.png",
     "Attached file/Pasted image 20250318102318.png",
@@ -286,8 +299,6 @@
     "Attached file/Pasted image 20250311155253.png",
     "Attached file/Pasted image 20250306102356.png",
     "회사/유컴패니온/SM/Connect+/2025/2025-03/무제",
-    "회사/유컴패니온/SM/Connect+/2025/2025-03",
-    "회사/이슈/2025/2025-03",
     "회사/유컴패니온/SM/Connect+/데이터 흐름도.canvas",
     "1. Daily/2024/CodeName_Doje/2024-10-27 라이브러리 설명.canvas",
     "무제 파일.canvas",

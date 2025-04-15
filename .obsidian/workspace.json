@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2025/2025-04/2025-04-14.md",
+                "file": "1. Daily/2025/2025-04/2025-04-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-14"
+              "title": "2025-04-15"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2025/2025-04/2025-04-14 회사.md",
+                "file": "회사/유컴패니온/2025/2025-04/2025-04-15 회사.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-14 회사"
+              "title": "2025-04-15 회사"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/SI/효성hbs/2025/2025-04/2025-04-14 플젝.md",
+                "file": "회사/유컴패니온/SI/효성hbs/2025/2025-04/2025-04-15 플젝.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-14 플젝"
+              "title": "2025-04-15 플젝"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,10 +223,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ef886638421a0429",
+  "active": "8fff560e7c93797e",
   "lastOpenFiles": [
+    "회사/유컴패니온/2025/2025-04/2025-04-15 회사.md",
+    "1. Daily/2025/2025-04/2025-04-15.md",
+    "회사/유컴패니온/SI/효성hbs/2025/2025-04/2025-04-15 플젝.md",
     "회사/유컴패니온/SI/효성hbs/2025/2025-04/2025-04-14 플젝.md",
     "회사/유컴패니온/2025/2025-04/2025-04-14 회사.md",
+    "1. Daily/2025/2025-04/2025-04-01.md",
     "1. Daily/2025/2025-04/2025-04-14.md",
     "템플릿/회사 템플릿.md",
     "템플릿/프로젝트 템플릿.md",
@@ -239,7 +243,6 @@
     "1. Daily/2025/2025-04/2025-04-11.md",
     "회사/유컴패니온/2025/2025-04/2025-04-11 회사.md",
     "회사/유컴패니온/2025/2025-04/2025-04-01 회사.md",
-    "1. Daily/2025/2025-04/2025-04-01.md",
     "1. Daily/2025/2025-04/2025-04-09.md",
     "회사/유컴패니온/SI/원주미래산업진흥원/2025/2025-04/2025-04-09 플젝.md",
     "회사/유컴패니온/SI/원주미래산업진흥원/2025/2025-04/2025-04-10 플젝.md",
@@ -255,14 +258,11 @@
     "Attached file/Pasted image 20250410145510.png",
     "Attached file/Pasted image 20250410145112.png",
     "Attached file/Pasted image 20250410145026.png",
-    "이력서에 적을만한것/경력 기술서 _2025-04-08.md",
-    "Server/ubuntu/Untitled.md",
     "Attached file/Pasted image 20250410140341.png",
     "Attached file/Pasted image 20250410140255.png",
     "Attached file/Pasted image 20250410133553.png",
     "Attached file/Pasted image 20250410133528.png",
     "회사/유컴패니온/SI/원주미래산업진흥원/2025/2025-04",
-    "회사/유컴패니온/2025/2025-04/2025-04-04 회사.md",
     "회사/유컴패니온/SM/중랑구",
     "기업 코딩 테스트/세이프닥",
     "기업 코딩 테스트",

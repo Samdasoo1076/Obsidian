@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "2025-04-15 회사"
             }
-          },
-          {
-            "id": "8fff560e7c93797e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "이력서에 적을만한것/이지민_포트폴리오.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "이지민_포트폴리오"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,11 +209,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8fff560e7c93797e",
+  "active": "ef886638421a0429",
   "lastOpenFiles": [
-    "회사/유컴패니온/SI/효성hbs/2025/2025-04/2025-04-15 플젝.md",
-    "이력서에 적을만한것/이지민_포트폴리오.pdf",
+    "portfolio/이지민_포트폴리오.pdf",
+    "README.md",
     "회사/유컴패니온/2025/2025-04/2025-04-15 회사.md",
+    "portfolio",
+    "이력서에 적을만한것/이지민_포트폴리오.pdf",
+    "회사/유컴패니온/SI/효성hbs/2025/2025-04/2025-04-15 플젝.md",
     "1. Daily/2025/2025-04/2025-04-15.md",
     "회사/유컴패니온/SI/효성hbs/2025/2025-04/2025-04-14 플젝.md",
     "회사/유컴패니온/2025/2025-04/2025-04-14 회사.md",
@@ -251,7 +242,6 @@
     "회사/유컴패니온/SI/원주미래산업진흥원/2025/2025-01/2025-01-02 플젝.md",
     "회사/이슈/2025/2025-02/❗ Issue 1.md",
     "회사/유컴패니온/2025/2025-04/2025-04-08 회사.md",
-    "Server/ubuntu/디스크 용량 확인.md",
     "Attached file/Pasted image 20250410145547.png",
     "Attached file/Pasted image 20250410145510.png",
     "Attached file/Pasted image 20250410145112.png",
@@ -267,7 +257,6 @@
     "1. Daily/2025/2025-04/무제",
     "Attached file/Pasted image 20250408164543.png",
     "Attached file/Pasted image 20250408164652.png",
-    "회사/유컴패니온/2025/2025-04",
     "회사/유컴패니온/SM/Connect+/데이터 흐름도.canvas",
     "1. Daily/2024/CodeName_Doje/2024-10-27 라이브러리 설명.canvas",
     "무제 파일.canvas",

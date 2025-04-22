@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "이력서에 적을만한것/web 포트폴리오/엔지니어 이지민.md",
+                "file": "자기 소개 사이트/2025/2025-04/2025-04-22 자기소개.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "엔지니어 이지민"
+              "title": "2025-04-22 자기소개"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -237,7 +237,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a38171e518400e9d",
+  "active": "f902b4ed1bceec8b",
   "lastOpenFiles": [
     "자기 소개 사이트/2025/2025-04/2025-04-22 자기소개.md",
     "이력서에 적을만한것/web 포트폴리오/엔지니어 이지민.md",

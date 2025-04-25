@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2025/2025-04/2025-04-24.md",
+                "file": "1. Daily/2025/2025-04/2025-04-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-24"
+              "title": "2025-04-25"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/2025/2025-04/2025-04-24 회사.md",
+                "file": "회사/유컴패니온/2025/2025-04/2025-04-25 회사.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-24 회사"
+              "title": "2025-04-25 회사"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/유컴패니온/SI/원주미래산업진흥원/2025/2025-04/2025-04-24 플젝.md",
+                "file": "회사/유컴패니온/SI/효성hbs/2025/2025-04/2025-04-25 플젝.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-24 플젝"
+              "title": "2025-04-25 플젝"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "이력서에 적을만한것/web 포트폴리오/엔지니어 이지민.md",
+                "file": "회사/유컴패니온/SI/효성hbs/config/서버 세팅.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "엔지니어 이지민"
+              "title": "서버 세팅"
             }
           },
           {
@@ -69,15 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server/ubuntu/SSH 비밀번호 접속.md",
+                "file": "Server/ubuntu/자동 스크립트 만들기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSH 비밀번호 접속"
+              "title": "자동 스크립트 만들기"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -250,17 +251,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a7b7b8b38413bb54",
+  "active": "f902b4ed1bceec8b",
   "lastOpenFiles": [
-    "회사/유컴패니온/2025/2025-04/2025-04-24 회사.md",
+    "Server/ubuntu/자동 스크립트 만들기.md",
+    "회사/유컴패니온/SI/효성hbs/2025/2025-04/2025-04-25 플젝.md",
+    "회사/유컴패니온/SI/효성hbs/config/서버 세팅.md",
+    "이력서에 적을만한것/web 포트폴리오/엔지니어 이지민.md",
+    "회사/유컴패니온/SI/효성hbs/config",
+    "회사/유컴패니온/2025/2025-04/2025-04-25 회사.md",
+    "템플릿/issue-number.txt.md",
     "Server/ubuntu/SSH 비밀번호 접속.md",
+    "1. Daily/2025/2025-04/2025-04-25.md",
+    "회사/유컴패니온/2025/2025-04/2025-04-24 회사.md",
     "회사/유컴패니온/SI/원주미래산업진흥원/2025/2025-04/2025-04-24 플젝.md",
+    "1. Daily/2025/2025-04/2025-04-01.md",
     "1. Daily/2025/2025-04/2025-04-24.md",
     "자기 소개 사이트/2025/2025-04/2025-04-22 자기소개.md",
-    "이력서에 적을만한것/web 포트폴리오/엔지니어 이지민.md",
     "이력서에 적을만한것/경력 기술서/경력_ 대학입학처.md",
     "회사/유컴패니온/2025/2025-04/2025-04-23 회사.md",
-    "1. Daily/2025/2025-04/2025-04-01.md",
     "1. Daily/2025/2025-04/2025-04-23.md",
     "회사/유컴패니온/2025/2025-04/2025-04-22 회사.md",
     "1. Daily/2025/2025-04/2025-04-22.md",
@@ -277,17 +285,10 @@
     "회사/유컴패니온/2025/2025-04/2025-04-21 회사.md",
     "1. Daily/2025/2025-04/2025-04-21.md",
     "회사/유컴패니온/2025/2025-04/2025-04-17 회사.md",
-    "1. Daily/2025/2025-04/2025-04-17.md",
-    "회사/유컴패니온/SI/효성hbs/2025/2025-04/2025-04-16 플젝.md",
-    "회사/유컴패니온/2025/2025-04/2025-04-16 회사.md",
-    "1. Daily/2025/2025-04/2025-04-16.md",
-    "회사/유컴패니온/SI/효성hbs/2025/2025-04/2025-04-15 플젝.md",
-    "회사/유컴패니온/2025/2025-04/2025-04-15 회사.md",
     "portfolio/LJM_portfolio.pdf",
     "portfolio",
     "이력서에 적을만한것/이지민_포트폴리오.pdf",
     "회사/유컴패니온/SI/효성hbs/2025/2025-04",
-    "회사/유컴패니온/SI/효성hbs/2025",
     "Attached file/Pasted image 20250410145547.png",
     "Attached file/Pasted image 20250410145510.png",
     "Attached file/Pasted image 20250410145112.png",

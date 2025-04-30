@@ -1,3 +1,4 @@
+sudo adduser -aG sudo 유저이름
 sudo  adduser 유저이름
 sudo passwd  유저 이름
 

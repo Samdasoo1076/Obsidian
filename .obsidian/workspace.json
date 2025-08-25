@@ -13,72 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2025/2025-08/2025-08-16.md",
+                "file": "1. Daily/2025/2025-08/2025-08-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-16"
+              "title": "2025-08-25"
             }
           },
           {
-            "id": "4a8af1355607c344",
+            "id": "22cc7cf7c8f02bf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기업 면접/에스티이지/예상 질문 답변.md",
+                "file": "회사/가온아이/2025/2025-08/2025-08-25 회사.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "예상 질문 답변"
-            }
-          },
-          {
-            "id": "1228f19ac4682d70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "회사/유컴패니온/SI/원주미래산업진흥원/config/운영서버 정보.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "운영서버 정보"
-            }
-          },
-          {
-            "id": "4b1ebfdda60ca60f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프로젝트/원주미래산업진흥원/2025/2025-08/2025-08-19 플젝.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-19 플젝"
-            }
-          },
-          {
-            "id": "b2fb326f0f327785",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프로젝트/원주미래산업진흥원/2025/2025-08/2025-08-18 플젝.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-18 플젝"
+              "title": "2025-08-25 회사"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,8 +170,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "todo"
             }
           },
           {
@@ -225,9 +183,19 @@
               "icon": "checkmark",
               "title": "Todo List"
             }
+          },
+          {
+            "id": "d7766b4ffde01e0d",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -235,6 +203,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -243,21 +212,28 @@
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "notion-like-tables:Create loom": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "flowershow:Publish with Flowershow": false,
-      "obsidian42-brat:BRAT": false,
-      "periodic-notes:Open today": false
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "4b1ebfdda60ca60f",
+  "active": "22cc7cf7c8f02bf7",
   "lastOpenFiles": [
-    "프로젝트/원주미래산업진흥원/2025/2025-08/2025-08-18 플젝.md",
+    "1. Daily/2025/2025-08/2025-08-25.md",
+    "회사/가온아이/2025/2025-08/2025-08-25 회사.md",
+    "회사/가온아이/2025/2025-08",
+    "회사/가온아이/숙지",
+    "회사/가온아이/2025",
+    "회사/가온아이",
+    "1. Daily/2025/2025-08/2025-08-16.md",
+    "기업 면접/에스티이지/예상 질문 답변.md",
     "프로젝트/원주미래산업진흥원/2025/2025-08/2025-08-19 플젝.md",
+    "프로젝트/원주미래산업진흥원/2025/2025-08/2025-08-18 플젝.md",
     "회사/유컴패니온/SI/원주미래산업진흥원/config/운영서버 정보.md",
     "프로젝트/원주미래산업진흥원/2025/2025-08/2025-08-15 플젝.md",
-    "1. Daily/2025/2025-08/2025-08-16.md",
     "1. Daily/2025/2025-08/2025-08-08.md",
     "프로젝트/원주미래산업진흥원/2025/2025-08/2025-08-12 플젝.md",
     "Server/ubuntu/swapfile.md",
@@ -266,7 +242,6 @@
     "프로젝트/원주미래산업진흥원/2025/2025-08",
     "프로젝트/원주미래산업진흥원/2025/2025-06/2025-06-24 플젝.md",
     "프로젝트/원주미래산업진흥원/2025/2025-06/2025-06-10 플젝.md",
-    "기업 면접/에스티이지/예상 질문 답변.md",
     "회사/유컴패니온/2025/2025-08/2025-08-12 회사.md",
     "회사/유컴패니온/2025/2025-08/2025-08-12",
     "회사/유컴패니온/2025/2025-08",
@@ -284,13 +259,7 @@
     "회사/유컴패니온/2025/2025-03/2025-03-31 회사.md",
     "회사/유컴패니온/2025/2025-03/2025-03-28 회사.md",
     "회사/유컴패니온/2025/2025-03/2025-03-27 회사.md",
-    "회사/유컴패니온/2025/2025-03/2025-03-26 회사.md",
-    "회사/유컴패니온/2025/2025-03/2025-03-25 회사.md",
     "프로젝트/원주미래산업진흥원/2025/2025-06",
-    "프로젝트/원주미래산업진흥원/2025",
-    "프로젝트/원주미래산업진흥원",
-    "프로젝트/2025/무제",
-    "프로젝트/2025",
     "Attached file/Pasted image 20250523154404.png",
     "Attached file/Pasted image 20250410145547.png",
     "Attached file/Pasted image 20250410145510.png",

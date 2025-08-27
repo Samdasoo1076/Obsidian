@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
+            "id": "0717fe9a963dc7ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily/2025/2025-08/2025-08-27.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-27"
+            }
+          },
+          {
             "id": "824f73a8fc1bd9ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/가온아이/2025/2025-08/2025-08-26 회사.md",
+                "file": "회사/가온아이/2025/2025-08/2025-08-27 회사.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-26 회사"
+              "title": "2025-08-27 회사"
             }
           },
           {
@@ -27,16 +41,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/가온아이/Domain/프로세스/인증/인증방식(글).md",
+                "file": "회사/가온아이/Domain/프로세스/페이지/페이지 그리기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "인증방식(글)"
+              "title": "페이지 그리기"
+            }
+          },
+          {
+            "id": "6ed4a5597787e563",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "회사/가온아이/Domain/프로세스/결재/화면 그리기.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "화면 그리기"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -220,15 +246,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1652bbd4dea6a06c",
+  "active": "6ed4a5597787e563",
   "lastOpenFiles": [
-    "회사/가온아이/2025/2025-08/2025-08-26 회사.md",
+    "회사/가온아이/2025/2025-08/2025-08-27 회사.md",
+    "회사/가온아이/Domain/프로세스/결재/화면 그리기.md",
     "회사/가온아이/Domain/프로세스/인증/인증방식 프로세스.md",
+    "회사/가온아이/Domain/프로세스/인증/인증방식(글).md",
+    "회사/가온아이/Domain/프로세스/페이지/페이지 그리기.md",
+    "회사/가온아이/Domain/프로세스/페이지",
+    "회사/가온아이/Domain/프로세스/인증/인증방식 유지 확인.md",
+    "1. Daily/2025/2025-08/2025-08-27.md",
+    "회사/가온아이/2025/2025-08/2025-08-26 회사.md",
     "회사/가온아이/2025/2025-08/2025-08-25 회사.md",
     "Attached file/Pasted image 20250826173915.png",
     "회사/가온아이/Domain/커리큘럼.md",
     "Attached file/Pasted image 20250826173850.png",
-    "회사/가온아이/Domain/프로세스/인증/인증방식(글).md",
     "1. Daily/2025/2025-08/2025-08-26.md",
     "Attached file/Pasted Image 20250826135818_094.png",
     "회사/가온아이/Domain/프로세스/인증/Untitled Diagram.svg",
@@ -248,7 +280,6 @@
     "회사/가온아이/2025/2025-08",
     "회사/가온아이/숙지",
     "회사/가온아이/2025",
-    "회사/가온아이",
     "1. Daily/2025/2025-08/2025-08-16.md",
     "기업 면접/에스티이지/예상 질문 답변.md",
     "프로젝트/원주미래산업진흥원/2025/2025-08/2025-08-19 플젝.md",
@@ -261,10 +292,6 @@
     "OIP.jpg",
     "프로젝트/원주미래산업진흥원/2025/2025-06/2025-06-25 플젝.md",
     "프로젝트/원주미래산업진흥원/2025/2025-06/2025-06-24 플젝.md",
-    "프로젝트/원주미래산업진흥원/2025/2025-06/2025-06-10 플젝.md",
-    "회사/유컴패니온/2025/2025-08/2025-08-12 회사.md",
-    "기업 면접/케이엘씨엔에스/면접 질문.md",
-    "1. Daily/2025/2025-06/2025-06-25.md",
     "Attached file/Pasted image 20250625203931.png",
     "Attached file/Pasted image 20250523154404.png",
     "회사/유컴패니온/SM/Connect+/데이터 흐름도.canvas",

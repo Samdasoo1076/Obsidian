@@ -15,5 +15,6 @@
   "useCustomShortcut": false,
   "highlightFormat": "\nPage:{{page}}\n<span style=\"color:rgb({{color}})\">■</span>:{{highlightText}}\nComment:{{comment}}\n[📌]({{link}})\n^{{id}}\n",
   "setup": 1724996301694,
-  "chatGTPModel": "gpt-4"
+  "chatGTPModel": "gpt-4",
+  "uid": "00p01100t01000s00s01001201100o01001100t"
 }

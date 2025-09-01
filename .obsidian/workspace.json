@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2025/2025-08/2025-08-29.md",
+                "file": "1. Daily/2025/2025-09/2025-09-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-29"
+              "title": "2025-09-01"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/가온아이/2025/2025-08/2025-08-29 회사.md",
+                "file": "회사/가온아이/2025/2025-09/2025-09-01 회사.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-29 회사"
+              "title": "2025-09-01 회사"
             }
           },
           {
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/가온아이/Domain/프로세스/결재/결재 통.md",
+                "file": "회사/가온아이/2025/2025-09/2025-09-01 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "결재 통 의 백링크"
+              "title": "2025-09-01 회사 의 백링크"
             }
           },
           {
@@ -182,12 +182,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/가온아이/Domain/프로세스/결재/결재 통.md",
+                "file": "회사/가온아이/2025/2025-09/2025-09-01 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "결재 통 의 나가는 링크"
+              "title": "2025-09-01 회사 의 나가는 링크"
             }
           },
           {
@@ -196,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/가온아이/Domain/프로세스/결재/결재 통.md",
+                "file": "회사/가온아이/2025/2025-09/2025-09-01 회사.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "결재 통 의 개요"
+              "title": "2025-09-01 회사 의 개요"
             }
           },
           {
@@ -262,13 +262,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cae8266ef1be0f8d",
+  "active": "824f73a8fc1bd9ee",
   "lastOpenFiles": [
-    "회사/가온아이/Domain/프로세스/결재/전자 결재 글.md",
-    "회사/가온아이/Domain/프로세스/결재/결재 통.md",
-    "회사/가온아이/2025/2025-08/2025-08-29 회사.md",
+    "Attached file/Pasted image 20250901141718.png",
     "회사/가온아이/Domain/프로세스/결재/전자 결재.md",
+    "회사/가온아이/2025/2025-09/2025-09-01 회사.md",
+    "회사/가온아이/Domain/프로세스/결재/결재 통.md",
     "회사/가온아이/Domain/프로세스/포탈/포탈.md",
+    "1. Daily/2025/2025-09/2025-09-01.md",
+    "1. Daily/2025/2025-09",
+    "회사/가온아이/2025/2025-08/2025-08-29 회사.md",
+    "회사/가온아이/2025/2025-09",
+    "1. Daily/2025/2025-08/2025-08-29.md",
+    "회사/가온아이/Domain/프로세스/결재/전자 결재 글.md",
     "회사/가온아이/Domain/프로세스/결재/UserInfo_ApprovalG.md",
     "회사/가온아이/Domain/프로세스/결재/Untitled mindmap.md",
     "회사/가온아이/Domain/프로세스/결재/무제.md",
@@ -277,7 +283,6 @@
     "회사/가온아이/공부",
     "회사/가온아이/2025/2025-08/2025-08-28 회사.md",
     "회사/가온아이/Domain/프로세스/결재/화면 그리기.md",
-    "1. Daily/2025/2025-08/2025-08-29.md",
     "1. Daily/2025/2025-08/2025-08-28.md",
     "회사/가온아이/Domain/프로세스/포탈",
     "회사/가온아이/보고/주간보고/20250828 주간보고.md",
@@ -295,16 +300,11 @@
     "Attached file/Pasted image 20250826173915.png",
     "회사/가온아이/Domain/커리큘럼.md",
     "Attached file/Pasted image 20250826173850.png",
-    "1. Daily/2025/2025-08/2025-08-26.md",
     "Attached file/Pasted Image 20250826135818_094.png",
     "회사/가온아이/Domain/프로세스/인증/Untitled Diagram.svg",
-    "무제.md",
     "Untitled Diagram.svg",
     "무제",
-    "회사/가온아이/Domain/프로세스/결재/1. 기안함.md",
     "회사/가온아이/Domain/프로세스/인증",
-    "회사/가온아이/Domain/프로세스/결재",
-    "회사/가온아이/Domain/프로세스",
     "Attached file/Pasted image 20250826103005.png",
     "Attached file/Pasted image 20250826103003.png",
     "OIP.jpg",

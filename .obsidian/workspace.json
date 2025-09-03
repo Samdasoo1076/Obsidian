@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2025/2025-09/2025-09-02.md",
+                "file": "1. Daily/2025/2025-09/2025-09-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-02"
+              "title": "2025-09-03"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/가온아이/2025/2025-09/2025-09-02 회사.md",
+                "file": "회사/가온아이/2025/2025-09/2025-09-03 회사.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-02 회사"
+              "title": "2025-09-03 회사"
             }
           },
           {
@@ -45,6 +45,16 @@
               },
               "icon": "excalidraw-icon",
               "title": "포탈"
+            }
+          },
+          {
+            "id": "5e27d72a1135e7e5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           }
         ],
@@ -137,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/가온아이/2025/2025-09/2025-09-02 회사.md",
+                "file": "회사/가온아이/2025/2025-09/2025-09-03 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-09-02 회사 의 백링크"
+              "title": "2025-09-03 회사 의 백링크"
             }
           },
           {
@@ -156,12 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/가온아이/2025/2025-09/2025-09-02 회사.md",
+                "file": "회사/가온아이/2025/2025-09/2025-09-03 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-09-02 회사 의 나가는 링크"
+              "title": "2025-09-03 회사 의 나가는 링크"
             }
           },
           {
@@ -170,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/가온아이/2025/2025-09/2025-09-02 회사.md",
+                "file": "회사/가온아이/2025/2025-09/2025-09-03 회사.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-09-02 회사 의 개요"
+              "title": "2025-09-03 회사 의 개요"
             }
           },
           {
@@ -238,11 +248,14 @@
   },
   "active": "824f73a8fc1bd9ee",
   "lastOpenFiles": [
+    "Attached file/Pasted image 20250903160450.png",
+    "회사/가온아이/2025/2025-09/2025-09-03 회사.md",
+    "1. Daily/2025/2025-09/2025-09-03.md",
+    "회사/가온아이/2025/2025-09/2025-09-02 회사.md",
+    "1. Daily/2025/2025-09/2025-09-02.md",
     "회사/가온아이/Domain/프로세스/포탈/포탈.md",
     "회사/가온아이/Domain/프로세스/결재/전자 결재.md",
     "회사/가온아이/Domain/프로세스/결재/결재 통.md",
-    "회사/가온아이/2025/2025-09/2025-09-02 회사.md",
-    "1. Daily/2025/2025-09/2025-09-02.md",
     "1. Daily/2025/2025-09/2025-09-01.md",
     "회사/가온아이/2025/2025-09/2025-09-01 회사.md",
     "Attached file/전자결재 소스코드 분석.pptx",
@@ -271,9 +284,6 @@
     "회사/가온아이/Domain/프로세스/인증/인증방식 프로세스.md",
     "회사/가온아이/Domain/프로세스/인증/인증방식(글).md",
     "회사/가온아이/Domain/프로세스/페이지",
-    "회사/가온아이/Domain/프로세스/인증/인증방식 유지 확인.md",
-    "회사/가온아이/2025/2025-08/2025-08-26 회사.md",
-    "회사/가온아이/2025/2025-08/2025-08-25 회사.md",
     "Attached file/Pasted image 20250826173915.png",
     "Attached file/Pasted image 20250826173850.png",
     "Attached file/Pasted Image 20250826135818_094.png",

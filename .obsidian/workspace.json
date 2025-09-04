@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/가온아이/Domain/프로세스/결재/대본.md",
+                "file": "회사/가온아이/2025/2025-09/2025-09-04 회사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "대본 의 백링크"
+              "title": "2025-09-04 회사 의 백링크"
             }
           },
           {
@@ -180,12 +180,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/가온아이/Domain/프로세스/결재/대본.md",
+                "file": "회사/가온아이/2025/2025-09/2025-09-04 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "대본 의 나가는 링크"
+              "title": "2025-09-04 회사 의 나가는 링크"
             }
           },
           {
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/가온아이/Domain/프로세스/결재/대본.md",
+                "file": "회사/가온아이/2025/2025-09/2025-09-04 회사.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "대본 의 개요"
+              "title": "2025-09-04 회사 의 개요"
             }
           },
           {
@@ -260,10 +260,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "09ec54a67e4ac858",
+  "active": "0717fe9a963dc7ce",
   "lastOpenFiles": [
-    "회사/가온아이/2025/2025-09/2025-09-04 회사.md",
+    "Attached file/전자결재 소스코드 분석(수정) 1.pptx",
     "1. Daily/2025/2025-09/2025-09-04.md",
+    "회사/가온아이/2025/2025-09/2025-09-04 회사.md",
     "회사/가온아이/Domain/프로세스/결재/대본.md",
     "회사/가온아이/Domain/커리큘럼.md",
     "회사/가온아이/2025/2025-09/2025-09-03 회사.md",
@@ -295,7 +296,6 @@
     "1. Daily/2025/2025-08/2025-08-28.md",
     "회사/가온아이/Domain/프로세스/포탈",
     "회사/가온아이/보고/주간보고/20250828 주간보고.md",
-    "회사/가온아이/2025/2025-08/2025-08-27 회사.md",
     "회사/가온아이/보고/월간보고",
     "회사/가온아이/보고",
     "회사/가온아이/보고/주간보고",

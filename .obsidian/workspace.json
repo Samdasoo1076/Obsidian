@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2025/2025-09/2025-09-04.md",
+                "file": "1. Daily/2025/2025-09/2025-09-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-04"
+              "title": "2025-09-05"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/가온아이/2025/2025-09/2025-09-04 회사.md",
+                "file": "회사/가온아이/2025/2025-09/2025-09-05 회사.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-04 회사"
+              "title": "2025-09-05 회사"
             }
           },
           {
@@ -63,16 +63,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/가온아이/Domain/프로세스/결재/대본.md",
+                "file": "회사/가온아이/Domain/프로세스/결재/프로시저.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "대본"
+              "title": "프로시저"
+            }
+          },
+          {
+            "id": "19105bfcac742c32",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "무제.base",
+                "viewName": "표"
+              },
+              "icon": "lucide-table",
+              "title": "무제"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 242.5
   },
   "right": {
     "id": "0d382cb1c34bf15f",
@@ -161,9 +174,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회사/가온아이/2025/2025-09/2025-09-04 회사.md",
+                "file": "무제.base",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -171,7 +184,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-09-04 회사 의 백링크"
+              "title": "무제 의 백링크"
             }
           },
           {
@@ -180,12 +193,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/가온아이/2025/2025-09/2025-09-04 회사.md",
+                "file": "무제.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-09-04 회사 의 나가는 링크"
+              "title": "무제 의 나가는 링크"
             }
           },
           {
@@ -194,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회사/가온아이/2025/2025-09/2025-09-04 회사.md",
+                "file": "무제.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-09-04 회사 의 개요"
+              "title": "무제 의 개요"
             }
           },
           {
@@ -234,7 +247,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -260,12 +273,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0717fe9a963dc7ce",
+  "active": "6b86d96fa2a51c4a",
   "lastOpenFiles": [
-    "Attached file/전자결재 소스코드 분석(수정) 1.pptx",
-    "1. Daily/2025/2025-09/2025-09-04.md",
-    "회사/가온아이/2025/2025-09/2025-09-04 회사.md",
+    "무제 1.base",
+    "무제 2.base",
+    "무제.base",
+    "회사/가온아이/2025/2025-09/2025-09-05 회사.md",
+    "회사/가온아이/Domain/프로세스/포탈/포탈.md",
+    "회사/가온아이/Domain/프로세스/결재/프로시저.md",
     "회사/가온아이/Domain/프로세스/결재/대본.md",
+    "1. Daily/2025/2025-09/2025-09-05.md",
+    "회사/가온아이/2025/2025-09/2025-09-04 회사.md",
+    "1. Daily/2025/2025-09/2025-09-04.md",
+    "Attached file/전자결재 소스코드 분석(수정) 1.pptx",
     "회사/가온아이/Domain/커리큘럼.md",
     "회사/가온아이/2025/2025-09/2025-09-03 회사.md",
     "1. Daily/2025/2025-09/2025-09-03.md",
@@ -273,7 +293,6 @@
     "Attached file/Pasted image 20250903160450.png",
     "회사/가온아이/2025/2025-09/2025-09-02 회사.md",
     "1. Daily/2025/2025-09/2025-09-02.md",
-    "회사/가온아이/Domain/프로세스/포탈/포탈.md",
     "회사/가온아이/Domain/프로세스/결재/전자 결재.md",
     "회사/가온아이/Domain/프로세스/결재/결재 통.md",
     "1. Daily/2025/2025-09/2025-09-01.md",
@@ -292,14 +311,8 @@
     "회사/가온아이/공부/plsql.md",
     "회사/가온아이/공부",
     "회사/가온아이/2025/2025-08/2025-08-28 회사.md",
-    "회사/가온아이/Domain/프로세스/결재/화면 그리기.md",
-    "1. Daily/2025/2025-08/2025-08-28.md",
     "회사/가온아이/Domain/프로세스/포탈",
-    "회사/가온아이/보고/주간보고/20250828 주간보고.md",
     "회사/가온아이/보고/월간보고",
-    "회사/가온아이/보고",
-    "회사/가온아이/보고/주간보고",
-    "회사/가온아이/Domain/프로세스/페이지",
     "Attached file/Pasted image 20250826173915.png",
     "Attached file/Pasted image 20250826173850.png",
     "Attached file/Pasted Image 20250826135818_094.png",

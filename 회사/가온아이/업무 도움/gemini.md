@@ -1,0 +1,1 @@
+ gemini --include-directories C:\NET8Curr\net-8-curr\Kaoni.ezStandard.Core\

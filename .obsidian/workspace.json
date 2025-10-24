@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2025/2025-10/2025-10-23.md",
+                "file": "1. Daily/2025/2025-10/2025-10-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-23"
+              "title": "2025-10-24"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/가온아이/2025/2025-10/2025-10-23 회사.md",
+                "file": "회사/가온아이/2025/2025-10/2025-10-24 회사.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-23 회사"
+              "title": "2025-10-24 회사"
             }
           },
           {
@@ -240,8 +240,14 @@
   },
   "active": "76d14af61e413c02",
   "lastOpenFiles": [
-    "1. Daily/2025/2025-10/2025-10-23.md",
+    "Attached file/Pasted image 20251024170529.png",
+    "Attached file/Pasted image 20251024170442.png",
+    "Attached file/결재G 양식(기안하기) 모든 필드와 값 가져오기.txt",
+    "Attached file/Pasted image 20251024142109.png",
+    "1. Daily/2025/2025-10/2025-10-24.md",
+    "회사/가온아이/2025/2025-10/2025-10-24 회사.md",
     "회사/가온아이/2025/2025-10/2025-10-23 회사.md",
+    "1. Daily/2025/2025-10/2025-10-23.md",
     "회사/가온아이/공부/mssql 서버 프로파일러.md",
     "Attached file/Pasted image 20251023160935.png",
     "Attached file/Pasted image 20251023160909.png",
@@ -270,21 +276,16 @@
     "프로젝트/빌곰/2025",
     "프로젝트/빌곰",
     "회사/가온아이/업무 도움/gemini.md",
-    "회사/가온아이/2025/2025-09/2025-09-29 회사.md",
     "회사/가온아이/업무 도움",
-    "1. Daily/2025/2025-10/2025-10-01.md",
     "1. Daily/2025/2025-10",
     "1. Daily/2025/2025-10-01",
     "회사/가온아이/2025/2025-10",
     "Attached file/~$자산 관리대장_무형_이지민.xlsx",
-    "회사/가온아이/Domain/프로세스/결재 연동",
     "Attached file/Pasted image 20250903160450.png",
     "Attached file/Pasted image 20250901141718.png",
     "Attached file/Pasted image 20250826173915.png",
     "Attached file/Pasted image 20250826173850.png",
     "Attached file/Pasted Image 20250826135818_094.png",
-    "회사/가온아이/Domain/프로세스/인증/Untitled Diagram.svg",
-    "Untitled Diagram.svg",
     "회사/유컴패니온/SM/Connect+/데이터 흐름도.canvas",
     "1. Daily/2024/CodeName_Doje/2024-10-27 라이브러리 설명.canvas",
     "무제 파일.canvas",

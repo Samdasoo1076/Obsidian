@@ -1,0 +1,39 @@
+(function() {
+    console.clear();
+    console.log("--------- 한글 에디터의 모든 필드와 값 가져오기 (공식 API 기반) ---------");
+
+    try {
+        // 1. 개발자 가이드에서 확인된 GetFieldList() 함수를 호출합니다.
+        // 이 함수는 문서 내의 모든 필드(누름틀) 이름 목록을 배열(Array)로 반환합니다.
+        const allFieldNames = message.GetFieldList();
+
+        if (Array.isArray(allFieldNames) && allFieldNames.length > 0) {
+            console.log(`[성공] 문서의 모든 필드 목록 (${allFieldNames.length}개)을 찾았습니다:`, allFieldNames);
+            console.log("--------------------------------------------------");
+
+            const fieldData = {};
+            allFieldNames.forEach(fieldName => {
+                try {
+                    // 각 필드 이름을 사용하여 실제 값을 가져옵니다.
+                    const value = message.GetFieldText(fieldName);
+                    fieldData[fieldName] = value;
+                    console.log(`'${fieldName}':`, value);
+                } catch (e) {
+                    console.error(`'${fieldName}' 필드 값을 가져오는 중 오류:`, e.message);
+                }
+            });
+
+            console.log("--------------------------------------------------");
+            console.log("전체 필드 데이터를 객체 형태로 보려면 아래를 확인하세요.");
+            console.log(fieldData);
+
+        } else if (Array.isArray(allFieldNames) && allFieldNames.length === 0) {
+            console.warn("[정보] GetFieldList() 함수는 성공했으나, 현재 문서에는 필드가 하나도 없습니다.");
+        } else {
+            console.error("[실패] GetFieldList() 함수가 예상대로 동작하지 않았습니다. API 문서를 다시 확인해야 할 수 있습니다.");
+            console.error("반환된 값:", allFieldNames);
+        }
+    } catch (e) {
+        console.error("[치명적 오류] message.GetFieldList() 함수 실행 중 에러가 발생했습니다.", e);
+    }
+})();

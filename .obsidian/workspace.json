@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2025/2025-11/2025-11-06.md",
+                "file": "1. Daily/2025/2025-11/2025-11-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-06"
+              "title": "2025-11-07"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/가온아이/2025/2025-11/2025-11-06 회사.md",
+                "file": "회사/가온아이/2025/2025-11/2025-11-07 회사.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-06 회사"
+              "title": "2025-11-07 회사"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/가온아이/프로젝트/연암대학교/2025/2025-11/2025-11-06 프로젝트.md",
+                "file": "회사/가온아이/프로젝트/연암대학교/2025/2025-11/2025-11-07 프로젝트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-06 프로젝트"
+              "title": "2025-11-07 프로젝트"
             }
           },
           {
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#2025-10",
+                "query": "tag:#2025-",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -254,11 +254,17 @@
   },
   "active": "8e9695443a018abd",
   "lastOpenFiles": [
+    "회사/가온아이/2025/2025-11/2025-11-07 회사.md",
+    "회사/가온아이/Domain/웹 한글 기안기/웹 한글 필드.md",
+    "회사/가온아이/프로젝트/연암대학교/2025/2025-11/2025-11-07 프로젝트.md",
+    "Attached file/Pasted image 20251107142202.png",
+    "Attached file/Pasted image 20251107141820.png",
+    "Attached file/Pasted image 20251107141715.png",
+    "1. Daily/2025/2025-11/2025-11-07.md",
+    "회사/가온아이/프로젝트/연암대학교/2025/2025-11/2025-11-06 프로젝트.md",
     "회사/가온아이/2025/2025-11/2025-11-06 회사.md",
     "1. Daily/2025/2025-11/2025-11-06.md",
     "1. Daily/2025/2025-11/2025-11-05.md",
-    "회사/가온아이/프로젝트/연암대학교/2025/2025-11/2025-11-06 프로젝트.md",
-    "회사/가온아이/Domain/웹 한글 기안기/웹 한글 필드.md",
     "회사/가온아이/프로젝트/연암대학교/2025/2025-11/2025-11-05 프로젝트.md",
     "회사/가온아이/2025/2025-11/2025-11-05 회사.md",
     "Attached file/Pasted image 20251105143203.png",
@@ -283,22 +289,15 @@
     "Attached file/Pasted image 20251031155846.png",
     "1. Daily/2025/2025-10/2025-10-29.md",
     "회사/가온아이/2025/2025-10/2025-10-30 회사.md",
-    "1. Daily/2025/2025-10/2025-10-30.md",
     "1. Daily/2025/2025-10/2025-11",
-    "회사/가온아이/프로젝트/연암대학교/2025/2025-10/2025-10-30 프로젝트.md",
     "Attached file/Pasted image 20251030163143.png",
     "Attached file/Pasted image 20251030163132.png",
     "Attached file/Pasted image 20251030163124.png",
-    "Attached file/Pasted image 20251030163117 1.png",
-    "Attached file/Pasted image 20251030163117.png",
-    "Attached file/Pasted image 20251030163107.png",
     "회사/가온아이/Domain/웹 한글 기안기",
     "회사/가온아이/프로젝트/연암대학교/2025/2025-10",
     "회사/가온아이/프로젝트/연암대학교/2025",
     "회사/가온아이/프로젝트/연암대학교",
     "회사/가온아이/프로젝트",
-    "회사/가온아이/2025/2025-10/2025-10-29 회사.md",
-    "프로젝트/빌곰/2025/2025-10/2025-10-13 플젝.md",
     "무제 3.base",
     "회사/유컴패니온/SM/Connect+/데이터 흐름도.canvas",
     "1. Daily/2024/CodeName_Doje/2024-10-27 라이브러리 설명.canvas",

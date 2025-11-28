@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,12 +200,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/가온아이/프로젝트/연암대학교/2025/2025-11/2025-11-28 프로젝트.md",
+                "file": "회사/가온아이/2025/2025-11/2025-11-28 회사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-11-28 프로젝트 의 나가는 링크"
+              "title": "2025-11-28 회사 의 나가는 링크"
             }
           },
           {
@@ -279,10 +279,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8e9695443a018abd",
+  "active": "824f73a8fc1bd9ee",
   "lastOpenFiles": [
-    "회사/가온아이/2025/2025-11/2025-11-28 회사.md",
     "회사/가온아이/프로젝트/연암대학교/2025/2025-11/2025-11-28 프로젝트.md",
+    "회사/가온아이/2025/2025-11/2025-11-28 회사.md",
     "1. Daily/2025/2025-11/2025-11-28.md",
     "회사/가온아이/2025/2025-11/2025-11-27 회사.md",
     "1. Daily/2025/2025-11/2025-11-27.md",

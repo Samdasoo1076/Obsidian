@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,12 +172,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "자기소개 사이트 게시글/도제학교를 해야하는 이유 – 내가 직접 겪어보니 확실히 느낀 점.md",
+                "file": "회사/가온아이/프로젝트/연암대학교/2025/2025-12/2025-12-02 프로젝트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "도제학교를 해야하는 이유 – 내가 직접 겪어보니 확실히 느낀 점 의 나가는 링크"
+              "title": "2025-12-02 프로젝트 의 나가는 링크"
             }
           },
           {
@@ -251,10 +251,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c75e8b7c5742291c",
+  "active": "8e9695443a018abd",
   "lastOpenFiles": [
-    "회사/가온아이/프로젝트/연암대학교/2025/2025-11/2025-11-28 프로젝트.md",
     "자기소개 사이트 게시글/도제학교를 해야하는 이유 – 내가 직접 겪어보니 확실히 느낀 점.md",
+    "회사/가온아이/프로젝트/연암대학교/2025/2025-11/2025-11-28 프로젝트.md",
     "자기소개 사이트 게시글",
     "무제 4.base",
     "무제.base",

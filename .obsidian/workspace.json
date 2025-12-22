@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2025/2025-12/2025-12-12.md",
+                "file": "1. Daily/2025/2025-12/2025-12-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-12"
+              "title": "2025-12-22"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/가온아이/2025/2025-12/2025-12-12 회사.md",
+                "file": "회사/가온아이/2025/2025-12/2025-12-22 회사.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-12 회사"
+              "title": "2025-12-22 회사"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/가온아이/프로젝트/연암대학교/2025/2025-12/2025-12-12 프로젝트.md",
+                "file": "회사/가온아이/프로젝트/한국타이어/Setting/양식 제작 메뉴얼.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-12 프로젝트"
+              "title": "양식 제작 메뉴얼"
             }
           },
           {
@@ -61,6 +61,20 @@
               },
               "icon": "lucide-file",
               "title": "도제학교를 해야하는 이유 – 내가 직접 겪어보니 확실히 느낀 점"
+            }
+          },
+          {
+            "id": "a4b77fd406764954",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "회사/가온아이/프로젝트/한국타이어/2025/2025-12/2025-12-22 프로젝트.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-22 프로젝트"
             }
           }
         ],
@@ -172,12 +186,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회사/가온아이/프로젝트/연암대학교/2025/2025-12/2025-12-12 프로젝트.md",
+                "file": "회사/가온아이/프로젝트/한국타이어/Setting/양식 제작 메뉴얼.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-12-12 프로젝트 의 나가는 링크"
+              "title": "양식 제작 메뉴얼 의 나가는 링크"
             }
           },
           {
@@ -211,12 +225,22 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-ghost",
+              "title": "todo"
             }
           },
           {
             "id": "d7766b4ffde01e0d",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "d10757070bb5cc2d",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -226,7 +250,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -243,23 +267,35 @@
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "notion-like-tables:Create loom": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "flowershow:Publish with Flowershow": false,
-      "obsidian42-brat:BRAT": false,
-      "periodic-notes:Open today": false
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "8e9695443a018abd",
   "lastOpenFiles": [
-    "Attached file/Pasted image 20251212140433.png",
-    "회사/가온아이/프로젝트/연암대학교/2025/2025-12/2025-12-11 프로젝트.md",
-    "회사/가온아이/프로젝트/연암대학교/2025/2025-12/2025-12-12 프로젝트.md",
-    "Attached file/Pasted image 20251212140351.png",
+    "회사/가온아이/프로젝트/한국타이어/2025/2025-12/2025-12-22 프로젝트.md",
     "자기소개 사이트 게시글/도제학교를 해야하는 이유 – 내가 직접 겪어보니 확실히 느낀 점.md",
+    "회사/가온아이/프로젝트/한국타이어/Setting/양식 제작 메뉴얼.md",
+    "회사/가온아이/2025/2025-12/2025-12-22 회사.md",
+    "회사/가온아이/프로젝트/한국타이어/Setting/각종 주소.md",
+    "회사/가온아이/프로젝트/한국타이어/Setting/Infomation.md",
+    "1. Daily/2025/2025-12/2025-12-22.md",
+    "회사/가온아이/프로젝트/한국타이어/2025/2025-12/무제",
+    "회사/가온아이/프로젝트/한국타이어/2025/2025-12",
+    "회사/가온아이/프로젝트/연암대학교/2025/2025-12/2025-12-12 프로젝트.md",
+    "회사/가온아이/프로젝트/한국타이어/Setting",
+    "회사/가온아이/프로젝트/한국타이어/2025",
+    "회사/가온아이/프로젝트/한국타이어",
+    "회사/가온아이/프로젝트/연암대학교/무제.md",
     "회사/가온아이/2025/2025-12/2025-12-12 회사.md",
     "1. Daily/2025/2025-12/2025-12-12.md",
+    "Attached file/Pasted image 20251212140433.png",
+    "회사/가온아이/프로젝트/연암대학교/2025/2025-12/2025-12-11 프로젝트.md",
+    "Attached file/Pasted image 20251212140351.png",
     "회사/가온아이/2025/2025-12/2025-12-11 회사.md",
     "1. Daily/2025/2025-12/2025-12-11.md",
     "회사/가온아이/프로젝트/연암대학교/2025/2025-12/2025-12-10 프로젝트.md",
@@ -277,28 +313,16 @@
     "1. Daily/2025/2025-12/2025-12-08.md",
     "회사/가온아이/프로젝트/연암대학교/2025/2025-12/2025-12-05 프로젝트.md",
     "회사/가온아이/프로젝트/연암대학교/2025/2025-12/2025-12-04 프로젝트.md",
-    "1. Daily/2025/2025-12/2025-12-05.md",
-    "회사/가온아이/2025/2025-12/2025-12-05 회사.md",
-    "회사/가온아이/2025/2025-12/2025-12-04 회사.md",
-    "1. Daily/2025/2025-12/2025-12-04.md",
-    "회사/가온아이/프로젝트/연암대학교/2025/2025-12/2025-12-03 프로젝트.md",
-    "회사/가온아이/2025/2025-12/2025-12-03 회사.md",
     "회사/가온아이/2025/2025-12/무제",
     "자기소개 사이트 게시글",
     "무제 4.base",
     "무제.base",
     "Attached file/Pasted image 20251202155359.png",
     "회사/가온아이/프로젝트/연암대학교/2025/2025-12",
-    "회사/가온아이/2025/2025-12",
-    "1. Daily/2025/2025-12",
     "Attached file/Pasted image 20251126102647.png",
     "Attached file/Pasted image 20251114131033.png",
     "Attached file/Pasted image 20251114131022.png",
     "Attached file/Pasted image 20251107142202.png",
-    "Attached file/Pasted image 20251107141820.png",
-    "회사/가온아이/프로젝트/연암대학교/2025/2025-11",
-    "회사/가온아이/2025/2025-11",
-    "1. Daily/2025/2025-11",
     "회사/유컴패니온/SM/Connect+/데이터 흐름도.canvas",
     "1. Daily/2024/CodeName_Doje/2024-10-27 라이브러리 설명.canvas",
     "무제 파일.canvas",

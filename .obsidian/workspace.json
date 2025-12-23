@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2025/2025-12/2025-12-22.md",
+                "file": "1. Daily/2025/2025-12/2025-12-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-22"
+              "title": "2025-12-23"
             }
           },
           {
@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회사/가온아이/2025/2025-12/2025-12-22 회사.md",
+                "file": "회사/가온아이/2025/2025-12/2025-12-23 회사.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-22 회사"
+              "title": "2025-12-23 회사"
+            }
+          },
+          {
+            "id": "a4b77fd406764954",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "회사/가온아이/프로젝트/한국타이어/2025/2025-12/2025-12-23 프로젝트.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-23 프로젝트"
             }
           },
           {
@@ -62,23 +76,9 @@
               "icon": "lucide-file",
               "title": "도제학교를 해야하는 이유 – 내가 직접 겪어보니 확실히 느낀 점"
             }
-          },
-          {
-            "id": "a4b77fd406764954",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "회사/가온아이/프로젝트/한국타이어/2025/2025-12/2025-12-22 프로젝트.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-22 프로젝트"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -267,24 +267,27 @@
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "notion-like-tables:Create loom": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "flowershow:Publish with Flowershow": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "8e9695443a018abd",
   "lastOpenFiles": [
-    "회사/가온아이/프로젝트/한국타이어/2025/2025-12/2025-12-22 프로젝트.md",
-    "자기소개 사이트 게시글/도제학교를 해야하는 이유 – 내가 직접 겪어보니 확실히 느낀 점.md",
+    "회사/가온아이/프로젝트/한국타이어/2025/2025-12/2025-12-23 프로젝트.md",
     "회사/가온아이/프로젝트/한국타이어/Setting/양식 제작 메뉴얼.md",
+    "회사/가온아이/2025/2025-12/2025-12-23 회사.md",
+    "1. Daily/2025/2025-12/2025-12-23.md",
+    "회사/가온아이/프로젝트/한국타이어/2025/2025-12/2025-12-22 프로젝트.md",
+    "회사/가온아이/프로젝트/한국타이어/2025/2025-12/무제",
     "회사/가온아이/2025/2025-12/2025-12-22 회사.md",
+    "1. Daily/2025/2025-12/2025-12-22.md",
+    "자기소개 사이트 게시글/도제학교를 해야하는 이유 – 내가 직접 겪어보니 확실히 느낀 점.md",
     "회사/가온아이/프로젝트/한국타이어/Setting/각종 주소.md",
     "회사/가온아이/프로젝트/한국타이어/Setting/Infomation.md",
-    "1. Daily/2025/2025-12/2025-12-22.md",
-    "회사/가온아이/프로젝트/한국타이어/2025/2025-12/무제",
     "회사/가온아이/프로젝트/한국타이어/2025/2025-12",
     "회사/가온아이/프로젝트/연암대학교/2025/2025-12/2025-12-12 프로젝트.md",
     "회사/가온아이/프로젝트/한국타이어/Setting",
@@ -310,9 +313,6 @@
     "Attached file/Pasted image 20251209161947.png",
     "회사/가온아이/프로젝트/연암대학교/2025/2025-12/2025-12-08 프로젝트.md",
     "회사/가온아이/2025/2025-12/2025-12-08 회사.md",
-    "1. Daily/2025/2025-12/2025-12-08.md",
-    "회사/가온아이/프로젝트/연암대학교/2025/2025-12/2025-12-05 프로젝트.md",
-    "회사/가온아이/프로젝트/연암대학교/2025/2025-12/2025-12-04 프로젝트.md",
     "회사/가온아이/2025/2025-12/무제",
     "자기소개 사이트 게시글",
     "무제 4.base",
